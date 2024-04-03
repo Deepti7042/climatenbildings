@@ -1,0 +1,7202 @@
+[
+    {
+      "Year": 2022,
+      "Month": 6,
+      "Province": "SK",
+      "City": "Prince Albert",
+      "Temperature": 30.3,
+      "Snowfall": 0,
+      "Precipitation": 177.5
+    },
+    {
+      "Year": 2023,
+      "Month": 8,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -8.2,
+      "Snowfall": 0,
+      "Precipitation": 127.4
+    },
+    {
+      "Year": 2021,
+      "Month": 12,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 34.9,
+      "Snowfall": 167.5,
+      "Precipitation": 71.0
+    },
+    {
+      "Year": 2022,
+      "Month": 4,
+      "Province": "NB",
+      "City": "Moncton",
+      "Temperature": -9.3,
+      "Snowfall": 0,
+      "Precipitation": 183.3
+    },
+    {
+      "Year": 2017,
+      "Month": 1,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": 22.9,
+      "Snowfall": 144.0,
+      "Precipitation": 30.8
+    },
+    {
+      "Year": 2019,
+      "Month": 2,
+      "Province": "SK",
+      "City": "Prince Albert",
+      "Temperature": 13.9,
+      "Snowfall": 139.1,
+      "Precipitation": 207.5
+    },
+    {
+      "Year": 2018,
+      "Month": 6,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": -39.4,
+      "Snowfall": 0,
+      "Precipitation": 202.6
+    },
+    {
+      "Year": 2019,
+      "Month": 4,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 9.2,
+      "Snowfall": 0,
+      "Precipitation": 173.3
+    },
+    {
+      "Year": 2021,
+      "Month": 5,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 21.4,
+      "Snowfall": 0,
+      "Precipitation": 65.1
+    },
+    {
+      "Year": 2014,
+      "Month": 12,
+      "Province": "SK",
+      "City": "Prince Albert",
+      "Temperature": -35.1,
+      "Snowfall": 59.6,
+      "Precipitation": 27.4
+    },
+    {
+      "Year": 2019,
+      "Month": 3,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": -29.9,
+      "Snowfall": 0,
+      "Precipitation": 107.4
+    },
+    {
+      "Year": 2021,
+      "Month": 2,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": 19.7,
+      "Snowfall": 26.0,
+      "Precipitation": 227.9
+    },
+    {
+      "Year": 2021,
+      "Month": 10,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": -2.8,
+      "Snowfall": 0,
+      "Precipitation": 149.0
+    },
+    {
+      "Year": 2017,
+      "Month": 11,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": -40.0,
+      "Snowfall": 0,
+      "Precipitation": 234.1
+    },
+    {
+      "Year": 2022,
+      "Month": 3,
+      "Province": "SK",
+      "City": "Saskatoon",
+      "Temperature": 29.7,
+      "Snowfall": 0,
+      "Precipitation": 4.1
+    },
+    {
+      "Year": 2017,
+      "Month": 11,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": 4.4,
+      "Snowfall": 0,
+      "Precipitation": 52.4
+    },
+    {
+      "Year": 2019,
+      "Month": 2,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 12.7,
+      "Snowfall": 168.0,
+      "Precipitation": 177.1
+    },
+    {
+      "Year": 2023,
+      "Month": 2,
+      "Province": "MB",
+      "City": "Steinbach",
+      "Temperature": -26.8,
+      "Snowfall": 116.6,
+      "Precipitation": 220.0
+    },
+    {
+      "Year": 2016,
+      "Month": 11,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 22.5,
+      "Snowfall": 0,
+      "Precipitation": 130.0
+    },
+    {
+      "Year": 2016,
+      "Month": 3,
+      "Province": "ON",
+      "City": "Hamilton",
+      "Temperature": -3.8,
+      "Snowfall": 0,
+      "Precipitation": 158.5
+    },
+    {
+      "Year": 2023,
+      "Month": 9,
+      "Province": "SK",
+      "City": "Prince Albert",
+      "Temperature": -0.7,
+      "Snowfall": 0,
+      "Precipitation": 245.0
+    },
+    {
+      "Year": 2023,
+      "Month": 2,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -7.5,
+      "Snowfall": 166.1,
+      "Precipitation": 177.8
+    },
+    {
+      "Year": 2022,
+      "Month": 6,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": -26.3,
+      "Snowfall": 0,
+      "Precipitation": 235.0
+    },
+    {
+      "Year": 2014,
+      "Month": 6,
+      "Province": "QC",
+      "City": "Montreal",
+      "Temperature": -8.9,
+      "Snowfall": 0,
+      "Precipitation": 68.4
+    },
+    {
+      "Year": 2016,
+      "Month": 6,
+      "Province": "ON",
+      "City": "Hamilton",
+      "Temperature": 23.9,
+      "Snowfall": 0,
+      "Precipitation": 173.1
+    },
+    {
+      "Year": 2022,
+      "Month": 2,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 3.6,
+      "Snowfall": 135.9,
+      "Precipitation": 115.3
+    },
+    {
+      "Year": 2017,
+      "Month": 9,
+      "Province": "MB",
+      "City": "Steinbach",
+      "Temperature": 18.5,
+      "Snowfall": 0,
+      "Precipitation": 8.7
+    },
+    {
+      "Year": 2015,
+      "Month": 9,
+      "Province": "AB",
+      "City": "Lethbridge",
+      "Temperature": -25.1,
+      "Snowfall": 0,
+      "Precipitation": 54.7
+    },
+    {
+      "Year": 2022,
+      "Month": 5,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": 38.4,
+      "Snowfall": 0,
+      "Precipitation": 125.7
+    },
+    {
+      "Year": 2014,
+      "Month": 7,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -26.8,
+      "Snowfall": 0,
+      "Precipitation": 123.1
+    },
+    {
+      "Year": 2018,
+      "Month": 10,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 18.2,
+      "Snowfall": 0,
+      "Precipitation": 62.5
+    },
+    {
+      "Year": 2021,
+      "Month": 12,
+      "Province": "BC",
+      "City": "Surrey",
+      "Temperature": -22.6,
+      "Snowfall": 154.9,
+      "Precipitation": 206.1
+    },
+    {
+      "Year": 2014,
+      "Month": 1,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": -8.5,
+      "Snowfall": 199.2,
+      "Precipitation": 132.5
+    },
+    {
+      "Year": 2022,
+      "Month": 5,
+      "Province": "SK",
+      "City": "Prince Albert",
+      "Temperature": -37.8,
+      "Snowfall": 0,
+      "Precipitation": 167.5
+    },
+    {
+      "Year": 2022,
+      "Month": 11,
+      "Province": "BC",
+      "City": "Surrey",
+      "Temperature": 5.6,
+      "Snowfall": 0,
+      "Precipitation": 81.5
+    },
+    {
+      "Year": 2017,
+      "Month": 12,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": 20.9,
+      "Snowfall": 259.0,
+      "Precipitation": 23.1
+    },
+    {
+      "Year": 2022,
+      "Month": 3,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": -6.0,
+      "Snowfall": 0,
+      "Precipitation": 207.8
+    },
+    {
+      "Year": 2022,
+      "Month": 5,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": 11.2,
+      "Snowfall": 0,
+      "Precipitation": 235.2
+    },
+    {
+      "Year": 2017,
+      "Month": 7,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": -28.4,
+      "Snowfall": 0,
+      "Precipitation": 34.5
+    },
+    {
+      "Year": 2019,
+      "Month": 12,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 22.6,
+      "Snowfall": 291.8,
+      "Precipitation": 210.7
+    },
+    {
+      "Year": 2015,
+      "Month": 1,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 34.5,
+      "Snowfall": 285.1,
+      "Precipitation": 114.7
+    },
+    {
+      "Year": 2020,
+      "Month": 9,
+      "Province": "ON",
+      "City": "Ottawa",
+      "Temperature": -0.7,
+      "Snowfall": 0,
+      "Precipitation": 209.9
+    },
+    {
+      "Year": 2021,
+      "Month": 4,
+      "Province": "QC",
+      "City": "Montreal",
+      "Temperature": -34.0,
+      "Snowfall": 0,
+      "Precipitation": 180.5
+    },
+    {
+      "Year": 2019,
+      "Month": 7,
+      "Province": "AB",
+      "City": "Lethbridge",
+      "Temperature": 14.0,
+      "Snowfall": 0,
+      "Precipitation": 130.1
+    },
+    {
+      "Year": 2014,
+      "Month": 3,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": 30.2,
+      "Snowfall": 0,
+      "Precipitation": 101.7
+    },
+    {
+      "Year": 2022,
+      "Month": 12,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -8.4,
+      "Snowfall": 249.9,
+      "Precipitation": 59.7
+    },
+    {
+      "Year": 2018,
+      "Month": 6,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": -23.0,
+      "Snowfall": 0,
+      "Precipitation": 30.2
+    },
+    {
+      "Year": 2021,
+      "Month": 4,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 31.2,
+      "Snowfall": 0,
+      "Precipitation": 228.7
+    },
+    {
+      "Year": 2014,
+      "Month": 11,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": -33.9,
+      "Snowfall": 0,
+      "Precipitation": 150.8
+    },
+    {
+      "Year": 2017,
+      "Month": 4,
+      "Province": "QC",
+      "City": "Laval",
+      "Temperature": 20.6,
+      "Snowfall": 0,
+      "Precipitation": 240.0
+    },
+    {
+      "Year": 2023,
+      "Month": 6,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -36.6,
+      "Snowfall": 0,
+      "Precipitation": 43.3
+    },
+    {
+      "Year": 2021,
+      "Month": 9,
+      "Province": "ON",
+      "City": "Toronto",
+      "Temperature": 39.9,
+      "Snowfall": 0,
+      "Precipitation": 139.6
+    },
+    {
+      "Year": 2017,
+      "Month": 3,
+      "Province": "BC",
+      "City": "Victoria",
+      "Temperature": -16.1,
+      "Snowfall": 0,
+      "Precipitation": 19.7
+    },
+    {
+      "Year": 2022,
+      "Month": 5,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": -22.6,
+      "Snowfall": 0,
+      "Precipitation": 9.7
+    },
+    {
+      "Year": 2016,
+      "Month": 1,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": -17.0,
+      "Snowfall": 35.8,
+      "Precipitation": 39.4
+    },
+    {
+      "Year": 2019,
+      "Month": 1,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": 32.3,
+      "Snowfall": 293.6,
+      "Precipitation": 140.9
+    },
+    {
+      "Year": 2020,
+      "Month": 3,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": -23.9,
+      "Snowfall": 0,
+      "Precipitation": 205.7
+    },
+    {
+      "Year": 2022,
+      "Month": 6,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -21.0,
+      "Snowfall": 0,
+      "Precipitation": 69.6
+    },
+    {
+      "Year": 2017,
+      "Month": 11,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -30.2,
+      "Snowfall": 0,
+      "Precipitation": 212.3
+    },
+    {
+      "Year": 2018,
+      "Month": 9,
+      "Province": "ON",
+      "City": "Toronto",
+      "Temperature": 27.7,
+      "Snowfall": 0,
+      "Precipitation": 39.2
+    },
+    {
+      "Year": 2019,
+      "Month": 6,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 16.8,
+      "Snowfall": 0,
+      "Precipitation": 55.5
+    },
+    {
+      "Year": 2021,
+      "Month": 6,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": -17.3,
+      "Snowfall": 0,
+      "Precipitation": 237.1
+    },
+    {
+      "Year": 2021,
+      "Month": 8,
+      "Province": "NB",
+      "City": "Moncton",
+      "Temperature": -37.9,
+      "Snowfall": 0,
+      "Precipitation": 118.4
+    },
+    {
+      "Year": 2017,
+      "Month": 3,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": -15.7,
+      "Snowfall": 0,
+      "Precipitation": 38.3
+    },
+    {
+      "Year": 2022,
+      "Month": 4,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": 19.1,
+      "Snowfall": 0,
+      "Precipitation": 56.5
+    },
+    {
+      "Year": 2023,
+      "Month": 12,
+      "Province": "QC",
+      "City": "Laval",
+      "Temperature": -23.0,
+      "Snowfall": 293.2,
+      "Precipitation": 42.6
+    },
+    {
+      "Year": 2016,
+      "Month": 6,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": 30.2,
+      "Snowfall": 0,
+      "Precipitation": 171.3
+    },
+    {
+      "Year": 2016,
+      "Month": 8,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -30.9,
+      "Snowfall": 0,
+      "Precipitation": 73.2
+    },
+    {
+      "Year": 2015,
+      "Month": 3,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": -23.7,
+      "Snowfall": 0,
+      "Precipitation": 77.1
+    },
+    {
+      "Year": 2023,
+      "Month": 6,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": -2.4,
+      "Snowfall": 0,
+      "Precipitation": 92.6
+    },
+    {
+      "Year": 2020,
+      "Month": 4,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": -3.1,
+      "Snowfall": 0,
+      "Precipitation": 1.1
+    },
+    {
+      "Year": 2015,
+      "Month": 7,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -27.2,
+      "Snowfall": 0,
+      "Precipitation": 139.3
+    },
+    {
+      "Year": 2016,
+      "Month": 1,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": -36.4,
+      "Snowfall": 22.3,
+      "Precipitation": 172.3
+    },
+    {
+      "Year": 2020,
+      "Month": 11,
+      "Province": "NL",
+      "City": "Corner Brook",
+      "Temperature": -31.0,
+      "Snowfall": 0,
+      "Precipitation": 193.3
+    },
+    {
+      "Year": 2021,
+      "Month": 7,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": 15.7,
+      "Snowfall": 0,
+      "Precipitation": 132.3
+    },
+    {
+      "Year": 2019,
+      "Month": 12,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": -30.8,
+      "Snowfall": 274.9,
+      "Precipitation": 156.4
+    },
+    {
+      "Year": 2018,
+      "Month": 3,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": -33.2,
+      "Snowfall": 0,
+      "Precipitation": 16.8
+    },
+    {
+      "Year": 2018,
+      "Month": 11,
+      "Province": "BC",
+      "City": "Victoria",
+      "Temperature": -34.1,
+      "Snowfall": 0,
+      "Precipitation": 229.8
+    },
+    {
+      "Year": 2016,
+      "Month": 1,
+      "Province": "QC",
+      "City": "Montreal",
+      "Temperature": -20.2,
+      "Snowfall": 13.4,
+      "Precipitation": 207.8
+    },
+    {
+      "Year": 2021,
+      "Month": 7,
+      "Province": "QC",
+      "City": "Quebec City",
+      "Temperature": 4.3,
+      "Snowfall": 0,
+      "Precipitation": 145.6
+    },
+    {
+      "Year": 2015,
+      "Month": 1,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": -3.8,
+      "Snowfall": 231.7,
+      "Precipitation": 69.1
+    },
+    {
+      "Year": 2021,
+      "Month": 6,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 5.2,
+      "Snowfall": 0,
+      "Precipitation": 66.6
+    },
+    {
+      "Year": 2019,
+      "Month": 12,
+      "Province": "AB",
+      "City": "Lethbridge",
+      "Temperature": 24.0,
+      "Snowfall": 222.5,
+      "Precipitation": 150.6
+    },
+    {
+      "Year": 2015,
+      "Month": 4,
+      "Province": "SK",
+      "City": "Saskatoon",
+      "Temperature": -32.1,
+      "Snowfall": 0,
+      "Precipitation": 4.0
+    },
+    {
+      "Year": 2022,
+      "Month": 1,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -36.4,
+      "Snowfall": 84.9,
+      "Precipitation": 88.0
+    },
+    {
+      "Year": 2014,
+      "Month": 4,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": -1.4,
+      "Snowfall": 0,
+      "Precipitation": 131.0
+    },
+    {
+      "Year": 2021,
+      "Month": 9,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": 23.6,
+      "Snowfall": 0,
+      "Precipitation": 201.2
+    },
+    {
+      "Year": 2014,
+      "Month": 9,
+      "Province": "NB",
+      "City": "Fredericton",
+      "Temperature": -39.9,
+      "Snowfall": 0,
+      "Precipitation": 198.7
+    },
+    {
+      "Year": 2018,
+      "Month": 5,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": 14.4,
+      "Snowfall": 0,
+      "Precipitation": 45.3
+    },
+    {
+      "Year": 2014,
+      "Month": 10,
+      "Province": "BC",
+      "City": "Surrey",
+      "Temperature": 19.3,
+      "Snowfall": 0,
+      "Precipitation": 88.0
+    },
+    {
+      "Year": 2020,
+      "Month": 2,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -32.1,
+      "Snowfall": 232.7,
+      "Precipitation": 105.1
+    },
+    {
+      "Year": 2017,
+      "Month": 8,
+      "Province": "AB",
+      "City": "Edmonton",
+      "Temperature": 18.7,
+      "Snowfall": 0,
+      "Precipitation": 134.0
+    },
+    {
+      "Year": 2022,
+      "Month": 11,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": 11.6,
+      "Snowfall": 0,
+      "Precipitation": 118.3
+    },
+    {
+      "Year": 2018,
+      "Month": 12,
+      "Province": "QC",
+      "City": "Gatineau",
+      "Temperature": 34.2,
+      "Snowfall": 79.4,
+      "Precipitation": 50.2
+    },
+    {
+      "Year": 2019,
+      "Month": 9,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": -3.0,
+      "Snowfall": 0,
+      "Precipitation": 162.4
+    },
+    {
+      "Year": 2019,
+      "Month": 2,
+      "Province": "SK",
+      "City": "Saskatoon",
+      "Temperature": -6.0,
+      "Snowfall": 120.9,
+      "Precipitation": 4.9
+    },
+    {
+      "Year": 2017,
+      "Month": 10,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": -10.6,
+      "Snowfall": 0,
+      "Precipitation": 236.4
+    },
+    {
+      "Year": 2021,
+      "Month": 12,
+      "Province": "BC",
+      "City": "Surrey",
+      "Temperature": 29.5,
+      "Snowfall": 67.4,
+      "Precipitation": 131.8
+    },
+    {
+      "Year": 2023,
+      "Month": 1,
+      "Province": "ON",
+      "City": "Toronto",
+      "Temperature": -34.0,
+      "Snowfall": 261.1,
+      "Precipitation": 48.8
+    },
+    {
+      "Year": 2020,
+      "Month": 12,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": 34.2,
+      "Snowfall": 84.3,
+      "Precipitation": 159.1
+    },
+    {
+      "Year": 2018,
+      "Month": 2,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": -15.2,
+      "Snowfall": 245.1,
+      "Precipitation": 18.7
+    },
+    {
+      "Year": 2014,
+      "Month": 9,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": -3.7,
+      "Snowfall": 0,
+      "Precipitation": 203.5
+    },
+    {
+      "Year": 2017,
+      "Month": 7,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": -39.0,
+      "Snowfall": 0,
+      "Precipitation": 113.9
+    },
+    {
+      "Year": 2018,
+      "Month": 7,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": -18.8,
+      "Snowfall": 0,
+      "Precipitation": 43.4
+    },
+    {
+      "Year": 2015,
+      "Month": 9,
+      "Province": "NS",
+      "City": "Dartmouth",
+      "Temperature": -21.7,
+      "Snowfall": 0,
+      "Precipitation": 188.4
+    },
+    {
+      "Year": 2016,
+      "Month": 7,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -4.4,
+      "Snowfall": 0,
+      "Precipitation": 161.9
+    },
+    {
+      "Year": 2015,
+      "Month": 7,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": -12.9,
+      "Snowfall": 0,
+      "Precipitation": 155.7
+    },
+    {
+      "Year": 2023,
+      "Month": 12,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": -35.7,
+      "Snowfall": 110.6,
+      "Precipitation": 245.2
+    },
+    {
+      "Year": 2015,
+      "Month": 6,
+      "Province": "NB",
+      "City": "Fredericton",
+      "Temperature": 32.1,
+      "Snowfall": 0,
+      "Precipitation": 175.9
+    },
+    {
+      "Year": 2023,
+      "Month": 8,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": -8.4,
+      "Snowfall": 0,
+      "Precipitation": 42.0
+    },
+    {
+      "Year": 2019,
+      "Month": 2,
+      "Province": "SK",
+      "City": "Saskatoon",
+      "Temperature": -17.2,
+      "Snowfall": 85.5,
+      "Precipitation": 159.8
+    },
+    {
+      "Year": 2021,
+      "Month": 7,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": 27.6,
+      "Snowfall": 0,
+      "Precipitation": 77.3
+    },
+    {
+      "Year": 2021,
+      "Month": 4,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": 8.3,
+      "Snowfall": 0,
+      "Precipitation": 178.4
+    },
+    {
+      "Year": 2022,
+      "Month": 8,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": -14.2,
+      "Snowfall": 0,
+      "Precipitation": 217.9
+    },
+    {
+      "Year": 2019,
+      "Month": 3,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": -9.9,
+      "Snowfall": 0,
+      "Precipitation": 227.0
+    },
+    {
+      "Year": 2017,
+      "Month": 2,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": 30.2,
+      "Snowfall": 33.3,
+      "Precipitation": 121.4
+    },
+    {
+      "Year": 2014,
+      "Month": 8,
+      "Province": "SK",
+      "City": "Saskatoon",
+      "Temperature": 36.3,
+      "Snowfall": 0,
+      "Precipitation": 178.5
+    },
+    {
+      "Year": 2015,
+      "Month": 12,
+      "Province": "NS",
+      "City": "Sydney",
+      "Temperature": 36.2,
+      "Snowfall": 260.8,
+      "Precipitation": 5.5
+    },
+    {
+      "Year": 2021,
+      "Month": 11,
+      "Province": "ON",
+      "City": "Toronto",
+      "Temperature": -6.7,
+      "Snowfall": 0,
+      "Precipitation": 106.6
+    },
+    {
+      "Year": 2014,
+      "Month": 10,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": 4.3,
+      "Snowfall": 0,
+      "Precipitation": 10.2
+    },
+    {
+      "Year": 2021,
+      "Month": 10,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": 20.2,
+      "Snowfall": 0,
+      "Precipitation": 55.8
+    },
+    {
+      "Year": 2019,
+      "Month": 3,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": 8.4,
+      "Snowfall": 0,
+      "Precipitation": 68.8
+    },
+    {
+      "Year": 2015,
+      "Month": 9,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": -32.7,
+      "Snowfall": 0,
+      "Precipitation": 188.7
+    },
+    {
+      "Year": 2023,
+      "Month": 2,
+      "Province": "QC",
+      "City": "Montreal",
+      "Temperature": -15.1,
+      "Snowfall": 72.3,
+      "Precipitation": 24.7
+    },
+    {
+      "Year": 2020,
+      "Month": 12,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": -8.1,
+      "Snowfall": 72.8,
+      "Precipitation": 10.7
+    },
+    {
+      "Year": 2021,
+      "Month": 8,
+      "Province": "NB",
+      "City": "Fredericton",
+      "Temperature": -24.2,
+      "Snowfall": 0,
+      "Precipitation": 81.8
+    },
+    {
+      "Year": 2020,
+      "Month": 10,
+      "Province": "NS",
+      "City": "Dartmouth",
+      "Temperature": 32.7,
+      "Snowfall": 0,
+      "Precipitation": 47.2
+    },
+    {
+      "Year": 2015,
+      "Month": 6,
+      "Province": "QC",
+      "City": "Gatineau",
+      "Temperature": -11.5,
+      "Snowfall": 0,
+      "Precipitation": 194.9
+    },
+    {
+      "Year": 2014,
+      "Month": 10,
+      "Province": "BC",
+      "City": "Surrey",
+      "Temperature": -35.4,
+      "Snowfall": 0,
+      "Precipitation": 148.7
+    },
+    {
+      "Year": 2016,
+      "Month": 6,
+      "Province": "NB",
+      "City": "Fredericton",
+      "Temperature": -13.2,
+      "Snowfall": 0,
+      "Precipitation": 173.0
+    },
+    {
+      "Year": 2014,
+      "Month": 11,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": 29.4,
+      "Snowfall": 0,
+      "Precipitation": 199.9
+    },
+    {
+      "Year": 2018,
+      "Month": 12,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": 16.7,
+      "Snowfall": 275.9,
+      "Precipitation": 137.3
+    },
+    {
+      "Year": 2016,
+      "Month": 12,
+      "Province": "MB",
+      "City": "Steinbach",
+      "Temperature": 10.4,
+      "Snowfall": 254.9,
+      "Precipitation": 43.8
+    },
+    {
+      "Year": 2014,
+      "Month": 1,
+      "Province": "BC",
+      "City": "Kelowna",
+      "Temperature": -13.6,
+      "Snowfall": 47.7,
+      "Precipitation": 2.9
+    },
+    {
+      "Year": 2019,
+      "Month": 10,
+      "Province": "NL",
+      "City": "Corner Brook",
+      "Temperature": 21.2,
+      "Snowfall": 0,
+      "Precipitation": 111.4
+    },
+    {
+      "Year": 2018,
+      "Month": 7,
+      "Province": "MB",
+      "City": "Steinbach",
+      "Temperature": -9.6,
+      "Snowfall": 0,
+      "Precipitation": 161.4
+    },
+    {
+      "Year": 2019,
+      "Month": 10,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 21.6,
+      "Snowfall": 0,
+      "Precipitation": 126.6
+    },
+    {
+      "Year": 2019,
+      "Month": 10,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": -19.2,
+      "Snowfall": 0,
+      "Precipitation": 113.8
+    },
+    {
+      "Year": 2016,
+      "Month": 2,
+      "Province": "ON",
+      "City": "Hamilton",
+      "Temperature": 23.2,
+      "Snowfall": 44.8,
+      "Precipitation": 29.3
+    },
+    {
+      "Year": 2020,
+      "Month": 7,
+      "Province": "ON",
+      "City": "Toronto",
+      "Temperature": 3.4,
+      "Snowfall": 0,
+      "Precipitation": 116.9
+    },
+    {
+      "Year": 2020,
+      "Month": 3,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -4.3,
+      "Snowfall": 0,
+      "Precipitation": 43.2
+    },
+    {
+      "Year": 2014,
+      "Month": 1,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": 24.7,
+      "Snowfall": 117.2,
+      "Precipitation": 37.7
+    },
+    {
+      "Year": 2022,
+      "Month": 11,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 16.0,
+      "Snowfall": 0,
+      "Precipitation": 43.5
+    },
+    {
+      "Year": 2022,
+      "Month": 12,
+      "Province": "ON",
+      "City": "Mississauga",
+      "Temperature": -15.4,
+      "Snowfall": 193.6,
+      "Precipitation": 83.8
+    },
+    {
+      "Year": 2014,
+      "Month": 6,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 7.6,
+      "Snowfall": 0,
+      "Precipitation": 206.7
+    },
+    {
+      "Year": 2021,
+      "Month": 3,
+      "Province": "ON",
+      "City": "Hamilton",
+      "Temperature": 30.0,
+      "Snowfall": 0,
+      "Precipitation": 205.7
+    },
+    {
+      "Year": 2015,
+      "Month": 6,
+      "Province": "AB",
+      "City": "Lethbridge",
+      "Temperature": -7.6,
+      "Snowfall": 0,
+      "Precipitation": 205.0
+    },
+    {
+      "Year": 2018,
+      "Month": 6,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": -21.1,
+      "Snowfall": 0,
+      "Precipitation": 139.6
+    },
+    {
+      "Year": 2014,
+      "Month": 7,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": 10.5,
+      "Snowfall": 0,
+      "Precipitation": 185.3
+    },
+    {
+      "Year": 2014,
+      "Month": 4,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": 33.4,
+      "Snowfall": 0,
+      "Precipitation": 64.3
+    },
+    {
+      "Year": 2020,
+      "Month": 8,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 3.9,
+      "Snowfall": 0,
+      "Precipitation": 21.7
+    },
+    {
+      "Year": 2019,
+      "Month": 12,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": 0.1,
+      "Snowfall": 18.4,
+      "Precipitation": 183.5
+    },
+    {
+      "Year": 2020,
+      "Month": 5,
+      "Province": "BC",
+      "City": "Surrey",
+      "Temperature": -23.8,
+      "Snowfall": 0,
+      "Precipitation": 61.6
+    },
+    {
+      "Year": 2018,
+      "Month": 7,
+      "Province": "AB",
+      "City": "Lethbridge",
+      "Temperature": -36.0,
+      "Snowfall": 0,
+      "Precipitation": 132.1
+    },
+    {
+      "Year": 2021,
+      "Month": 4,
+      "Province": "NB",
+      "City": "Fredericton",
+      "Temperature": 18.9,
+      "Snowfall": 0,
+      "Precipitation": 174.2
+    },
+    {
+      "Year": 2020,
+      "Month": 5,
+      "Province": "SK",
+      "City": "Prince Albert",
+      "Temperature": 24.6,
+      "Snowfall": 0,
+      "Precipitation": 244.8
+    },
+    {
+      "Year": 2014,
+      "Month": 3,
+      "Province": "NL",
+      "City": "Corner Brook",
+      "Temperature": 34.3,
+      "Snowfall": 0,
+      "Precipitation": 95.8
+    },
+    {
+      "Year": 2022,
+      "Month": 7,
+      "Province": "NB",
+      "City": "Fredericton",
+      "Temperature": 17.8,
+      "Snowfall": 0,
+      "Precipitation": 182.0
+    },
+    {
+      "Year": 2019,
+      "Month": 1,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": -30.3,
+      "Snowfall": 223.8,
+      "Precipitation": 88.0
+    },
+    {
+      "Year": 2017,
+      "Month": 12,
+      "Province": "QC",
+      "City": "Montreal",
+      "Temperature": -25.6,
+      "Snowfall": 26.1,
+      "Precipitation": 62.5
+    },
+    {
+      "Year": 2016,
+      "Month": 8,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -35.2,
+      "Snowfall": 0,
+      "Precipitation": 123.4
+    },
+    {
+      "Year": 2022,
+      "Month": 1,
+      "Province": "BC",
+      "City": "Surrey",
+      "Temperature": -15.6,
+      "Snowfall": 22.6,
+      "Precipitation": 193.8
+    },
+    {
+      "Year": 2014,
+      "Month": 8,
+      "Province": "ON",
+      "City": "Mississauga",
+      "Temperature": 0.6,
+      "Snowfall": 0,
+      "Precipitation": 71.0
+    },
+    {
+      "Year": 2023,
+      "Month": 6,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": 5.5,
+      "Snowfall": 0,
+      "Precipitation": 231.5
+    },
+    {
+      "Year": 2020,
+      "Month": 12,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": -6.9,
+      "Snowfall": 58.0,
+      "Precipitation": 213.1
+    },
+    {
+      "Year": 2016,
+      "Month": 11,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": -16.6,
+      "Snowfall": 0,
+      "Precipitation": 226.7
+    },
+    {
+      "Year": 2018,
+      "Month": 2,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 17.1,
+      "Snowfall": 55.1,
+      "Precipitation": 247.0
+    },
+    {
+      "Year": 2015,
+      "Month": 3,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": -20.4,
+      "Snowfall": 0,
+      "Precipitation": 17.7
+    },
+    {
+      "Year": 2022,
+      "Month": 10,
+      "Province": "BC",
+      "City": "Kelowna",
+      "Temperature": 2.8,
+      "Snowfall": 0,
+      "Precipitation": 102.6
+    },
+    {
+      "Year": 2021,
+      "Month": 11,
+      "Province": "ON",
+      "City": "Mississauga",
+      "Temperature": -22.4,
+      "Snowfall": 0,
+      "Precipitation": 81.8
+    },
+    {
+      "Year": 2016,
+      "Month": 10,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": -3.2,
+      "Snowfall": 0,
+      "Precipitation": 45.5
+    },
+    {
+      "Year": 2021,
+      "Month": 4,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": 28.0,
+      "Snowfall": 0,
+      "Precipitation": 249.0
+    },
+    {
+      "Year": 2018,
+      "Month": 9,
+      "Province": "NS",
+      "City": "Dartmouth",
+      "Temperature": -30.6,
+      "Snowfall": 0,
+      "Precipitation": 187.9
+    },
+    {
+      "Year": 2020,
+      "Month": 10,
+      "Province": "QC",
+      "City": "Gatineau",
+      "Temperature": -33.4,
+      "Snowfall": 0,
+      "Precipitation": 147.1
+    },
+    {
+      "Year": 2015,
+      "Month": 3,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": 32.9,
+      "Snowfall": 0,
+      "Precipitation": 41.6
+    },
+    {
+      "Year": 2022,
+      "Month": 8,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": -39.5,
+      "Snowfall": 0,
+      "Precipitation": 139.8
+    },
+    {
+      "Year": 2016,
+      "Month": 5,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -20.3,
+      "Snowfall": 0,
+      "Precipitation": 217.0
+    },
+    {
+      "Year": 2018,
+      "Month": 8,
+      "Province": "ON",
+      "City": "Ottawa",
+      "Temperature": 11.2,
+      "Snowfall": 0,
+      "Precipitation": 26.8
+    },
+    {
+      "Year": 2022,
+      "Month": 1,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 31.4,
+      "Snowfall": 87.3,
+      "Precipitation": 68.1
+    },
+    {
+      "Year": 2022,
+      "Month": 11,
+      "Province": "ON",
+      "City": "Mississauga",
+      "Temperature": 23.3,
+      "Snowfall": 0,
+      "Precipitation": 93.7
+    },
+    {
+      "Year": 2016,
+      "Month": 9,
+      "Province": "NS",
+      "City": "Sydney",
+      "Temperature": -24.1,
+      "Snowfall": 0,
+      "Precipitation": 71.0
+    },
+    {
+      "Year": 2014,
+      "Month": 4,
+      "Province": "BC",
+      "City": "Victoria",
+      "Temperature": 35.1,
+      "Snowfall": 0,
+      "Precipitation": 191.8
+    },
+    {
+      "Year": 2023,
+      "Month": 4,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": 1.2,
+      "Snowfall": 0,
+      "Precipitation": 77.0
+    },
+    {
+      "Year": 2021,
+      "Month": 6,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": -14.9,
+      "Snowfall": 0,
+      "Precipitation": 142.9
+    },
+    {
+      "Year": 2022,
+      "Month": 7,
+      "Province": "BC",
+      "City": "Kelowna",
+      "Temperature": -2.2,
+      "Snowfall": 0,
+      "Precipitation": 113.0
+    },
+    {
+      "Year": 2016,
+      "Month": 7,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": -22.1,
+      "Snowfall": 0,
+      "Precipitation": 78.5
+    },
+    {
+      "Year": 2023,
+      "Month": 9,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": -25.6,
+      "Snowfall": 0,
+      "Precipitation": 35.5
+    },
+    {
+      "Year": 2014,
+      "Month": 7,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -21.7,
+      "Snowfall": 0,
+      "Precipitation": 83.1
+    },
+    {
+      "Year": 2023,
+      "Month": 1,
+      "Province": "SK",
+      "City": "Saskatoon",
+      "Temperature": -0.1,
+      "Snowfall": 203.1,
+      "Precipitation": 202.6
+    },
+    {
+      "Year": 2023,
+      "Month": 5,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": 8.9,
+      "Snowfall": 0,
+      "Precipitation": 219.9
+    },
+    {
+      "Year": 2018,
+      "Month": 10,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": -14.4,
+      "Snowfall": 0,
+      "Precipitation": 245.9
+    },
+    {
+      "Year": 2017,
+      "Month": 11,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": -33.0,
+      "Snowfall": 0,
+      "Precipitation": 3.1
+    },
+    {
+      "Year": 2016,
+      "Month": 5,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 29.9,
+      "Snowfall": 0,
+      "Precipitation": 6.5
+    },
+    {
+      "Year": 2017,
+      "Month": 1,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": -15.8,
+      "Snowfall": 68.1,
+      "Precipitation": 46.7
+    },
+    {
+      "Year": 2020,
+      "Month": 9,
+      "Province": "SK",
+      "City": "Prince Albert",
+      "Temperature": 20.9,
+      "Snowfall": 0,
+      "Precipitation": 213.1
+    },
+    {
+      "Year": 2020,
+      "Month": 6,
+      "Province": "BC",
+      "City": "Victoria",
+      "Temperature": 4.9,
+      "Snowfall": 0,
+      "Precipitation": 94.4
+    },
+    {
+      "Year": 2016,
+      "Month": 7,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": 10.5,
+      "Snowfall": 0,
+      "Precipitation": 219.8
+    },
+    {
+      "Year": 2019,
+      "Month": 9,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": -32.2,
+      "Snowfall": 0,
+      "Precipitation": 40.4
+    },
+    {
+      "Year": 2017,
+      "Month": 10,
+      "Province": "QC",
+      "City": "Montreal",
+      "Temperature": 28.6,
+      "Snowfall": 0,
+      "Precipitation": 190.1
+    },
+    {
+      "Year": 2020,
+      "Month": 2,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": -30.8,
+      "Snowfall": 271.0,
+      "Precipitation": 26.4
+    },
+    {
+      "Year": 2018,
+      "Month": 2,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": -21.3,
+      "Snowfall": 30.7,
+      "Precipitation": 225.3
+    },
+    {
+      "Year": 2020,
+      "Month": 7,
+      "Province": "NL",
+      "City": "Corner Brook",
+      "Temperature": 4.1,
+      "Snowfall": 0,
+      "Precipitation": 182.8
+    },
+    {
+      "Year": 2014,
+      "Month": 7,
+      "Province": "NS",
+      "City": "Dartmouth",
+      "Temperature": -32.9,
+      "Snowfall": 0,
+      "Precipitation": 211.6
+    },
+    {
+      "Year": 2022,
+      "Month": 5,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": 35.4,
+      "Snowfall": 0,
+      "Precipitation": 122.6
+    },
+    {
+      "Year": 2021,
+      "Month": 3,
+      "Province": "QC",
+      "City": "Quebec City",
+      "Temperature": 6.5,
+      "Snowfall": 0,
+      "Precipitation": 120.7
+    },
+    {
+      "Year": 2014,
+      "Month": 11,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": -26.1,
+      "Snowfall": 0,
+      "Precipitation": 61.8
+    },
+    {
+      "Year": 2016,
+      "Month": 2,
+      "Province": "ON",
+      "City": "Hamilton",
+      "Temperature": -11.1,
+      "Snowfall": 99.5,
+      "Precipitation": 77.1
+    },
+    {
+      "Year": 2020,
+      "Month": 12,
+      "Province": "NS",
+      "City": "Dartmouth",
+      "Temperature": -17.1,
+      "Snowfall": 263.5,
+      "Precipitation": 153.7
+    },
+    {
+      "Year": 2022,
+      "Month": 10,
+      "Province": "NL",
+      "City": "Corner Brook",
+      "Temperature": -35.3,
+      "Snowfall": 0,
+      "Precipitation": 51.7
+    },
+    {
+      "Year": 2019,
+      "Month": 8,
+      "Province": "BC",
+      "City": "Kelowna",
+      "Temperature": 18.2,
+      "Snowfall": 0,
+      "Precipitation": 210.5
+    },
+    {
+      "Year": 2014,
+      "Month": 7,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": -20.2,
+      "Snowfall": 0,
+      "Precipitation": 163.9
+    },
+    {
+      "Year": 2017,
+      "Month": 5,
+      "Province": "ON",
+      "City": "Ottawa",
+      "Temperature": -9.0,
+      "Snowfall": 0,
+      "Precipitation": 91.7
+    },
+    {
+      "Year": 2014,
+      "Month": 9,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -37.0,
+      "Snowfall": 0,
+      "Precipitation": 183.0
+    },
+    {
+      "Year": 2022,
+      "Month": 5,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -30.4,
+      "Snowfall": 0,
+      "Precipitation": 56.3
+    },
+    {
+      "Year": 2017,
+      "Month": 3,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 8.9,
+      "Snowfall": 0,
+      "Precipitation": 103.8
+    },
+    {
+      "Year": 2019,
+      "Month": 6,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": -20.9,
+      "Snowfall": 0,
+      "Precipitation": 219.5
+    },
+    {
+      "Year": 2023,
+      "Month": 6,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": -26.9,
+      "Snowfall": 0,
+      "Precipitation": 239.1
+    },
+    {
+      "Year": 2015,
+      "Month": 2,
+      "Province": "BC",
+      "City": "Victoria",
+      "Temperature": -18.7,
+      "Snowfall": 107.3,
+      "Precipitation": 200.5
+    },
+    {
+      "Year": 2017,
+      "Month": 3,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 34.3,
+      "Snowfall": 0,
+      "Precipitation": 243.6
+    },
+    {
+      "Year": 2023,
+      "Month": 3,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": 26.4,
+      "Snowfall": 0,
+      "Precipitation": 32.5
+    },
+    {
+      "Year": 2018,
+      "Month": 4,
+      "Province": "NS",
+      "City": "Sydney",
+      "Temperature": 12.6,
+      "Snowfall": 0,
+      "Precipitation": 125.9
+    },
+    {
+      "Year": 2014,
+      "Month": 5,
+      "Province": "NL",
+      "City": "Corner Brook",
+      "Temperature": -7.3,
+      "Snowfall": 0,
+      "Precipitation": 217.6
+    },
+    {
+      "Year": 2015,
+      "Month": 3,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": 28.6,
+      "Snowfall": 0,
+      "Precipitation": 215.9
+    },
+    {
+      "Year": 2014,
+      "Month": 10,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": -39.0,
+      "Snowfall": 0,
+      "Precipitation": 106.2
+    },
+    {
+      "Year": 2019,
+      "Month": 6,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": -28.7,
+      "Snowfall": 0,
+      "Precipitation": 33.2
+    },
+    {
+      "Year": 2015,
+      "Month": 5,
+      "Province": "SK",
+      "City": "Saskatoon",
+      "Temperature": 26.1,
+      "Snowfall": 0,
+      "Precipitation": 208.2
+    },
+    {
+      "Year": 2022,
+      "Month": 5,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 36.5,
+      "Snowfall": 0,
+      "Precipitation": 198.3
+    },
+    {
+      "Year": 2019,
+      "Month": 2,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": -21.8,
+      "Snowfall": 286.7,
+      "Precipitation": 242.6
+    },
+    {
+      "Year": 2016,
+      "Month": 11,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": 30.2,
+      "Snowfall": 0,
+      "Precipitation": 46.2
+    },
+    {
+      "Year": 2020,
+      "Month": 12,
+      "Province": "NL",
+      "City": "Corner Brook",
+      "Temperature": -37.9,
+      "Snowfall": 39.9,
+      "Precipitation": 52.0
+    },
+    {
+      "Year": 2019,
+      "Month": 4,
+      "Province": "ON",
+      "City": "Ottawa",
+      "Temperature": -6.3,
+      "Snowfall": 0,
+      "Precipitation": 89.1
+    },
+    {
+      "Year": 2019,
+      "Month": 6,
+      "Province": "NL",
+      "City": "Corner Brook",
+      "Temperature": -13.4,
+      "Snowfall": 0,
+      "Precipitation": 12.0
+    },
+    {
+      "Year": 2015,
+      "Month": 9,
+      "Province": "AB",
+      "City": "Edmonton",
+      "Temperature": 13.7,
+      "Snowfall": 0,
+      "Precipitation": 216.0
+    },
+    {
+      "Year": 2014,
+      "Month": 9,
+      "Province": "BC",
+      "City": "Surrey",
+      "Temperature": 38.1,
+      "Snowfall": 0,
+      "Precipitation": 103.7
+    },
+    {
+      "Year": 2017,
+      "Month": 5,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": 29.7,
+      "Snowfall": 0,
+      "Precipitation": 167.7
+    },
+    {
+      "Year": 2019,
+      "Month": 5,
+      "Province": "AB",
+      "City": "Lethbridge",
+      "Temperature": 22.7,
+      "Snowfall": 0,
+      "Precipitation": 141.8
+    },
+    {
+      "Year": 2022,
+      "Month": 6,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": 28.8,
+      "Snowfall": 0,
+      "Precipitation": 122.5
+    },
+    {
+      "Year": 2023,
+      "Month": 7,
+      "Province": "NB",
+      "City": "Fredericton",
+      "Temperature": -31.7,
+      "Snowfall": 0,
+      "Precipitation": 70.9
+    },
+    {
+      "Year": 2022,
+      "Month": 9,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": 12.9,
+      "Snowfall": 0,
+      "Precipitation": 158.7
+    },
+    {
+      "Year": 2019,
+      "Month": 9,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": -24.5,
+      "Snowfall": 0,
+      "Precipitation": 49.5
+    },
+    {
+      "Year": 2014,
+      "Month": 3,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": -18.1,
+      "Snowfall": 0,
+      "Precipitation": 3.7
+    },
+    {
+      "Year": 2020,
+      "Month": 9,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -38.5,
+      "Snowfall": 0,
+      "Precipitation": 178.1
+    },
+    {
+      "Year": 2015,
+      "Month": 4,
+      "Province": "BC",
+      "City": "Surrey",
+      "Temperature": -25.2,
+      "Snowfall": 0,
+      "Precipitation": 152.5
+    },
+    {
+      "Year": 2014,
+      "Month": 7,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": -7.7,
+      "Snowfall": 0,
+      "Precipitation": 157.5
+    },
+    {
+      "Year": 2016,
+      "Month": 5,
+      "Province": "NS",
+      "City": "Sydney",
+      "Temperature": -0.7,
+      "Snowfall": 0,
+      "Precipitation": 249.5
+    },
+    {
+      "Year": 2016,
+      "Month": 12,
+      "Province": "NS",
+      "City": "Dartmouth",
+      "Temperature": 8.2,
+      "Snowfall": 295.8,
+      "Precipitation": 145.6
+    },
+    {
+      "Year": 2017,
+      "Month": 4,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": 27.0,
+      "Snowfall": 0,
+      "Precipitation": 223.8
+    },
+    {
+      "Year": 2021,
+      "Month": 3,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": -21.4,
+      "Snowfall": 0,
+      "Precipitation": 152.7
+    },
+    {
+      "Year": 2014,
+      "Month": 11,
+      "Province": "ON",
+      "City": "Mississauga",
+      "Temperature": 23.2,
+      "Snowfall": 0,
+      "Precipitation": 38.3
+    },
+    {
+      "Year": 2020,
+      "Month": 8,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": 13.5,
+      "Snowfall": 0,
+      "Precipitation": 11.0
+    },
+    {
+      "Year": 2022,
+      "Month": 11,
+      "Province": "ON",
+      "City": "Hamilton",
+      "Temperature": 30.3,
+      "Snowfall": 0,
+      "Precipitation": 237.9
+    },
+    {
+      "Year": 2021,
+      "Month": 4,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": 16.9,
+      "Snowfall": 0,
+      "Precipitation": 175.6
+    },
+    {
+      "Year": 2017,
+      "Month": 2,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": -17.6,
+      "Snowfall": 172.0,
+      "Precipitation": 55.2
+    },
+    {
+      "Year": 2021,
+      "Month": 2,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": 28.0,
+      "Snowfall": 287.8,
+      "Precipitation": 243.0
+    },
+    {
+      "Year": 2019,
+      "Month": 5,
+      "Province": "AB",
+      "City": "Edmonton",
+      "Temperature": 29.5,
+      "Snowfall": 0,
+      "Precipitation": 108.0
+    },
+    {
+      "Year": 2020,
+      "Month": 11,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -30.3,
+      "Snowfall": 0,
+      "Precipitation": 80.6
+    },
+    {
+      "Year": 2015,
+      "Month": 2,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -21.0,
+      "Snowfall": 214.5,
+      "Precipitation": 38.9
+    },
+    {
+      "Year": 2022,
+      "Month": 2,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": 11.5,
+      "Snowfall": 99.2,
+      "Precipitation": 39.9
+    },
+    {
+      "Year": 2022,
+      "Month": 10,
+      "Province": "NS",
+      "City": "Dartmouth",
+      "Temperature": 10.4,
+      "Snowfall": 0,
+      "Precipitation": 120.8
+    },
+    {
+      "Year": 2022,
+      "Month": 11,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": 37.4,
+      "Snowfall": 0,
+      "Precipitation": 28.8
+    },
+    {
+      "Year": 2014,
+      "Month": 11,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": 19.9,
+      "Snowfall": 0,
+      "Precipitation": 72.2
+    },
+    {
+      "Year": 2023,
+      "Month": 12,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": -19.0,
+      "Snowfall": 8.1,
+      "Precipitation": 25.5
+    },
+    {
+      "Year": 2021,
+      "Month": 2,
+      "Province": "NS",
+      "City": "Sydney",
+      "Temperature": -30.3,
+      "Snowfall": 16.5,
+      "Precipitation": 216.4
+    },
+    {
+      "Year": 2020,
+      "Month": 4,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": -7.6,
+      "Snowfall": 0,
+      "Precipitation": 183.1
+    },
+    {
+      "Year": 2017,
+      "Month": 5,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": -25.0,
+      "Snowfall": 0,
+      "Precipitation": 4.2
+    },
+    {
+      "Year": 2016,
+      "Month": 5,
+      "Province": "MB",
+      "City": "Steinbach",
+      "Temperature": -12.2,
+      "Snowfall": 0,
+      "Precipitation": 64.4
+    },
+    {
+      "Year": 2021,
+      "Month": 1,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": 40.0,
+      "Snowfall": 298.5,
+      "Precipitation": 50.4
+    },
+    {
+      "Year": 2017,
+      "Month": 2,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": -30.3,
+      "Snowfall": 198.0,
+      "Precipitation": 23.8
+    },
+    {
+      "Year": 2015,
+      "Month": 7,
+      "Province": "ON",
+      "City": "Hamilton",
+      "Temperature": 21.7,
+      "Snowfall": 0,
+      "Precipitation": 96.0
+    },
+    {
+      "Year": 2021,
+      "Month": 3,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": 4.6,
+      "Snowfall": 0,
+      "Precipitation": 128.1
+    },
+    {
+      "Year": 2016,
+      "Month": 1,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 24.5,
+      "Snowfall": 187.3,
+      "Precipitation": 101.6
+    },
+    {
+      "Year": 2022,
+      "Month": 11,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 35.4,
+      "Snowfall": 0,
+      "Precipitation": 191.6
+    },
+    {
+      "Year": 2023,
+      "Month": 7,
+      "Province": "NS",
+      "City": "Dartmouth",
+      "Temperature": 30.8,
+      "Snowfall": 0,
+      "Precipitation": 196.7
+    },
+    {
+      "Year": 2015,
+      "Month": 7,
+      "Province": "BC",
+      "City": "Kelowna",
+      "Temperature": 35.6,
+      "Snowfall": 0,
+      "Precipitation": 238.4
+    },
+    {
+      "Year": 2016,
+      "Month": 11,
+      "Province": "AB",
+      "City": "Lethbridge",
+      "Temperature": 35.8,
+      "Snowfall": 0,
+      "Precipitation": 187.4
+    },
+    {
+      "Year": 2018,
+      "Month": 1,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": -22.8,
+      "Snowfall": 28.1,
+      "Precipitation": 19.5
+    },
+    {
+      "Year": 2016,
+      "Month": 1,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": -8.6,
+      "Snowfall": 153.0,
+      "Precipitation": 109.7
+    },
+    {
+      "Year": 2016,
+      "Month": 3,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": -39.8,
+      "Snowfall": 0,
+      "Precipitation": 49.0
+    },
+    {
+      "Year": 2021,
+      "Month": 6,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": -10.5,
+      "Snowfall": 0,
+      "Precipitation": 228.4
+    },
+    {
+      "Year": 2019,
+      "Month": 12,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": 0.5,
+      "Snowfall": 46.0,
+      "Precipitation": 196.6
+    },
+    {
+      "Year": 2020,
+      "Month": 7,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -23.3,
+      "Snowfall": 0,
+      "Precipitation": 76.9
+    },
+    {
+      "Year": 2023,
+      "Month": 1,
+      "Province": "BC",
+      "City": "Kelowna",
+      "Temperature": 8.7,
+      "Snowfall": 203.7,
+      "Precipitation": 194.6
+    },
+    {
+      "Year": 2023,
+      "Month": 11,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": 21.3,
+      "Snowfall": 0,
+      "Precipitation": 31.2
+    },
+    {
+      "Year": 2016,
+      "Month": 7,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": 29.6,
+      "Snowfall": 0,
+      "Precipitation": 221.1
+    },
+    {
+      "Year": 2016,
+      "Month": 6,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": 1.2,
+      "Snowfall": 0,
+      "Precipitation": 160.9
+    },
+    {
+      "Year": 2020,
+      "Month": 3,
+      "Province": "QC",
+      "City": "Montreal",
+      "Temperature": -14.1,
+      "Snowfall": 0,
+      "Precipitation": 160.9
+    },
+    {
+      "Year": 2023,
+      "Month": 9,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": 19.9,
+      "Snowfall": 0,
+      "Precipitation": 212.2
+    },
+    {
+      "Year": 2023,
+      "Month": 12,
+      "Province": "ON",
+      "City": "Ottawa",
+      "Temperature": 37.9,
+      "Snowfall": 260.2,
+      "Precipitation": 27.8
+    },
+    {
+      "Year": 2015,
+      "Month": 7,
+      "Province": "NS",
+      "City": "Dartmouth",
+      "Temperature": 7.1,
+      "Snowfall": 0,
+      "Precipitation": 206.1
+    },
+    {
+      "Year": 2018,
+      "Month": 5,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": 15.8,
+      "Snowfall": 0,
+      "Precipitation": 12.0
+    },
+    {
+      "Year": 2020,
+      "Month": 3,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": -26.4,
+      "Snowfall": 0,
+      "Precipitation": 2.8
+    },
+    {
+      "Year": 2021,
+      "Month": 4,
+      "Province": "QC",
+      "City": "Gatineau",
+      "Temperature": 14.4,
+      "Snowfall": 0,
+      "Precipitation": 111.5
+    },
+    {
+      "Year": 2015,
+      "Month": 11,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": -9.4,
+      "Snowfall": 0,
+      "Precipitation": 218.4
+    },
+    {
+      "Year": 2020,
+      "Month": 6,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -23.1,
+      "Snowfall": 0,
+      "Precipitation": 240.4
+    },
+    {
+      "Year": 2021,
+      "Month": 11,
+      "Province": "SK",
+      "City": "Prince Albert",
+      "Temperature": 37.7,
+      "Snowfall": 0,
+      "Precipitation": 157.1
+    },
+    {
+      "Year": 2019,
+      "Month": 10,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 6.8,
+      "Snowfall": 0,
+      "Precipitation": 204.3
+    },
+    {
+      "Year": 2017,
+      "Month": 3,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": 14.4,
+      "Snowfall": 0,
+      "Precipitation": 178.4
+    },
+    {
+      "Year": 2018,
+      "Month": 9,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 32.8,
+      "Snowfall": 0,
+      "Precipitation": 242.8
+    },
+    {
+      "Year": 2021,
+      "Month": 8,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": 9.5,
+      "Snowfall": 0,
+      "Precipitation": 73.1
+    },
+    {
+      "Year": 2023,
+      "Month": 10,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 19.2,
+      "Snowfall": 0,
+      "Precipitation": 7.8
+    },
+    {
+      "Year": 2021,
+      "Month": 5,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": -15.3,
+      "Snowfall": 0,
+      "Precipitation": 1.8
+    },
+    {
+      "Year": 2014,
+      "Month": 2,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": -38.5,
+      "Snowfall": 10.1,
+      "Precipitation": 215.3
+    },
+    {
+      "Year": 2018,
+      "Month": 10,
+      "Province": "QC",
+      "City": "Quebec City",
+      "Temperature": -5.5,
+      "Snowfall": 0,
+      "Precipitation": 52.4
+    },
+    {
+      "Year": 2017,
+      "Month": 2,
+      "Province": "BC",
+      "City": "Victoria",
+      "Temperature": -20.0,
+      "Snowfall": 171.3,
+      "Precipitation": 32.5
+    },
+    {
+      "Year": 2014,
+      "Month": 3,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 16.6,
+      "Snowfall": 0,
+      "Precipitation": 45.8
+    },
+    {
+      "Year": 2018,
+      "Month": 11,
+      "Province": "SK",
+      "City": "Prince Albert",
+      "Temperature": -22.2,
+      "Snowfall": 0,
+      "Precipitation": 38.3
+    },
+    {
+      "Year": 2019,
+      "Month": 11,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": 24.4,
+      "Snowfall": 0,
+      "Precipitation": 204.5
+    },
+    {
+      "Year": 2022,
+      "Month": 5,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": 15.4,
+      "Snowfall": 0,
+      "Precipitation": 82.1
+    },
+    {
+      "Year": 2022,
+      "Month": 1,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": 38.8,
+      "Snowfall": 163.0,
+      "Precipitation": 181.8
+    },
+    {
+      "Year": 2014,
+      "Month": 9,
+      "Province": "SK",
+      "City": "Saskatoon",
+      "Temperature": -21.3,
+      "Snowfall": 0,
+      "Precipitation": 129.3
+    },
+    {
+      "Year": 2021,
+      "Month": 12,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": 6.7,
+      "Snowfall": 264.2,
+      "Precipitation": 70.4
+    },
+    {
+      "Year": 2023,
+      "Month": 10,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": -2.5,
+      "Snowfall": 0,
+      "Precipitation": 136.4
+    },
+    {
+      "Year": 2019,
+      "Month": 12,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 32.3,
+      "Snowfall": 34.3,
+      "Precipitation": 51.3
+    },
+    {
+      "Year": 2015,
+      "Month": 2,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -0.8,
+      "Snowfall": 166.9,
+      "Precipitation": 62.8
+    },
+    {
+      "Year": 2017,
+      "Month": 10,
+      "Province": "SK",
+      "City": "Saskatoon",
+      "Temperature": -33.1,
+      "Snowfall": 0,
+      "Precipitation": 139.0
+    },
+    {
+      "Year": 2021,
+      "Month": 12,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": -34.6,
+      "Snowfall": 179.6,
+      "Precipitation": 145.1
+    },
+    {
+      "Year": 2021,
+      "Month": 4,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": 30.3,
+      "Snowfall": 0,
+      "Precipitation": 120.0
+    },
+    {
+      "Year": 2015,
+      "Month": 2,
+      "Province": "ON",
+      "City": "Mississauga",
+      "Temperature": -27.9,
+      "Snowfall": 21.2,
+      "Precipitation": 223.0
+    },
+    {
+      "Year": 2015,
+      "Month": 1,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": 26.3,
+      "Snowfall": 17.8,
+      "Precipitation": 229.1
+    },
+    {
+      "Year": 2016,
+      "Month": 1,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": 32.1,
+      "Snowfall": 77.4,
+      "Precipitation": 26.7
+    },
+    {
+      "Year": 2023,
+      "Month": 6,
+      "Province": "NS",
+      "City": "Dartmouth",
+      "Temperature": -37.0,
+      "Snowfall": 0,
+      "Precipitation": 211.0
+    },
+    {
+      "Year": 2022,
+      "Month": 4,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 4.1,
+      "Snowfall": 0,
+      "Precipitation": 39.6
+    },
+    {
+      "Year": 2015,
+      "Month": 6,
+      "Province": "ON",
+      "City": "Hamilton",
+      "Temperature": 18.8,
+      "Snowfall": 0,
+      "Precipitation": 2.1
+    },
+    {
+      "Year": 2016,
+      "Month": 8,
+      "Province": "SK",
+      "City": "Saskatoon",
+      "Temperature": -22.5,
+      "Snowfall": 0,
+      "Precipitation": 167.5
+    },
+    {
+      "Year": 2014,
+      "Month": 9,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": 31.9,
+      "Snowfall": 0,
+      "Precipitation": 234.3
+    },
+    {
+      "Year": 2021,
+      "Month": 6,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": -33.3,
+      "Snowfall": 0,
+      "Precipitation": 166.8
+    },
+    {
+      "Year": 2021,
+      "Month": 5,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -33.5,
+      "Snowfall": 0,
+      "Precipitation": 86.5
+    },
+    {
+      "Year": 2023,
+      "Month": 4,
+      "Province": "SK",
+      "City": "Saskatoon",
+      "Temperature": 4.6,
+      "Snowfall": 0,
+      "Precipitation": 28.8
+    },
+    {
+      "Year": 2019,
+      "Month": 8,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": -16.0,
+      "Snowfall": 0,
+      "Precipitation": 200.8
+    },
+    {
+      "Year": 2021,
+      "Month": 11,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": 15.6,
+      "Snowfall": 0,
+      "Precipitation": 201.1
+    },
+    {
+      "Year": 2019,
+      "Month": 9,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": -27.4,
+      "Snowfall": 0,
+      "Precipitation": 181.6
+    },
+    {
+      "Year": 2023,
+      "Month": 3,
+      "Province": "AB",
+      "City": "Edmonton",
+      "Temperature": -25.2,
+      "Snowfall": 0,
+      "Precipitation": 63.8
+    },
+    {
+      "Year": 2021,
+      "Month": 3,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": 15.4,
+      "Snowfall": 0,
+      "Precipitation": 180.5
+    },
+    {
+      "Year": 2022,
+      "Month": 10,
+      "Province": "MB",
+      "City": "Steinbach",
+      "Temperature": -8.2,
+      "Snowfall": 0,
+      "Precipitation": 47.7
+    },
+    {
+      "Year": 2016,
+      "Month": 11,
+      "Province": "SK",
+      "City": "Saskatoon",
+      "Temperature": -18.3,
+      "Snowfall": 0,
+      "Precipitation": 87.3
+    },
+    {
+      "Year": 2023,
+      "Month": 11,
+      "Province": "QC",
+      "City": "Quebec City",
+      "Temperature": 2.3,
+      "Snowfall": 0,
+      "Precipitation": 223.6
+    },
+    {
+      "Year": 2023,
+      "Month": 8,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": 6.0,
+      "Snowfall": 0,
+      "Precipitation": 141.0
+    },
+    {
+      "Year": 2022,
+      "Month": 10,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": 18.5,
+      "Snowfall": 0,
+      "Precipitation": 160.4
+    },
+    {
+      "Year": 2022,
+      "Month": 1,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": 5.5,
+      "Snowfall": 230.7,
+      "Precipitation": 104.8
+    },
+    {
+      "Year": 2023,
+      "Month": 2,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": -5.5,
+      "Snowfall": 276.1,
+      "Precipitation": 201.5
+    },
+    {
+      "Year": 2015,
+      "Month": 8,
+      "Province": "NS",
+      "City": "Sydney",
+      "Temperature": 29.6,
+      "Snowfall": 0,
+      "Precipitation": 25.9
+    },
+    {
+      "Year": 2020,
+      "Month": 2,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": 30.7,
+      "Snowfall": 32.3,
+      "Precipitation": 79.5
+    },
+    {
+      "Year": 2017,
+      "Month": 4,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": 22.2,
+      "Snowfall": 0,
+      "Precipitation": 23.6
+    },
+    {
+      "Year": 2015,
+      "Month": 10,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": -36.1,
+      "Snowfall": 0,
+      "Precipitation": 50.1
+    },
+    {
+      "Year": 2023,
+      "Month": 3,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": -34.9,
+      "Snowfall": 0,
+      "Precipitation": 21.0
+    },
+    {
+      "Year": 2023,
+      "Month": 6,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": 8.3,
+      "Snowfall": 0,
+      "Precipitation": 54.2
+    },
+    {
+      "Year": 2018,
+      "Month": 9,
+      "Province": "NS",
+      "City": "Dartmouth",
+      "Temperature": 15.3,
+      "Snowfall": 0,
+      "Precipitation": 157.0
+    },
+    {
+      "Year": 2015,
+      "Month": 1,
+      "Province": "QC",
+      "City": "Montreal",
+      "Temperature": -33.8,
+      "Snowfall": 105.6,
+      "Precipitation": 32.3
+    },
+    {
+      "Year": 2015,
+      "Month": 6,
+      "Province": "ON",
+      "City": "Toronto",
+      "Temperature": 37.0,
+      "Snowfall": 0,
+      "Precipitation": 93.0
+    },
+    {
+      "Year": 2021,
+      "Month": 1,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": -13.3,
+      "Snowfall": 292.0,
+      "Precipitation": 123.3
+    },
+    {
+      "Year": 2016,
+      "Month": 3,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": 20.3,
+      "Snowfall": 0,
+      "Precipitation": 53.6
+    },
+    {
+      "Year": 2015,
+      "Month": 9,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": 9.7,
+      "Snowfall": 0,
+      "Precipitation": 110.6
+    },
+    {
+      "Year": 2021,
+      "Month": 12,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": 15.9,
+      "Snowfall": 295.5,
+      "Precipitation": 29.0
+    },
+    {
+      "Year": 2019,
+      "Month": 9,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": -15.3,
+      "Snowfall": 0,
+      "Precipitation": 27.7
+    },
+    {
+      "Year": 2023,
+      "Month": 4,
+      "Province": "NB",
+      "City": "Moncton",
+      "Temperature": -4.5,
+      "Snowfall": 0,
+      "Precipitation": 107.9
+    },
+    {
+      "Year": 2019,
+      "Month": 1,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 11.0,
+      "Snowfall": 276.7,
+      "Precipitation": 211.2
+    },
+    {
+      "Year": 2015,
+      "Month": 10,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": 22.0,
+      "Snowfall": 0,
+      "Precipitation": 83.5
+    },
+    {
+      "Year": 2018,
+      "Month": 7,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": 36.6,
+      "Snowfall": 0,
+      "Precipitation": 219.7
+    },
+    {
+      "Year": 2015,
+      "Month": 11,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": 30.7,
+      "Snowfall": 0,
+      "Precipitation": 19.4
+    },
+    {
+      "Year": 2021,
+      "Month": 2,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -24.2,
+      "Snowfall": 253.4,
+      "Precipitation": 118.7
+    },
+    {
+      "Year": 2019,
+      "Month": 8,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": -3.8,
+      "Snowfall": 0,
+      "Precipitation": 125.5
+    },
+    {
+      "Year": 2015,
+      "Month": 11,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": -16.6,
+      "Snowfall": 0,
+      "Precipitation": 180.8
+    },
+    {
+      "Year": 2018,
+      "Month": 12,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 33.0,
+      "Snowfall": 88.2,
+      "Precipitation": 236.4
+    },
+    {
+      "Year": 2016,
+      "Month": 7,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": -19.0,
+      "Snowfall": 0,
+      "Precipitation": 211.6
+    },
+    {
+      "Year": 2019,
+      "Month": 5,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": 25.0,
+      "Snowfall": 0,
+      "Precipitation": 211.3
+    },
+    {
+      "Year": 2023,
+      "Month": 1,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": 31.0,
+      "Snowfall": 279.9,
+      "Precipitation": 68.4
+    },
+    {
+      "Year": 2023,
+      "Month": 8,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": 34.1,
+      "Snowfall": 0,
+      "Precipitation": 29.7
+    },
+    {
+      "Year": 2016,
+      "Month": 2,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": 16.2,
+      "Snowfall": 95.3,
+      "Precipitation": 1.6
+    },
+    {
+      "Year": 2020,
+      "Month": 9,
+      "Province": "BC",
+      "City": "Surrey",
+      "Temperature": 29.0,
+      "Snowfall": 0,
+      "Precipitation": 237.7
+    },
+    {
+      "Year": 2019,
+      "Month": 3,
+      "Province": "NB",
+      "City": "Moncton",
+      "Temperature": -34.5,
+      "Snowfall": 0,
+      "Precipitation": 7.2
+    },
+    {
+      "Year": 2019,
+      "Month": 3,
+      "Province": "NS",
+      "City": "Sydney",
+      "Temperature": -2.3,
+      "Snowfall": 0,
+      "Precipitation": 53.5
+    },
+    {
+      "Year": 2018,
+      "Month": 2,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": 12.8,
+      "Snowfall": 112.7,
+      "Precipitation": 247.6
+    },
+    {
+      "Year": 2017,
+      "Month": 12,
+      "Province": "AB",
+      "City": "Edmonton",
+      "Temperature": 34.8,
+      "Snowfall": 69.5,
+      "Precipitation": 136.2
+    },
+    {
+      "Year": 2014,
+      "Month": 3,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": -32.9,
+      "Snowfall": 0,
+      "Precipitation": 19.2
+    },
+    {
+      "Year": 2015,
+      "Month": 8,
+      "Province": "AB",
+      "City": "Edmonton",
+      "Temperature": -22.7,
+      "Snowfall": 0,
+      "Precipitation": 10.5
+    },
+    {
+      "Year": 2016,
+      "Month": 2,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": 12.4,
+      "Snowfall": 27.7,
+      "Precipitation": 110.7
+    },
+    {
+      "Year": 2020,
+      "Month": 1,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": -29.5,
+      "Snowfall": 191.4,
+      "Precipitation": 2.9
+    },
+    {
+      "Year": 2016,
+      "Month": 7,
+      "Province": "QC",
+      "City": "Laval",
+      "Temperature": 20.0,
+      "Snowfall": 0,
+      "Precipitation": 99.2
+    },
+    {
+      "Year": 2021,
+      "Month": 1,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": 1.5,
+      "Snowfall": 26.7,
+      "Precipitation": 246.2
+    },
+    {
+      "Year": 2020,
+      "Month": 7,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": -17.8,
+      "Snowfall": 0,
+      "Precipitation": 242.3
+    },
+    {
+      "Year": 2023,
+      "Month": 8,
+      "Province": "ON",
+      "City": "Hamilton",
+      "Temperature": -35.7,
+      "Snowfall": 0,
+      "Precipitation": 71.9
+    },
+    {
+      "Year": 2021,
+      "Month": 9,
+      "Province": "NB",
+      "City": "Fredericton",
+      "Temperature": -9.9,
+      "Snowfall": 0,
+      "Precipitation": 224.5
+    },
+    {
+      "Year": 2022,
+      "Month": 4,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": -38.6,
+      "Snowfall": 0,
+      "Precipitation": 6.7
+    },
+    {
+      "Year": 2018,
+      "Month": 4,
+      "Province": "QC",
+      "City": "Montreal",
+      "Temperature": 34.7,
+      "Snowfall": 0,
+      "Precipitation": 208.7
+    },
+    {
+      "Year": 2015,
+      "Month": 5,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -10.6,
+      "Snowfall": 0,
+      "Precipitation": 241.2
+    },
+    {
+      "Year": 2022,
+      "Month": 8,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -11.6,
+      "Snowfall": 0,
+      "Precipitation": 146.0
+    },
+    {
+      "Year": 2019,
+      "Month": 10,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": 16.7,
+      "Snowfall": 0,
+      "Precipitation": 92.2
+    },
+    {
+      "Year": 2022,
+      "Month": 9,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": 2.7,
+      "Snowfall": 0,
+      "Precipitation": 168.8
+    },
+    {
+      "Year": 2022,
+      "Month": 6,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": -33.2,
+      "Snowfall": 0,
+      "Precipitation": 213.4
+    },
+    {
+      "Year": 2021,
+      "Month": 4,
+      "Province": "QC",
+      "City": "Laval",
+      "Temperature": 36.8,
+      "Snowfall": 0,
+      "Precipitation": 214.6
+    },
+    {
+      "Year": 2017,
+      "Month": 6,
+      "Province": "NS",
+      "City": "Dartmouth",
+      "Temperature": 18.5,
+      "Snowfall": 0,
+      "Precipitation": 195.0
+    },
+    {
+      "Year": 2019,
+      "Month": 6,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": -31.9,
+      "Snowfall": 0,
+      "Precipitation": 95.3
+    },
+    {
+      "Year": 2015,
+      "Month": 11,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": -25.8,
+      "Snowfall": 0,
+      "Precipitation": 73.4
+    },
+    {
+      "Year": 2016,
+      "Month": 7,
+      "Province": "SK",
+      "City": "Saskatoon",
+      "Temperature": -14.1,
+      "Snowfall": 0,
+      "Precipitation": 104.8
+    },
+    {
+      "Year": 2022,
+      "Month": 11,
+      "Province": "BC",
+      "City": "Kelowna",
+      "Temperature": 12.4,
+      "Snowfall": 0,
+      "Precipitation": 170.1
+    },
+    {
+      "Year": 2020,
+      "Month": 9,
+      "Province": "BC",
+      "City": "Victoria",
+      "Temperature": -13.4,
+      "Snowfall": 0,
+      "Precipitation": 34.1
+    },
+    {
+      "Year": 2023,
+      "Month": 9,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": -30.9,
+      "Snowfall": 0,
+      "Precipitation": 92.2
+    },
+    {
+      "Year": 2018,
+      "Month": 9,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": -31.0,
+      "Snowfall": 0,
+      "Precipitation": 214.0
+    },
+    {
+      "Year": 2023,
+      "Month": 3,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": 37.5,
+      "Snowfall": 0,
+      "Precipitation": 152.1
+    },
+    {
+      "Year": 2023,
+      "Month": 1,
+      "Province": "BC",
+      "City": "Surrey",
+      "Temperature": 13.1,
+      "Snowfall": 157.7,
+      "Precipitation": 84.9
+    },
+    {
+      "Year": 2023,
+      "Month": 5,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -17.1,
+      "Snowfall": 0,
+      "Precipitation": 35.8
+    },
+    {
+      "Year": 2014,
+      "Month": 8,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": 3.0,
+      "Snowfall": 0,
+      "Precipitation": 39.4
+    },
+    {
+      "Year": 2014,
+      "Month": 1,
+      "Province": "SK",
+      "City": "Prince Albert",
+      "Temperature": -12.6,
+      "Snowfall": 215.7,
+      "Precipitation": 229.2
+    },
+    {
+      "Year": 2016,
+      "Month": 12,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": 21.1,
+      "Snowfall": 278.8,
+      "Precipitation": 219.6
+    },
+    {
+      "Year": 2018,
+      "Month": 6,
+      "Province": "ON",
+      "City": "Toronto",
+      "Temperature": -7.4,
+      "Snowfall": 0,
+      "Precipitation": 44.8
+    },
+    {
+      "Year": 2020,
+      "Month": 7,
+      "Province": "BC",
+      "City": "Surrey",
+      "Temperature": -28.7,
+      "Snowfall": 0,
+      "Precipitation": 49.7
+    },
+    {
+      "Year": 2019,
+      "Month": 6,
+      "Province": "NL",
+      "City": "Corner Brook",
+      "Temperature": 11.8,
+      "Snowfall": 0,
+      "Precipitation": 116.0
+    },
+    {
+      "Year": 2021,
+      "Month": 1,
+      "Province": "BC",
+      "City": "Surrey",
+      "Temperature": -4.1,
+      "Snowfall": 62.8,
+      "Precipitation": 153.7
+    },
+    {
+      "Year": 2015,
+      "Month": 7,
+      "Province": "QC",
+      "City": "Gatineau",
+      "Temperature": 11.6,
+      "Snowfall": 0,
+      "Precipitation": 207.0
+    },
+    {
+      "Year": 2021,
+      "Month": 10,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 37.9,
+      "Snowfall": 0,
+      "Precipitation": 29.5
+    },
+    {
+      "Year": 2015,
+      "Month": 11,
+      "Province": "QC",
+      "City": "Quebec City",
+      "Temperature": -22.5,
+      "Snowfall": 0,
+      "Precipitation": 69.4
+    },
+    {
+      "Year": 2014,
+      "Month": 4,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": -39.6,
+      "Snowfall": 0,
+      "Precipitation": 89.2
+    },
+    {
+      "Year": 2015,
+      "Month": 11,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": -35.5,
+      "Snowfall": 0,
+      "Precipitation": 25.7
+    },
+    {
+      "Year": 2015,
+      "Month": 2,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": -31.7,
+      "Snowfall": 291.3,
+      "Precipitation": 200.1
+    },
+    {
+      "Year": 2022,
+      "Month": 1,
+      "Province": "QC",
+      "City": "Laval",
+      "Temperature": 19.7,
+      "Snowfall": 217.0,
+      "Precipitation": 142.7
+    },
+    {
+      "Year": 2019,
+      "Month": 10,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": 15.1,
+      "Snowfall": 0,
+      "Precipitation": 245.0
+    },
+    {
+      "Year": 2016,
+      "Month": 8,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": -31.3,
+      "Snowfall": 0,
+      "Precipitation": 109.9
+    },
+    {
+      "Year": 2019,
+      "Month": 1,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": 25.4,
+      "Snowfall": 176.6,
+      "Precipitation": 210.6
+    },
+    {
+      "Year": 2021,
+      "Month": 12,
+      "Province": "NB",
+      "City": "Fredericton",
+      "Temperature": -34.8,
+      "Snowfall": 143.5,
+      "Precipitation": 203.9
+    },
+    {
+      "Year": 2016,
+      "Month": 8,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": -1.1,
+      "Snowfall": 0,
+      "Precipitation": 165.1
+    },
+    {
+      "Year": 2021,
+      "Month": 10,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": -14.9,
+      "Snowfall": 0,
+      "Precipitation": 12.5
+    },
+    {
+      "Year": 2021,
+      "Month": 11,
+      "Province": "NB",
+      "City": "Moncton",
+      "Temperature": -10.6,
+      "Snowfall": 0,
+      "Precipitation": 192.2
+    },
+    {
+      "Year": 2021,
+      "Month": 6,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": -38.6,
+      "Snowfall": 0,
+      "Precipitation": 146.7
+    },
+    {
+      "Year": 2020,
+      "Month": 9,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": 39.6,
+      "Snowfall": 0,
+      "Precipitation": 114.9
+    },
+    {
+      "Year": 2015,
+      "Month": 6,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -12.7,
+      "Snowfall": 0,
+      "Precipitation": 210.7
+    },
+    {
+      "Year": 2018,
+      "Month": 4,
+      "Province": "QC",
+      "City": "Laval",
+      "Temperature": 34.1,
+      "Snowfall": 0,
+      "Precipitation": 218.3
+    },
+    {
+      "Year": 2014,
+      "Month": 3,
+      "Province": "MB",
+      "City": "Steinbach",
+      "Temperature": 23.8,
+      "Snowfall": 0,
+      "Precipitation": 34.4
+    },
+    {
+      "Year": 2015,
+      "Month": 6,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": 38.1,
+      "Snowfall": 0,
+      "Precipitation": 216.1
+    },
+    {
+      "Year": 2018,
+      "Month": 10,
+      "Province": "QC",
+      "City": "Quebec City",
+      "Temperature": 5.2,
+      "Snowfall": 0,
+      "Precipitation": 68.6
+    },
+    {
+      "Year": 2022,
+      "Month": 6,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": 19.7,
+      "Snowfall": 0,
+      "Precipitation": 104.8
+    },
+    {
+      "Year": 2016,
+      "Month": 12,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": -36.8,
+      "Snowfall": 55.0,
+      "Precipitation": 54.0
+    },
+    {
+      "Year": 2018,
+      "Month": 3,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": -20.8,
+      "Snowfall": 0,
+      "Precipitation": 161.2
+    },
+    {
+      "Year": 2014,
+      "Month": 4,
+      "Province": "NS",
+      "City": "Dartmouth",
+      "Temperature": -6.3,
+      "Snowfall": 0,
+      "Precipitation": 246.1
+    },
+    {
+      "Year": 2017,
+      "Month": 4,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": 27.1,
+      "Snowfall": 0,
+      "Precipitation": 103.6
+    },
+    {
+      "Year": 2022,
+      "Month": 3,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": 32.9,
+      "Snowfall": 0,
+      "Precipitation": 193.2
+    },
+    {
+      "Year": 2014,
+      "Month": 7,
+      "Province": "NS",
+      "City": "Sydney",
+      "Temperature": -22.6,
+      "Snowfall": 0,
+      "Precipitation": 234.7
+    },
+    {
+      "Year": 2015,
+      "Month": 10,
+      "Province": "QC",
+      "City": "Gatineau",
+      "Temperature": 28.7,
+      "Snowfall": 0,
+      "Precipitation": 45.7
+    },
+    {
+      "Year": 2022,
+      "Month": 4,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": -14.6,
+      "Snowfall": 0,
+      "Precipitation": 83.6
+    },
+    {
+      "Year": 2023,
+      "Month": 1,
+      "Province": "ON",
+      "City": "Mississauga",
+      "Temperature": -29.3,
+      "Snowfall": 57.0,
+      "Precipitation": 148.1
+    },
+    {
+      "Year": 2015,
+      "Month": 2,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": -20.8,
+      "Snowfall": 62.1,
+      "Precipitation": 12.1
+    },
+    {
+      "Year": 2014,
+      "Month": 7,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": 2.9,
+      "Snowfall": 0,
+      "Precipitation": 77.9
+    },
+    {
+      "Year": 2017,
+      "Month": 1,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": -26.5,
+      "Snowfall": 6.9,
+      "Precipitation": 212.4
+    },
+    {
+      "Year": 2014,
+      "Month": 8,
+      "Province": "ON",
+      "City": "Ottawa",
+      "Temperature": -22.0,
+      "Snowfall": 0,
+      "Precipitation": 141.8
+    },
+    {
+      "Year": 2016,
+      "Month": 7,
+      "Province": "MB",
+      "City": "Steinbach",
+      "Temperature": -19.3,
+      "Snowfall": 0,
+      "Precipitation": 23.4
+    },
+    {
+      "Year": 2019,
+      "Month": 12,
+      "Province": "AB",
+      "City": "Lethbridge",
+      "Temperature": 1.1,
+      "Snowfall": 163.3,
+      "Precipitation": 0.6
+    },
+    {
+      "Year": 2018,
+      "Month": 9,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -9.2,
+      "Snowfall": 0,
+      "Precipitation": 37.8
+    },
+    {
+      "Year": 2017,
+      "Month": 11,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": 20.7,
+      "Snowfall": 0,
+      "Precipitation": 57.5
+    },
+    {
+      "Year": 2017,
+      "Month": 9,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": 22.2,
+      "Snowfall": 0,
+      "Precipitation": 56.9
+    },
+    {
+      "Year": 2017,
+      "Month": 12,
+      "Province": "BC",
+      "City": "Kelowna",
+      "Temperature": 17.1,
+      "Snowfall": 188.4,
+      "Precipitation": 227.2
+    },
+    {
+      "Year": 2014,
+      "Month": 8,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": 32.9,
+      "Snowfall": 0,
+      "Precipitation": 34.7
+    },
+    {
+      "Year": 2020,
+      "Month": 2,
+      "Province": "NB",
+      "City": "Moncton",
+      "Temperature": 31.4,
+      "Snowfall": 265.4,
+      "Precipitation": 159.7
+    },
+    {
+      "Year": 2020,
+      "Month": 12,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": 1.2,
+      "Snowfall": 139.1,
+      "Precipitation": 58.4
+    },
+    {
+      "Year": 2018,
+      "Month": 11,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -38.1,
+      "Snowfall": 0,
+      "Precipitation": 235.3
+    },
+    {
+      "Year": 2020,
+      "Month": 10,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": 32.0,
+      "Snowfall": 0,
+      "Precipitation": 71.8
+    },
+    {
+      "Year": 2015,
+      "Month": 11,
+      "Province": "QC",
+      "City": "Laval",
+      "Temperature": 37.6,
+      "Snowfall": 0,
+      "Precipitation": 185.0
+    },
+    {
+      "Year": 2021,
+      "Month": 4,
+      "Province": "BC",
+      "City": "Victoria",
+      "Temperature": 18.8,
+      "Snowfall": 0,
+      "Precipitation": 0.5
+    },
+    {
+      "Year": 2021,
+      "Month": 10,
+      "Province": "ON",
+      "City": "Hamilton",
+      "Temperature": 18.0,
+      "Snowfall": 0,
+      "Precipitation": 18.2
+    },
+    {
+      "Year": 2018,
+      "Month": 2,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": -24.6,
+      "Snowfall": 256.7,
+      "Precipitation": 7.2
+    },
+    {
+      "Year": 2023,
+      "Month": 2,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": -24.9,
+      "Snowfall": 84.2,
+      "Precipitation": 106.4
+    },
+    {
+      "Year": 2021,
+      "Month": 9,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 32.4,
+      "Snowfall": 0,
+      "Precipitation": 137.7
+    },
+    {
+      "Year": 2016,
+      "Month": 2,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -33.4,
+      "Snowfall": 197.1,
+      "Precipitation": 160.2
+    },
+    {
+      "Year": 2022,
+      "Month": 3,
+      "Province": "SK",
+      "City": "Prince Albert",
+      "Temperature": 38.4,
+      "Snowfall": 0,
+      "Precipitation": 226.4
+    },
+    {
+      "Year": 2015,
+      "Month": 11,
+      "Province": "NL",
+      "City": "Corner Brook",
+      "Temperature": 33.8,
+      "Snowfall": 0,
+      "Precipitation": 169.5
+    },
+    {
+      "Year": 2015,
+      "Month": 11,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -38.2,
+      "Snowfall": 0,
+      "Precipitation": 125.7
+    },
+    {
+      "Year": 2015,
+      "Month": 2,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": 31.0,
+      "Snowfall": 104.9,
+      "Precipitation": 25.5
+    },
+    {
+      "Year": 2014,
+      "Month": 4,
+      "Province": "NS",
+      "City": "Dartmouth",
+      "Temperature": -31.3,
+      "Snowfall": 0,
+      "Precipitation": 189.6
+    },
+    {
+      "Year": 2020,
+      "Month": 11,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": 14.5,
+      "Snowfall": 0,
+      "Precipitation": 102.8
+    },
+    {
+      "Year": 2018,
+      "Month": 6,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 17.3,
+      "Snowfall": 0,
+      "Precipitation": 178.4
+    },
+    {
+      "Year": 2022,
+      "Month": 9,
+      "Province": "QC",
+      "City": "Laval",
+      "Temperature": 35.0,
+      "Snowfall": 0,
+      "Precipitation": 176.7
+    },
+    {
+      "Year": 2017,
+      "Month": 5,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -29.6,
+      "Snowfall": 0,
+      "Precipitation": 197.5
+    },
+    {
+      "Year": 2015,
+      "Month": 4,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": -21.5,
+      "Snowfall": 0,
+      "Precipitation": 1.3
+    },
+    {
+      "Year": 2014,
+      "Month": 5,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": -40.0,
+      "Snowfall": 0,
+      "Precipitation": 130.2
+    },
+    {
+      "Year": 2017,
+      "Month": 9,
+      "Province": "AB",
+      "City": "Edmonton",
+      "Temperature": -7.4,
+      "Snowfall": 0,
+      "Precipitation": 200.0
+    },
+    {
+      "Year": 2017,
+      "Month": 12,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": 22.1,
+      "Snowfall": 231.5,
+      "Precipitation": 163.5
+    },
+    {
+      "Year": 2015,
+      "Month": 8,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": 27.5,
+      "Snowfall": 0,
+      "Precipitation": 148.8
+    },
+    {
+      "Year": 2016,
+      "Month": 6,
+      "Province": "ON",
+      "City": "Mississauga",
+      "Temperature": 36.6,
+      "Snowfall": 0,
+      "Precipitation": 229.0
+    },
+    {
+      "Year": 2019,
+      "Month": 6,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": -15.2,
+      "Snowfall": 0,
+      "Precipitation": 165.0
+    },
+    {
+      "Year": 2023,
+      "Month": 5,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": -30.4,
+      "Snowfall": 0,
+      "Precipitation": 170.9
+    },
+    {
+      "Year": 2018,
+      "Month": 12,
+      "Province": "NL",
+      "City": "Corner Brook",
+      "Temperature": 7.7,
+      "Snowfall": 296.5,
+      "Precipitation": 191.1
+    },
+    {
+      "Year": 2018,
+      "Month": 9,
+      "Province": "AB",
+      "City": "Edmonton",
+      "Temperature": -25.6,
+      "Snowfall": 0,
+      "Precipitation": 108.8
+    },
+    {
+      "Year": 2022,
+      "Month": 7,
+      "Province": "SK",
+      "City": "Saskatoon",
+      "Temperature": -15.6,
+      "Snowfall": 0,
+      "Precipitation": 243.4
+    },
+    {
+      "Year": 2017,
+      "Month": 10,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": 15.4,
+      "Snowfall": 0,
+      "Precipitation": 110.4
+    },
+    {
+      "Year": 2016,
+      "Month": 9,
+      "Province": "ON",
+      "City": "Mississauga",
+      "Temperature": 11.2,
+      "Snowfall": 0,
+      "Precipitation": 174.6
+    },
+    {
+      "Year": 2015,
+      "Month": 7,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 9.0,
+      "Snowfall": 0,
+      "Precipitation": 159.6
+    },
+    {
+      "Year": 2022,
+      "Month": 10,
+      "Province": "QC",
+      "City": "Gatineau",
+      "Temperature": -22.0,
+      "Snowfall": 0,
+      "Precipitation": 220.8
+    },
+    {
+      "Year": 2020,
+      "Month": 6,
+      "Province": "NS",
+      "City": "Sydney",
+      "Temperature": 11.0,
+      "Snowfall": 0,
+      "Precipitation": 109.3
+    },
+    {
+      "Year": 2020,
+      "Month": 8,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": 5.6,
+      "Snowfall": 0,
+      "Precipitation": 242.8
+    },
+    {
+      "Year": 2020,
+      "Month": 8,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": -22.9,
+      "Snowfall": 0,
+      "Precipitation": 211.5
+    },
+    {
+      "Year": 2023,
+      "Month": 3,
+      "Province": "ON",
+      "City": "Hamilton",
+      "Temperature": -22.3,
+      "Snowfall": 0,
+      "Precipitation": 36.8
+    },
+    {
+      "Year": 2020,
+      "Month": 1,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": -32.9,
+      "Snowfall": 139.9,
+      "Precipitation": 29.3
+    },
+    {
+      "Year": 2016,
+      "Month": 6,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -22.6,
+      "Snowfall": 0,
+      "Precipitation": 151.3
+    },
+    {
+      "Year": 2023,
+      "Month": 2,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": 22.9,
+      "Snowfall": 9.5,
+      "Precipitation": 124.6
+    },
+    {
+      "Year": 2014,
+      "Month": 5,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": 3.6,
+      "Snowfall": 0,
+      "Precipitation": 28.0
+    },
+    {
+      "Year": 2020,
+      "Month": 12,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": -24.3,
+      "Snowfall": 35.3,
+      "Precipitation": 46.0
+    },
+    {
+      "Year": 2018,
+      "Month": 11,
+      "Province": "NS",
+      "City": "Dartmouth",
+      "Temperature": -29.6,
+      "Snowfall": 0,
+      "Precipitation": 27.4
+    },
+    {
+      "Year": 2023,
+      "Month": 7,
+      "Province": "ON",
+      "City": "Hamilton",
+      "Temperature": -9.6,
+      "Snowfall": 0,
+      "Precipitation": 116.4
+    },
+    {
+      "Year": 2021,
+      "Month": 5,
+      "Province": "ON",
+      "City": "Mississauga",
+      "Temperature": 16.6,
+      "Snowfall": 0,
+      "Precipitation": 122.2
+    },
+    {
+      "Year": 2019,
+      "Month": 1,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 34.6,
+      "Snowfall": 213.0,
+      "Precipitation": 166.3
+    },
+    {
+      "Year": 2020,
+      "Month": 10,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": 25.1,
+      "Snowfall": 0,
+      "Precipitation": 110.2
+    },
+    {
+      "Year": 2018,
+      "Month": 9,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 11.3,
+      "Snowfall": 0,
+      "Precipitation": 188.4
+    },
+    {
+      "Year": 2015,
+      "Month": 8,
+      "Province": "AB",
+      "City": "Lethbridge",
+      "Temperature": -21.9,
+      "Snowfall": 0,
+      "Precipitation": 39.8
+    },
+    {
+      "Year": 2014,
+      "Month": 4,
+      "Province": "QC",
+      "City": "Gatineau",
+      "Temperature": 21.3,
+      "Snowfall": 0,
+      "Precipitation": 205.7
+    },
+    {
+      "Year": 2023,
+      "Month": 5,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": -28.9,
+      "Snowfall": 0,
+      "Precipitation": 30.3
+    },
+    {
+      "Year": 2023,
+      "Month": 7,
+      "Province": "ON",
+      "City": "Hamilton",
+      "Temperature": -26.0,
+      "Snowfall": 0,
+      "Precipitation": 83.0
+    },
+    {
+      "Year": 2016,
+      "Month": 4,
+      "Province": "BC",
+      "City": "Victoria",
+      "Temperature": -34.9,
+      "Snowfall": 0,
+      "Precipitation": 140.9
+    },
+    {
+      "Year": 2023,
+      "Month": 7,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": 36.7,
+      "Snowfall": 0,
+      "Precipitation": 205.6
+    },
+    {
+      "Year": 2015,
+      "Month": 8,
+      "Province": "NB",
+      "City": "Moncton",
+      "Temperature": -39.3,
+      "Snowfall": 0,
+      "Precipitation": 48.0
+    },
+    {
+      "Year": 2017,
+      "Month": 9,
+      "Province": "QC",
+      "City": "Laval",
+      "Temperature": 2.5,
+      "Snowfall": 0,
+      "Precipitation": 189.5
+    },
+    {
+      "Year": 2021,
+      "Month": 11,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -6.2,
+      "Snowfall": 0,
+      "Precipitation": 34.7
+    },
+    {
+      "Year": 2021,
+      "Month": 2,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": -5.5,
+      "Snowfall": 205.9,
+      "Precipitation": 187.8
+    },
+    {
+      "Year": 2021,
+      "Month": 7,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": 30.1,
+      "Snowfall": 0,
+      "Precipitation": 61.7
+    },
+    {
+      "Year": 2016,
+      "Month": 5,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": -36.0,
+      "Snowfall": 0,
+      "Precipitation": 80.0
+    },
+    {
+      "Year": 2017,
+      "Month": 2,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": -6.7,
+      "Snowfall": 153.4,
+      "Precipitation": 192.2
+    },
+    {
+      "Year": 2023,
+      "Month": 3,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": 3.0,
+      "Snowfall": 0,
+      "Precipitation": 175.6
+    },
+    {
+      "Year": 2015,
+      "Month": 4,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -13.8,
+      "Snowfall": 0,
+      "Precipitation": 156.0
+    },
+    {
+      "Year": 2021,
+      "Month": 1,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": 0.0,
+      "Snowfall": 80.8,
+      "Precipitation": 194.2
+    },
+    {
+      "Year": 2017,
+      "Month": 10,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": -35.0,
+      "Snowfall": 0,
+      "Precipitation": 21.7
+    },
+    {
+      "Year": 2019,
+      "Month": 12,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": 17.9,
+      "Snowfall": 243.4,
+      "Precipitation": 137.0
+    },
+    {
+      "Year": 2017,
+      "Month": 11,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": -5.0,
+      "Snowfall": 0,
+      "Precipitation": 88.4
+    },
+    {
+      "Year": 2018,
+      "Month": 3,
+      "Province": "NB",
+      "City": "Fredericton",
+      "Temperature": -31.9,
+      "Snowfall": 0,
+      "Precipitation": 248.0
+    },
+    {
+      "Year": 2014,
+      "Month": 3,
+      "Province": "NB",
+      "City": "Fredericton",
+      "Temperature": 5.6,
+      "Snowfall": 0,
+      "Precipitation": 214.1
+    },
+    {
+      "Year": 2016,
+      "Month": 8,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": 38.5,
+      "Snowfall": 0,
+      "Precipitation": 204.4
+    },
+    {
+      "Year": 2020,
+      "Month": 9,
+      "Province": "BC",
+      "City": "Kelowna",
+      "Temperature": 4.8,
+      "Snowfall": 0,
+      "Precipitation": 68.1
+    },
+    {
+      "Year": 2018,
+      "Month": 9,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": -13.3,
+      "Snowfall": 0,
+      "Precipitation": 101.4
+    },
+    {
+      "Year": 2021,
+      "Month": 7,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": -0.5,
+      "Snowfall": 0,
+      "Precipitation": 26.0
+    },
+    {
+      "Year": 2019,
+      "Month": 5,
+      "Province": "NS",
+      "City": "Sydney",
+      "Temperature": 16.3,
+      "Snowfall": 0,
+      "Precipitation": 77.1
+    },
+    {
+      "Year": 2021,
+      "Month": 1,
+      "Province": "NB",
+      "City": "Fredericton",
+      "Temperature": 17.2,
+      "Snowfall": 122.0,
+      "Precipitation": 101.7
+    },
+    {
+      "Year": 2015,
+      "Month": 11,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": 7.9,
+      "Snowfall": 0,
+      "Precipitation": 177.5
+    },
+    {
+      "Year": 2017,
+      "Month": 4,
+      "Province": "AB",
+      "City": "Edmonton",
+      "Temperature": 17.4,
+      "Snowfall": 0,
+      "Precipitation": 159.6
+    },
+    {
+      "Year": 2022,
+      "Month": 3,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": 18.8,
+      "Snowfall": 0,
+      "Precipitation": 190.7
+    },
+    {
+      "Year": 2015,
+      "Month": 3,
+      "Province": "QC",
+      "City": "Montreal",
+      "Temperature": -16.8,
+      "Snowfall": 0,
+      "Precipitation": 235.1
+    },
+    {
+      "Year": 2022,
+      "Month": 9,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": -25.6,
+      "Snowfall": 0,
+      "Precipitation": 8.0
+    },
+    {
+      "Year": 2014,
+      "Month": 11,
+      "Province": "NS",
+      "City": "Dartmouth",
+      "Temperature": -17.8,
+      "Snowfall": 0,
+      "Precipitation": 108.6
+    },
+    {
+      "Year": 2014,
+      "Month": 11,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 33.7,
+      "Snowfall": 0,
+      "Precipitation": 119.5
+    },
+    {
+      "Year": 2016,
+      "Month": 10,
+      "Province": "NS",
+      "City": "Sydney",
+      "Temperature": 12.4,
+      "Snowfall": 0,
+      "Precipitation": 114.2
+    },
+    {
+      "Year": 2020,
+      "Month": 12,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": -14.9,
+      "Snowfall": 287.1,
+      "Precipitation": 229.0
+    },
+    {
+      "Year": 2019,
+      "Month": 6,
+      "Province": "SK",
+      "City": "Prince Albert",
+      "Temperature": 20.1,
+      "Snowfall": 0,
+      "Precipitation": 97.9
+    },
+    {
+      "Year": 2019,
+      "Month": 6,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": -39.9,
+      "Snowfall": 0,
+      "Precipitation": 158.6
+    },
+    {
+      "Year": 2016,
+      "Month": 1,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": -28.4,
+      "Snowfall": 64.0,
+      "Precipitation": 177.1
+    },
+    {
+      "Year": 2018,
+      "Month": 12,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": -2.5,
+      "Snowfall": 92.8,
+      "Precipitation": 220.8
+    },
+    {
+      "Year": 2021,
+      "Month": 8,
+      "Province": "ON",
+      "City": "Toronto",
+      "Temperature": 25.6,
+      "Snowfall": 0,
+      "Precipitation": 18.8
+    },
+    {
+      "Year": 2022,
+      "Month": 12,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -23.2,
+      "Snowfall": 274.0,
+      "Precipitation": 195.5
+    },
+    {
+      "Year": 2016,
+      "Month": 11,
+      "Province": "SK",
+      "City": "Saskatoon",
+      "Temperature": -21.7,
+      "Snowfall": 0,
+      "Precipitation": 91.4
+    },
+    {
+      "Year": 2015,
+      "Month": 12,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 33.6,
+      "Snowfall": 263.9,
+      "Precipitation": 106.3
+    },
+    {
+      "Year": 2021,
+      "Month": 10,
+      "Province": "NB",
+      "City": "Moncton",
+      "Temperature": 19.9,
+      "Snowfall": 0,
+      "Precipitation": 44.8
+    },
+    {
+      "Year": 2014,
+      "Month": 4,
+      "Province": "AB",
+      "City": "Edmonton",
+      "Temperature": -4.0,
+      "Snowfall": 0,
+      "Precipitation": 49.6
+    },
+    {
+      "Year": 2023,
+      "Month": 10,
+      "Province": "NB",
+      "City": "Moncton",
+      "Temperature": 38.1,
+      "Snowfall": 0,
+      "Precipitation": 53.2
+    },
+    {
+      "Year": 2021,
+      "Month": 3,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": 32.7,
+      "Snowfall": 0,
+      "Precipitation": 95.8
+    },
+    {
+      "Year": 2018,
+      "Month": 3,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": -11.7,
+      "Snowfall": 0,
+      "Precipitation": 200.4
+    },
+    {
+      "Year": 2021,
+      "Month": 3,
+      "Province": "BC",
+      "City": "Surrey",
+      "Temperature": 7.9,
+      "Snowfall": 0,
+      "Precipitation": 140.3
+    },
+    {
+      "Year": 2019,
+      "Month": 11,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": 28.3,
+      "Snowfall": 0,
+      "Precipitation": 135.1
+    },
+    {
+      "Year": 2021,
+      "Month": 8,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": 9.9,
+      "Snowfall": 0,
+      "Precipitation": 27.2
+    },
+    {
+      "Year": 2015,
+      "Month": 11,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": -19.4,
+      "Snowfall": 0,
+      "Precipitation": 227.1
+    },
+    {
+      "Year": 2023,
+      "Month": 12,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": -36.4,
+      "Snowfall": 230.6,
+      "Precipitation": 44.9
+    },
+    {
+      "Year": 2015,
+      "Month": 7,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": 16.4,
+      "Snowfall": 0,
+      "Precipitation": 210.5
+    },
+    {
+      "Year": 2017,
+      "Month": 8,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": -18.4,
+      "Snowfall": 0,
+      "Precipitation": 7.8
+    },
+    {
+      "Year": 2018,
+      "Month": 2,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": -32.4,
+      "Snowfall": 133.1,
+      "Precipitation": 72.1
+    },
+    {
+      "Year": 2017,
+      "Month": 12,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -37.3,
+      "Snowfall": 166.6,
+      "Precipitation": 248.6
+    },
+    {
+      "Year": 2018,
+      "Month": 11,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": -11.1,
+      "Snowfall": 0,
+      "Precipitation": 177.1
+    },
+    {
+      "Year": 2021,
+      "Month": 8,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 35.9,
+      "Snowfall": 0,
+      "Precipitation": 70.8
+    },
+    {
+      "Year": 2014,
+      "Month": 6,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": -39.2,
+      "Snowfall": 0,
+      "Precipitation": 141.1
+    },
+    {
+      "Year": 2020,
+      "Month": 7,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": 29.1,
+      "Snowfall": 0,
+      "Precipitation": 226.3
+    },
+    {
+      "Year": 2015,
+      "Month": 7,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 39.2,
+      "Snowfall": 0,
+      "Precipitation": 234.1
+    },
+    {
+      "Year": 2015,
+      "Month": 9,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": 36.6,
+      "Snowfall": 0,
+      "Precipitation": 188.2
+    },
+    {
+      "Year": 2021,
+      "Month": 5,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": 21.6,
+      "Snowfall": 0,
+      "Precipitation": 209.5
+    },
+    {
+      "Year": 2023,
+      "Month": 3,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": -7.6,
+      "Snowfall": 0,
+      "Precipitation": 188.5
+    },
+    {
+      "Year": 2019,
+      "Month": 11,
+      "Province": "NL",
+      "City": "Corner Brook",
+      "Temperature": 26.5,
+      "Snowfall": 0,
+      "Precipitation": 117.0
+    },
+    {
+      "Year": 2017,
+      "Month": 12,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": -19.2,
+      "Snowfall": 130.5,
+      "Precipitation": 108.4
+    },
+    {
+      "Year": 2019,
+      "Month": 8,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": -6.4,
+      "Snowfall": 0,
+      "Precipitation": 185.7
+    },
+    {
+      "Year": 2019,
+      "Month": 3,
+      "Province": "NB",
+      "City": "Moncton",
+      "Temperature": -3.5,
+      "Snowfall": 0,
+      "Precipitation": 177.4
+    },
+    {
+      "Year": 2019,
+      "Month": 2,
+      "Province": "QC",
+      "City": "Montreal",
+      "Temperature": 33.7,
+      "Snowfall": 281.7,
+      "Precipitation": 215.9
+    },
+    {
+      "Year": 2019,
+      "Month": 6,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": 24.0,
+      "Snowfall": 0,
+      "Precipitation": 36.0
+    },
+    {
+      "Year": 2023,
+      "Month": 3,
+      "Province": "ON",
+      "City": "Toronto",
+      "Temperature": -38.3,
+      "Snowfall": 0,
+      "Precipitation": 82.6
+    },
+    {
+      "Year": 2023,
+      "Month": 8,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": -19.8,
+      "Snowfall": 0,
+      "Precipitation": 82.6
+    },
+    {
+      "Year": 2022,
+      "Month": 6,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": 7.5,
+      "Snowfall": 0,
+      "Precipitation": 239.0
+    },
+    {
+      "Year": 2021,
+      "Month": 8,
+      "Province": "QC",
+      "City": "Laval",
+      "Temperature": -36.5,
+      "Snowfall": 0,
+      "Precipitation": 135.7
+    },
+    {
+      "Year": 2015,
+      "Month": 7,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": -29.8,
+      "Snowfall": 0,
+      "Precipitation": 85.7
+    },
+    {
+      "Year": 2015,
+      "Month": 10,
+      "Province": "NB",
+      "City": "Fredericton",
+      "Temperature": -26.4,
+      "Snowfall": 0,
+      "Precipitation": 249.4
+    },
+    {
+      "Year": 2023,
+      "Month": 10,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": 7.8,
+      "Snowfall": 0,
+      "Precipitation": 142.8
+    },
+    {
+      "Year": 2015,
+      "Month": 1,
+      "Province": "NL",
+      "City": "Corner Brook",
+      "Temperature": 14.9,
+      "Snowfall": 289.6,
+      "Precipitation": 8.5
+    },
+    {
+      "Year": 2014,
+      "Month": 1,
+      "Province": "BC",
+      "City": "Victoria",
+      "Temperature": -24.2,
+      "Snowfall": 155.7,
+      "Precipitation": 215.3
+    },
+    {
+      "Year": 2014,
+      "Month": 6,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": -35.7,
+      "Snowfall": 0,
+      "Precipitation": 130.9
+    },
+    {
+      "Year": 2023,
+      "Month": 10,
+      "Province": "ON",
+      "City": "Hamilton",
+      "Temperature": 8.8,
+      "Snowfall": 0,
+      "Precipitation": 143.7
+    },
+    {
+      "Year": 2018,
+      "Month": 2,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": 34.6,
+      "Snowfall": 295.8,
+      "Precipitation": 31.4
+    },
+    {
+      "Year": 2022,
+      "Month": 2,
+      "Province": "NL",
+      "City": "Corner Brook",
+      "Temperature": -14.0,
+      "Snowfall": 24.8,
+      "Precipitation": 137.6
+    },
+    {
+      "Year": 2016,
+      "Month": 6,
+      "Province": "NS",
+      "City": "Sydney",
+      "Temperature": 29.3,
+      "Snowfall": 0,
+      "Precipitation": 77.6
+    },
+    {
+      "Year": 2018,
+      "Month": 2,
+      "Province": "QC",
+      "City": "Quebec City",
+      "Temperature": -4.8,
+      "Snowfall": 251.4,
+      "Precipitation": 81.4
+    },
+    {
+      "Year": 2023,
+      "Month": 6,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": 36.6,
+      "Snowfall": 0,
+      "Precipitation": 56.3
+    },
+    {
+      "Year": 2021,
+      "Month": 8,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": -9.8,
+      "Snowfall": 0,
+      "Precipitation": 44.8
+    },
+    {
+      "Year": 2022,
+      "Month": 1,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": -26.4,
+      "Snowfall": 254.4,
+      "Precipitation": 194.9
+    },
+    {
+      "Year": 2016,
+      "Month": 7,
+      "Province": "NL",
+      "City": "Corner Brook",
+      "Temperature": 33.6,
+      "Snowfall": 0,
+      "Precipitation": 82.9
+    },
+    {
+      "Year": 2022,
+      "Month": 9,
+      "Province": "NL",
+      "City": "Corner Brook",
+      "Temperature": 1.0,
+      "Snowfall": 0,
+      "Precipitation": 238.6
+    },
+    {
+      "Year": 2021,
+      "Month": 9,
+      "Province": "SK",
+      "City": "Prince Albert",
+      "Temperature": 34.3,
+      "Snowfall": 0,
+      "Precipitation": 26.7
+    },
+    {
+      "Year": 2018,
+      "Month": 7,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": -22.3,
+      "Snowfall": 0,
+      "Precipitation": 80.2
+    },
+    {
+      "Year": 2019,
+      "Month": 3,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": -33.4,
+      "Snowfall": 0,
+      "Precipitation": 69.4
+    },
+    {
+      "Year": 2021,
+      "Month": 9,
+      "Province": "QC",
+      "City": "Gatineau",
+      "Temperature": -35.0,
+      "Snowfall": 0,
+      "Precipitation": 69.6
+    },
+    {
+      "Year": 2021,
+      "Month": 9,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": -22.7,
+      "Snowfall": 0,
+      "Precipitation": 205.9
+    },
+    {
+      "Year": 2020,
+      "Month": 5,
+      "Province": "AB",
+      "City": "Lethbridge",
+      "Temperature": 5.1,
+      "Snowfall": 0,
+      "Precipitation": 247.2
+    },
+    {
+      "Year": 2015,
+      "Month": 12,
+      "Province": "NB",
+      "City": "Moncton",
+      "Temperature": 37.4,
+      "Snowfall": 23.9,
+      "Precipitation": 63.9
+    },
+    {
+      "Year": 2021,
+      "Month": 6,
+      "Province": "ON",
+      "City": "Ottawa",
+      "Temperature": -25.0,
+      "Snowfall": 0,
+      "Precipitation": 149.3
+    },
+    {
+      "Year": 2020,
+      "Month": 9,
+      "Province": "NS",
+      "City": "Sydney",
+      "Temperature": -25.5,
+      "Snowfall": 0,
+      "Precipitation": 119.0
+    },
+    {
+      "Year": 2019,
+      "Month": 3,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -22.5,
+      "Snowfall": 0,
+      "Precipitation": 210.3
+    },
+    {
+      "Year": 2023,
+      "Month": 7,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": 7.3,
+      "Snowfall": 0,
+      "Precipitation": 58.7
+    },
+    {
+      "Year": 2021,
+      "Month": 8,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": 20.5,
+      "Snowfall": 0,
+      "Precipitation": 7.5
+    },
+    {
+      "Year": 2014,
+      "Month": 11,
+      "Province": "SK",
+      "City": "Prince Albert",
+      "Temperature": -13.6,
+      "Snowfall": 0,
+      "Precipitation": 102.9
+    },
+    {
+      "Year": 2014,
+      "Month": 12,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": 32.8,
+      "Snowfall": 141.6,
+      "Precipitation": 7.8
+    },
+    {
+      "Year": 2021,
+      "Month": 1,
+      "Province": "SK",
+      "City": "Prince Albert",
+      "Temperature": 7.7,
+      "Snowfall": 278.2,
+      "Precipitation": 43.6
+    },
+    {
+      "Year": 2020,
+      "Month": 11,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": -19.0,
+      "Snowfall": 0,
+      "Precipitation": 202.4
+    },
+    {
+      "Year": 2019,
+      "Month": 4,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": 35.3,
+      "Snowfall": 0,
+      "Precipitation": 232.0
+    },
+    {
+      "Year": 2019,
+      "Month": 7,
+      "Province": "SK",
+      "City": "Prince Albert",
+      "Temperature": 32.7,
+      "Snowfall": 0,
+      "Precipitation": 104.7
+    },
+    {
+      "Year": 2022,
+      "Month": 12,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": -5.8,
+      "Snowfall": 168.0,
+      "Precipitation": 242.3
+    },
+    {
+      "Year": 2015,
+      "Month": 4,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 3.7,
+      "Snowfall": 0,
+      "Precipitation": 126.2
+    },
+    {
+      "Year": 2022,
+      "Month": 7,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": -24.1,
+      "Snowfall": 0,
+      "Precipitation": 143.3
+    },
+    {
+      "Year": 2020,
+      "Month": 12,
+      "Province": "BC",
+      "City": "Surrey",
+      "Temperature": 1.6,
+      "Snowfall": 277.8,
+      "Precipitation": 235.4
+    },
+    {
+      "Year": 2020,
+      "Month": 10,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 38.5,
+      "Snowfall": 0,
+      "Precipitation": 136.5
+    },
+    {
+      "Year": 2023,
+      "Month": 5,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": 1.5,
+      "Snowfall": 0,
+      "Precipitation": 134.0
+    },
+    {
+      "Year": 2021,
+      "Month": 11,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": -10.4,
+      "Snowfall": 0,
+      "Precipitation": 160.0
+    },
+    {
+      "Year": 2017,
+      "Month": 5,
+      "Province": "AB",
+      "City": "Lethbridge",
+      "Temperature": 4.8,
+      "Snowfall": 0,
+      "Precipitation": 159.9
+    },
+    {
+      "Year": 2016,
+      "Month": 3,
+      "Province": "BC",
+      "City": "Victoria",
+      "Temperature": 16.4,
+      "Snowfall": 0,
+      "Precipitation": 239.6
+    },
+    {
+      "Year": 2021,
+      "Month": 9,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": -37.9,
+      "Snowfall": 0,
+      "Precipitation": 114.1
+    },
+    {
+      "Year": 2021,
+      "Month": 9,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -35.2,
+      "Snowfall": 0,
+      "Precipitation": 50.3
+    },
+    {
+      "Year": 2017,
+      "Month": 2,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": -28.7,
+      "Snowfall": 291.0,
+      "Precipitation": 117.4
+    },
+    {
+      "Year": 2017,
+      "Month": 12,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": 3.4,
+      "Snowfall": 228.4,
+      "Precipitation": 9.1
+    },
+    {
+      "Year": 2021,
+      "Month": 4,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -12.0,
+      "Snowfall": 0,
+      "Precipitation": 186.8
+    },
+    {
+      "Year": 2016,
+      "Month": 1,
+      "Province": "BC",
+      "City": "Surrey",
+      "Temperature": -23.6,
+      "Snowfall": 244.1,
+      "Precipitation": 70.8
+    },
+    {
+      "Year": 2019,
+      "Month": 3,
+      "Province": "BC",
+      "City": "Victoria",
+      "Temperature": 27.6,
+      "Snowfall": 0,
+      "Precipitation": 89.4
+    },
+    {
+      "Year": 2016,
+      "Month": 5,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": -7.0,
+      "Snowfall": 0,
+      "Precipitation": 218.8
+    },
+    {
+      "Year": 2015,
+      "Month": 4,
+      "Province": "NS",
+      "City": "Sydney",
+      "Temperature": -9.8,
+      "Snowfall": 0,
+      "Precipitation": 249.6
+    },
+    {
+      "Year": 2017,
+      "Month": 10,
+      "Province": "NU",
+      "City": "Rankin Inlet",
+      "Temperature": 33.9,
+      "Snowfall": 0,
+      "Precipitation": 109.3
+    },
+    {
+      "Year": 2016,
+      "Month": 1,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -21.5,
+      "Snowfall": 23.8,
+      "Precipitation": 249.6
+    },
+    {
+      "Year": 2023,
+      "Month": 10,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 18.6,
+      "Snowfall": 0,
+      "Precipitation": 133.0
+    },
+    {
+      "Year": 2017,
+      "Month": 8,
+      "Province": "NB",
+      "City": "Fredericton",
+      "Temperature": -5.5,
+      "Snowfall": 0,
+      "Precipitation": 28.8
+    },
+    {
+      "Year": 2022,
+      "Month": 4,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -30.7,
+      "Snowfall": 0,
+      "Precipitation": 206.6
+    },
+    {
+      "Year": 2015,
+      "Month": 6,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -34.7,
+      "Snowfall": 0,
+      "Precipitation": 57.1
+    },
+    {
+      "Year": 2023,
+      "Month": 5,
+      "Province": "BC",
+      "City": "Kelowna",
+      "Temperature": 21.1,
+      "Snowfall": 0,
+      "Precipitation": 242.1
+    },
+    {
+      "Year": 2015,
+      "Month": 11,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 17.2,
+      "Snowfall": 0,
+      "Precipitation": 204.0
+    },
+    {
+      "Year": 2016,
+      "Month": 11,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 35.2,
+      "Snowfall": 0,
+      "Precipitation": 51.5
+    },
+    {
+      "Year": 2023,
+      "Month": 9,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": -16.3,
+      "Snowfall": 0,
+      "Precipitation": 65.4
+    },
+    {
+      "Year": 2014,
+      "Month": 12,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": 23.7,
+      "Snowfall": 177.3,
+      "Precipitation": 49.9
+    },
+    {
+      "Year": 2017,
+      "Month": 5,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": -21.0,
+      "Snowfall": 0,
+      "Precipitation": 184.2
+    },
+    {
+      "Year": 2018,
+      "Month": 8,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 20.2,
+      "Snowfall": 0,
+      "Precipitation": 205.7
+    },
+    {
+      "Year": 2020,
+      "Month": 2,
+      "Province": "QC",
+      "City": "Laval",
+      "Temperature": 6.8,
+      "Snowfall": 19.6,
+      "Precipitation": 36.4
+    },
+    {
+      "Year": 2020,
+      "Month": 1,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": 38.4,
+      "Snowfall": 189.4,
+      "Precipitation": 89.6
+    },
+    {
+      "Year": 2015,
+      "Month": 4,
+      "Province": "NS",
+      "City": "Sydney",
+      "Temperature": 31.4,
+      "Snowfall": 0,
+      "Precipitation": 207.2
+    },
+    {
+      "Year": 2022,
+      "Month": 8,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": 21.6,
+      "Snowfall": 0,
+      "Precipitation": 114.6
+    },
+    {
+      "Year": 2021,
+      "Month": 2,
+      "Province": "NB",
+      "City": "Moncton",
+      "Temperature": 4.2,
+      "Snowfall": 123.6,
+      "Precipitation": 241.7
+    },
+    {
+      "Year": 2015,
+      "Month": 7,
+      "Province": "NB",
+      "City": "Moncton",
+      "Temperature": -4.2,
+      "Snowfall": 0,
+      "Precipitation": 164.8
+    },
+    {
+      "Year": 2015,
+      "Month": 7,
+      "Province": "ON",
+      "City": "Mississauga",
+      "Temperature": 13.3,
+      "Snowfall": 0,
+      "Precipitation": 7.4
+    },
+    {
+      "Year": 2016,
+      "Month": 3,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": 26.1,
+      "Snowfall": 0,
+      "Precipitation": 92.2
+    },
+    {
+      "Year": 2023,
+      "Month": 9,
+      "Province": "ON",
+      "City": "Hamilton",
+      "Temperature": -30.2,
+      "Snowfall": 0,
+      "Precipitation": 214.9
+    },
+    {
+      "Year": 2016,
+      "Month": 10,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": 8.9,
+      "Snowfall": 0,
+      "Precipitation": 56.4
+    },
+    {
+      "Year": 2023,
+      "Month": 2,
+      "Province": "BC",
+      "City": "Victoria",
+      "Temperature": 12.5,
+      "Snowfall": 61.0,
+      "Precipitation": 134.2
+    },
+    {
+      "Year": 2016,
+      "Month": 10,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 15.7,
+      "Snowfall": 0,
+      "Precipitation": 241.0
+    },
+    {
+      "Year": 2015,
+      "Month": 6,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 24.1,
+      "Snowfall": 0,
+      "Precipitation": 13.2
+    },
+    {
+      "Year": 2022,
+      "Month": 4,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": 36.3,
+      "Snowfall": 0,
+      "Precipitation": 238.2
+    },
+    {
+      "Year": 2017,
+      "Month": 8,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": -25.1,
+      "Snowfall": 0,
+      "Precipitation": 138.0
+    },
+    {
+      "Year": 2022,
+      "Month": 12,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": -8.5,
+      "Snowfall": 7.4,
+      "Precipitation": 139.7
+    },
+    {
+      "Year": 2021,
+      "Month": 10,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": 15.8,
+      "Snowfall": 0,
+      "Precipitation": 185.7
+    },
+    {
+      "Year": 2022,
+      "Month": 7,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -37.5,
+      "Snowfall": 0,
+      "Precipitation": 227.3
+    },
+    {
+      "Year": 2016,
+      "Month": 8,
+      "Province": "MB",
+      "City": "Steinbach",
+      "Temperature": -17.7,
+      "Snowfall": 0,
+      "Precipitation": 145.1
+    },
+    {
+      "Year": 2023,
+      "Month": 2,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": -29.7,
+      "Snowfall": 52.1,
+      "Precipitation": 82.7
+    },
+    {
+      "Year": 2016,
+      "Month": 12,
+      "Province": "MB",
+      "City": "Steinbach",
+      "Temperature": 24.1,
+      "Snowfall": 124.8,
+      "Precipitation": 180.5
+    },
+    {
+      "Year": 2017,
+      "Month": 2,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": -37.6,
+      "Snowfall": 238.9,
+      "Precipitation": 0.3
+    },
+    {
+      "Year": 2022,
+      "Month": 3,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": -39.0,
+      "Snowfall": 0,
+      "Precipitation": 145.9
+    },
+    {
+      "Year": 2014,
+      "Month": 11,
+      "Province": "BC",
+      "City": "Victoria",
+      "Temperature": -39.0,
+      "Snowfall": 0,
+      "Precipitation": 114.3
+    },
+    {
+      "Year": 2023,
+      "Month": 10,
+      "Province": "BC",
+      "City": "Kelowna",
+      "Temperature": -2.5,
+      "Snowfall": 0,
+      "Precipitation": 7.9
+    },
+    {
+      "Year": 2017,
+      "Month": 10,
+      "Province": "QC",
+      "City": "Gatineau",
+      "Temperature": 37.7,
+      "Snowfall": 0,
+      "Precipitation": 111.1
+    },
+    {
+      "Year": 2022,
+      "Month": 3,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": 39.6,
+      "Snowfall": 0,
+      "Precipitation": 133.4
+    },
+    {
+      "Year": 2016,
+      "Month": 9,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 14.2,
+      "Snowfall": 0,
+      "Precipitation": 24.9
+    },
+    {
+      "Year": 2023,
+      "Month": 7,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 14.8,
+      "Snowfall": 0,
+      "Precipitation": 144.0
+    },
+    {
+      "Year": 2018,
+      "Month": 3,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": -33.5,
+      "Snowfall": 0,
+      "Precipitation": 161.3
+    },
+    {
+      "Year": 2016,
+      "Month": 2,
+      "Province": "ON",
+      "City": "Ottawa",
+      "Temperature": -28.9,
+      "Snowfall": 90.7,
+      "Precipitation": 100.2
+    },
+    {
+      "Year": 2018,
+      "Month": 8,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": 5.9,
+      "Snowfall": 0,
+      "Precipitation": 149.7
+    },
+    {
+      "Year": 2015,
+      "Month": 11,
+      "Province": "BC",
+      "City": "Victoria",
+      "Temperature": -17.1,
+      "Snowfall": 0,
+      "Precipitation": 57.7
+    },
+    {
+      "Year": 2015,
+      "Month": 1,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": -34.2,
+      "Snowfall": 46.3,
+      "Precipitation": 171.3
+    },
+    {
+      "Year": 2019,
+      "Month": 12,
+      "Province": "QC",
+      "City": "Gatineau",
+      "Temperature": -36.1,
+      "Snowfall": 99.9,
+      "Precipitation": 138.7
+    },
+    {
+      "Year": 2015,
+      "Month": 11,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": -3.0,
+      "Snowfall": 0,
+      "Precipitation": 114.7
+    },
+    {
+      "Year": 2016,
+      "Month": 5,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": -19.9,
+      "Snowfall": 0,
+      "Precipitation": 187.6
+    },
+    {
+      "Year": 2021,
+      "Month": 1,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": 12.8,
+      "Snowfall": 246.4,
+      "Precipitation": 114.3
+    },
+    {
+      "Year": 2020,
+      "Month": 8,
+      "Province": "MB",
+      "City": "Steinbach",
+      "Temperature": 15.6,
+      "Snowfall": 0,
+      "Precipitation": 183.4
+    },
+    {
+      "Year": 2015,
+      "Month": 9,
+      "Province": "AB",
+      "City": "Edmonton",
+      "Temperature": -35.2,
+      "Snowfall": 0,
+      "Precipitation": 74.5
+    },
+    {
+      "Year": 2015,
+      "Month": 9,
+      "Province": "AB",
+      "City": "Edmonton",
+      "Temperature": 4.3,
+      "Snowfall": 0,
+      "Precipitation": 204.4
+    },
+    {
+      "Year": 2020,
+      "Month": 12,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 29.3,
+      "Snowfall": 266.0,
+      "Precipitation": 166.1
+    },
+    {
+      "Year": 2020,
+      "Month": 4,
+      "Province": "ON",
+      "City": "Toronto",
+      "Temperature": -10.2,
+      "Snowfall": 0,
+      "Precipitation": 51.4
+    },
+    {
+      "Year": 2023,
+      "Month": 4,
+      "Province": "NL",
+      "City": "Corner Brook",
+      "Temperature": -5.0,
+      "Snowfall": 0,
+      "Precipitation": 186.7
+    },
+    {
+      "Year": 2023,
+      "Month": 5,
+      "Province": "NS",
+      "City": "Sydney",
+      "Temperature": -14.4,
+      "Snowfall": 0,
+      "Precipitation": 197.7
+    },
+    {
+      "Year": 2020,
+      "Month": 5,
+      "Province": "MB",
+      "City": "Brandon",
+      "Temperature": -38.5,
+      "Snowfall": 0,
+      "Precipitation": 209.7
+    },
+    {
+      "Year": 2014,
+      "Month": 5,
+      "Province": "ON",
+      "City": "Mississauga",
+      "Temperature": 8.2,
+      "Snowfall": 0,
+      "Precipitation": 95.7
+    },
+    {
+      "Year": 2014,
+      "Month": 5,
+      "Province": "ON",
+      "City": "Hamilton",
+      "Temperature": 16.3,
+      "Snowfall": 0,
+      "Precipitation": 212.0
+    },
+    {
+      "Year": 2017,
+      "Month": 7,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -26.2,
+      "Snowfall": 0,
+      "Precipitation": 9.9
+    },
+    {
+      "Year": 2021,
+      "Month": 2,
+      "Province": "QC",
+      "City": "Montreal",
+      "Temperature": -1.5,
+      "Snowfall": 70.0,
+      "Precipitation": 211.0
+    },
+    {
+      "Year": 2018,
+      "Month": 7,
+      "Province": "MB",
+      "City": "Steinbach",
+      "Temperature": 20.9,
+      "Snowfall": 0,
+      "Precipitation": 236.2
+    },
+    {
+      "Year": 2020,
+      "Month": 12,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": -17.2,
+      "Snowfall": 130.1,
+      "Precipitation": 49.5
+    },
+    {
+      "Year": 2019,
+      "Month": 6,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": -25.1,
+      "Snowfall": 0,
+      "Precipitation": 53.8
+    },
+    {
+      "Year": 2014,
+      "Month": 7,
+      "Province": "QC",
+      "City": "Gatineau",
+      "Temperature": -36.9,
+      "Snowfall": 0,
+      "Precipitation": 84.9
+    },
+    {
+      "Year": 2014,
+      "Month": 10,
+      "Province": "NB",
+      "City": "Moncton",
+      "Temperature": 19.8,
+      "Snowfall": 0,
+      "Precipitation": 234.8
+    },
+    {
+      "Year": 2018,
+      "Month": 12,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": -35.9,
+      "Snowfall": 115.0,
+      "Precipitation": 76.4
+    },
+    {
+      "Year": 2023,
+      "Month": 10,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -8.5,
+      "Snowfall": 0,
+      "Precipitation": 198.6
+    },
+    {
+      "Year": 2023,
+      "Month": 2,
+      "Province": "BC",
+      "City": "Surrey",
+      "Temperature": -32.1,
+      "Snowfall": 125.9,
+      "Precipitation": 192.6
+    },
+    {
+      "Year": 2016,
+      "Month": 6,
+      "Province": "NB",
+      "City": "Moncton",
+      "Temperature": 21.4,
+      "Snowfall": 0,
+      "Precipitation": 189.2
+    },
+    {
+      "Year": 2018,
+      "Month": 1,
+      "Province": "SK",
+      "City": "Saskatoon",
+      "Temperature": 29.1,
+      "Snowfall": 0.1,
+      "Precipitation": 214.0
+    },
+    {
+      "Year": 2018,
+      "Month": 7,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": -23.6,
+      "Snowfall": 0,
+      "Precipitation": 158.1
+    },
+    {
+      "Year": 2023,
+      "Month": 9,
+      "Province": "SK",
+      "City": "Prince Albert",
+      "Temperature": -6.4,
+      "Snowfall": 0,
+      "Precipitation": 113.6
+    },
+    {
+      "Year": 2019,
+      "Month": 9,
+      "Province": "NL",
+      "City": "Gander",
+      "Temperature": 27.0,
+      "Snowfall": 0,
+      "Precipitation": 145.8
+    },
+    {
+      "Year": 2017,
+      "Month": 12,
+      "Province": "SK",
+      "City": "Saskatoon",
+      "Temperature": 24.7,
+      "Snowfall": 99.2,
+      "Precipitation": 58.9
+    },
+    {
+      "Year": 2018,
+      "Month": 3,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": -35.8,
+      "Snowfall": 0,
+      "Precipitation": 208.5
+    },
+    {
+      "Year": 2019,
+      "Month": 9,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 6.1,
+      "Snowfall": 0,
+      "Precipitation": 249.6
+    },
+    {
+      "Year": 2018,
+      "Month": 10,
+      "Province": "AB",
+      "City": "Edmonton",
+      "Temperature": -11.3,
+      "Snowfall": 0,
+      "Precipitation": 160.0
+    },
+    {
+      "Year": 2014,
+      "Month": 5,
+      "Province": "BC",
+      "City": "Kelowna",
+      "Temperature": 26.5,
+      "Snowfall": 0,
+      "Precipitation": 219.6
+    },
+    {
+      "Year": 2016,
+      "Month": 10,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": -17.9,
+      "Snowfall": 0,
+      "Precipitation": 58.6
+    },
+    {
+      "Year": 2022,
+      "Month": 8,
+      "Province": "NS",
+      "City": "Sydney",
+      "Temperature": -3.3,
+      "Snowfall": 0,
+      "Precipitation": 47.5
+    },
+    {
+      "Year": 2019,
+      "Month": 4,
+      "Province": "NB",
+      "City": "Moncton",
+      "Temperature": 21.7,
+      "Snowfall": 0,
+      "Precipitation": 73.5
+    },
+    {
+      "Year": 2020,
+      "Month": 5,
+      "Province": "MB",
+      "City": "Steinbach",
+      "Temperature": -15.6,
+      "Snowfall": 0,
+      "Precipitation": 153.0
+    },
+    {
+      "Year": 2021,
+      "Month": 3,
+      "Province": "SK",
+      "City": "Prince Albert",
+      "Temperature": -0.5,
+      "Snowfall": 0,
+      "Precipitation": 55.0
+    },
+    {
+      "Year": 2019,
+      "Month": 11,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": -2.5,
+      "Snowfall": 0,
+      "Precipitation": 89.6
+    },
+    {
+      "Year": 2015,
+      "Month": 10,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": 9.2,
+      "Snowfall": 0,
+      "Precipitation": 35.0
+    },
+    {
+      "Year": 2020,
+      "Month": 10,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": -32.6,
+      "Snowfall": 0,
+      "Precipitation": 67.8
+    },
+    {
+      "Year": 2015,
+      "Month": 1,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": 0.4,
+      "Snowfall": 270.7,
+      "Precipitation": 71.1
+    },
+    {
+      "Year": 2021,
+      "Month": 2,
+      "Province": "NS",
+      "City": "Dartmouth",
+      "Temperature": -32.2,
+      "Snowfall": 164.3,
+      "Precipitation": 103.4
+    },
+    {
+      "Year": 2022,
+      "Month": 11,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": 15.6,
+      "Snowfall": 0,
+      "Precipitation": 146.8
+    },
+    {
+      "Year": 2017,
+      "Month": 4,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": 24.4,
+      "Snowfall": 0,
+      "Precipitation": 145.1
+    },
+    {
+      "Year": 2021,
+      "Month": 3,
+      "Province": "NB",
+      "City": "Fredericton",
+      "Temperature": 39.6,
+      "Snowfall": 0,
+      "Precipitation": 140.0
+    },
+    {
+      "Year": 2015,
+      "Month": 3,
+      "Province": "BC",
+      "City": "Surrey",
+      "Temperature": -18.1,
+      "Snowfall": 0,
+      "Precipitation": 100.6
+    },
+    {
+      "Year": 2022,
+      "Month": 1,
+      "Province": "NS",
+      "City": "Dartmouth",
+      "Temperature": 5.8,
+      "Snowfall": 265.9,
+      "Precipitation": 107.1
+    },
+    {
+      "Year": 2014,
+      "Month": 9,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -1.3,
+      "Snowfall": 0,
+      "Precipitation": 191.1
+    },
+    {
+      "Year": 2017,
+      "Month": 5,
+      "Province": "ON",
+      "City": "Toronto",
+      "Temperature": 2.6,
+      "Snowfall": 0,
+      "Precipitation": 233.2
+    },
+    {
+      "Year": 2018,
+      "Month": 10,
+      "Province": "ON",
+      "City": "Mississauga",
+      "Temperature": -13.0,
+      "Snowfall": 0,
+      "Precipitation": 174.2
+    },
+    {
+      "Year": 2017,
+      "Month": 8,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": -35.8,
+      "Snowfall": 0,
+      "Precipitation": 97.0
+    },
+    {
+      "Year": 2023,
+      "Month": 10,
+      "Province": "BC",
+      "City": "Vancouver",
+      "Temperature": 27.6,
+      "Snowfall": 0,
+      "Precipitation": 130.5
+    },
+    {
+      "Year": 2021,
+      "Month": 3,
+      "Province": "ON",
+      "City": "Hamilton",
+      "Temperature": 10.9,
+      "Snowfall": 0,
+      "Precipitation": 181.5
+    },
+    {
+      "Year": 2017,
+      "Month": 6,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 22.9,
+      "Snowfall": 0,
+      "Precipitation": 119.5
+    },
+    {
+      "Year": 2019,
+      "Month": 5,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": -7.7,
+      "Snowfall": 0,
+      "Precipitation": 22.0
+    },
+    {
+      "Year": 2014,
+      "Month": 2,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": -28.0,
+      "Snowfall": 163.3,
+      "Precipitation": 106.7
+    },
+    {
+      "Year": 2016,
+      "Month": 9,
+      "Province": "NL",
+      "City": "Corner Brook",
+      "Temperature": -6.5,
+      "Snowfall": 0,
+      "Precipitation": 71.1
+    },
+    {
+      "Year": 2020,
+      "Month": 5,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": 29.1,
+      "Snowfall": 0,
+      "Precipitation": 35.4
+    },
+    {
+      "Year": 2016,
+      "Month": 12,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 29.2,
+      "Snowfall": 257.4,
+      "Precipitation": 5.1
+    },
+    {
+      "Year": 2019,
+      "Month": 1,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": -25.4,
+      "Snowfall": 111.9,
+      "Precipitation": 102.2
+    },
+    {
+      "Year": 2014,
+      "Month": 7,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 5.9,
+      "Snowfall": 0,
+      "Precipitation": 124.4
+    },
+    {
+      "Year": 2021,
+      "Month": 8,
+      "Province": "BC",
+      "City": "Victoria",
+      "Temperature": 29.6,
+      "Snowfall": 0,
+      "Precipitation": 10.8
+    },
+    {
+      "Year": 2016,
+      "Month": 9,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 38.2,
+      "Snowfall": 0,
+      "Precipitation": 22.5
+    },
+    {
+      "Year": 2023,
+      "Month": 1,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 11.1,
+      "Snowfall": 227.5,
+      "Precipitation": 142.8
+    },
+    {
+      "Year": 2019,
+      "Month": 6,
+      "Province": "ON",
+      "City": "Ottawa",
+      "Temperature": 16.5,
+      "Snowfall": 0,
+      "Precipitation": 13.4
+    },
+    {
+      "Year": 2018,
+      "Month": 8,
+      "Province": "SK",
+      "City": "Regina",
+      "Temperature": 36.7,
+      "Snowfall": 0,
+      "Precipitation": 49.0
+    },
+    {
+      "Year": 2019,
+      "Month": 6,
+      "Province": "NL",
+      "City": "St. John’s",
+      "Temperature": 18.8,
+      "Snowfall": 0,
+      "Precipitation": 30.7
+    },
+    {
+      "Year": 2021,
+      "Month": 10,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": -18.5,
+      "Snowfall": 0,
+      "Precipitation": 15.6
+    },
+    {
+      "Year": 2015,
+      "Month": 8,
+      "Province": "QC",
+      "City": "Quebec City",
+      "Temperature": -23.9,
+      "Snowfall": 0,
+      "Precipitation": 36.0
+    },
+    {
+      "Year": 2014,
+      "Month": 2,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": -37.4,
+      "Snowfall": 169.9,
+      "Precipitation": 242.9
+    },
+    {
+      "Year": 2023,
+      "Month": 7,
+      "Province": "QC",
+      "City": "Montreal",
+      "Temperature": 13.7,
+      "Snowfall": 0,
+      "Precipitation": 174.2
+    },
+    {
+      "Year": 2017,
+      "Month": 11,
+      "Province": "NB",
+      "City": "Fredericton",
+      "Temperature": -33.6,
+      "Snowfall": 0,
+      "Precipitation": 3.4
+    },
+    {
+      "Year": 2015,
+      "Month": 7,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 17.9,
+      "Snowfall": 0,
+      "Precipitation": 103.0
+    },
+    {
+      "Year": 2016,
+      "Month": 2,
+      "Province": "PE",
+      "City": "Charlottetown",
+      "Temperature": 33.2,
+      "Snowfall": 239.7,
+      "Precipitation": 168.0
+    },
+    {
+      "Year": 2015,
+      "Month": 9,
+      "Province": "BC",
+      "City": "Victoria",
+      "Temperature": -20.7,
+      "Snowfall": 0,
+      "Precipitation": 13.1
+    },
+    {
+      "Year": 2016,
+      "Month": 1,
+      "Province": "BC",
+      "City": "Victoria",
+      "Temperature": 14.7,
+      "Snowfall": 123.9,
+      "Precipitation": 209.3
+    },
+    {
+      "Year": 2015,
+      "Month": 6,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": 34.6,
+      "Snowfall": 0,
+      "Precipitation": 7.0
+    },
+    {
+      "Year": 2017,
+      "Month": 7,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": 8.3,
+      "Snowfall": 0,
+      "Precipitation": 232.0
+    },
+    {
+      "Year": 2016,
+      "Month": 2,
+      "Province": "BC",
+      "City": "Victoria",
+      "Temperature": 2.8,
+      "Snowfall": 211.6,
+      "Precipitation": 179.9
+    },
+    {
+      "Year": 2018,
+      "Month": 10,
+      "Province": "BC",
+      "City": "Kelowna",
+      "Temperature": 33.6,
+      "Snowfall": 0,
+      "Precipitation": 131.1
+    },
+    {
+      "Year": 2021,
+      "Month": 2,
+      "Province": "SK",
+      "City": "Prince Albert",
+      "Temperature": -25.9,
+      "Snowfall": 229.9,
+      "Precipitation": 80.9
+    },
+    {
+      "Year": 2023,
+      "Month": 12,
+      "Province": "ON",
+      "City": "Toronto",
+      "Temperature": 13.9,
+      "Snowfall": 73.1,
+      "Precipitation": 141.2
+    },
+    {
+      "Year": 2022,
+      "Month": 9,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": -4.7,
+      "Snowfall": 0,
+      "Precipitation": 54.7
+    },
+    {
+      "Year": 2018,
+      "Month": 8,
+      "Province": "NU",
+      "City": "Iqaluit",
+      "Temperature": 34.5,
+      "Snowfall": 0,
+      "Precipitation": 101.7
+    },
+    {
+      "Year": 2014,
+      "Month": 4,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": -17.8,
+      "Snowfall": 0,
+      "Precipitation": 47.9
+    },
+    {
+      "Year": 2021,
+      "Month": 10,
+      "Province": "MB",
+      "City": "Winnipeg",
+      "Temperature": -36.0,
+      "Snowfall": 0,
+      "Precipitation": 186.6
+    },
+    {
+      "Year": 2020,
+      "Month": 7,
+      "Province": "AB",
+      "City": "Lethbridge",
+      "Temperature": -19.6,
+      "Snowfall": 0,
+      "Precipitation": 4.6
+    },
+    {
+      "Year": 2015,
+      "Month": 12,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": 26.6,
+      "Snowfall": 267.8,
+      "Precipitation": 183.0
+    },
+    {
+      "Year": 2018,
+      "Month": 12,
+      "Province": "QC",
+      "City": "Laval",
+      "Temperature": -17.6,
+      "Snowfall": 211.4,
+      "Precipitation": 151.4
+    },
+    {
+      "Year": 2017,
+      "Month": 5,
+      "Province": "BC",
+      "City": "Surrey",
+      "Temperature": -31.0,
+      "Snowfall": 0,
+      "Precipitation": 202.4
+    },
+    {
+      "Year": 2023,
+      "Month": 11,
+      "Province": "AB",
+      "City": "Red Deer",
+      "Temperature": -27.0,
+      "Snowfall": 0,
+      "Precipitation": 46.7
+    },
+    {
+      "Year": 2023,
+      "Month": 5,
+      "Province": "ON",
+      "City": "Toronto",
+      "Temperature": -5.9,
+      "Snowfall": 0,
+      "Precipitation": 232.5
+    },
+    {
+      "Year": 2019,
+      "Month": 11,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": -3.7,
+      "Snowfall": 0,
+      "Precipitation": 105.4
+    },
+    {
+      "Year": 2014,
+      "Month": 3,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": -2.9,
+      "Snowfall": 0,
+      "Precipitation": 81.9
+    },
+    {
+      "Year": 2017,
+      "Month": 12,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": 26.3,
+      "Snowfall": 6.7,
+      "Precipitation": 228.7
+    },
+    {
+      "Year": 2016,
+      "Month": 7,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": -21.6,
+      "Snowfall": 0,
+      "Precipitation": 41.5
+    },
+    {
+      "Year": 2014,
+      "Month": 12,
+      "Province": "SK",
+      "City": "Saskatoon",
+      "Temperature": 24.9,
+      "Snowfall": 228.5,
+      "Precipitation": 202.7
+    },
+    {
+      "Year": 2020,
+      "Month": 12,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": -36.5,
+      "Snowfall": 155.5,
+      "Precipitation": 85.3
+    },
+    {
+      "Year": 2015,
+      "Month": 12,
+      "Province": "AB",
+      "City": "Calgary",
+      "Temperature": 8.6,
+      "Snowfall": 143.6,
+      "Precipitation": 120.7
+    },
+    {
+      "Year": 2022,
+      "Month": 1,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": -12.0,
+      "Snowfall": 148.6,
+      "Precipitation": 198.7
+    },
+    {
+      "Year": 2015,
+      "Month": 10,
+      "Province": "NB",
+      "City": "Fredericton",
+      "Temperature": 15.3,
+      "Snowfall": 0,
+      "Precipitation": 88.4
+    },
+    {
+      "Year": 2021,
+      "Month": 10,
+      "Province": "NB",
+      "City": "Moncton",
+      "Temperature": 28.9,
+      "Snowfall": 0,
+      "Precipitation": 213.0
+    },
+    {
+      "Year": 2019,
+      "Month": 2,
+      "Province": "NT",
+      "City": "Inuvik",
+      "Temperature": -30.5,
+      "Snowfall": 193.1,
+      "Precipitation": 140.4
+    },
+    {
+      "Year": 2023,
+      "Month": 8,
+      "Province": "NB",
+      "City": "Saint John",
+      "Temperature": -8.8,
+      "Snowfall": 0,
+      "Precipitation": 146.0
+    },
+    {
+      "Year": 2015,
+      "Month": 7,
+      "Province": "QC",
+      "City": "Quebec City",
+      "Temperature": -39.8,
+      "Snowfall": 0,
+      "Precipitation": 79.5
+    },
+    {
+      "Year": 2019,
+      "Month": 9,
+      "Province": "ON",
+      "City": "Mississauga",
+      "Temperature": -20.2,
+      "Snowfall": 0,
+      "Precipitation": 197.0
+    },
+    {
+      "Year": 2018,
+      "Month": 7,
+      "Province": "NS",
+      "City": "Halifax",
+      "Temperature": -4.8,
+      "Snowfall": 0,
+      "Precipitation": 182.5
+    },
+    {
+      "Year": 2020,
+      "Month": 11,
+      "Province": "ON",
+      "City": "Mississauga",
+      "Temperature": -20.1,
+      "Snowfall": 0,
+      "Precipitation": 28.4
+    },
+    {
+      "Year": 2019,
+      "Month": 6,
+      "Province": "ON",
+      "City": "Ottawa",
+      "Temperature": 33.6,
+      "Snowfall": 0,
+      "Precipitation": 82.8
+    },
+    {
+      "Year": 2021,
+      "Month": 9,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": 26.7,
+      "Snowfall": 0,
+      "Precipitation": 49.4
+    },
+    {
+      "Year": 2021,
+      "Month": 9,
+      "Province": "YT",
+      "City": "Whitehorse",
+      "Temperature": -13.5,
+      "Snowfall": 0,
+      "Precipitation": 153.3
+    },
+    {
+      "Year": 2017,
+      "Month": 2,
+      "Province": "MB",
+      "City": "Steinbach",
+      "Temperature": -20.4,
+      "Snowfall": 28.5,
+      "Precipitation": 25.1
+    },
+    {
+      "Year": 2017,
+      "Month": 4,
+      "Province": "PE",
+      "City": "Summerside",
+      "Temperature": 6.3,
+      "Snowfall": 0,
+      "Precipitation": 57.8
+    },
+    {
+      "Year": 2016,
+      "Month": 1,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": 23.4,
+      "Snowfall": 132.3,
+      "Precipitation": 124.9
+    },
+    {
+      "Year": 2017,
+      "Month": 4,
+      "Province": "YT",
+      "City": "Dawson City",
+      "Temperature": -21.8,
+      "Snowfall": 0,
+      "Precipitation": 205.0
+    },
+    {
+      "Year": 2018,
+      "Month": 5,
+      "Province": "AB",
+      "City": "Edmonton",
+      "Temperature": -6.4,
+      "Snowfall": 0,
+      "Precipitation": 213.2
+    },
+    {
+      "Year": 2023,
+      "Month": 4,
+      "Province": "BC",
+      "City": "Kelowna",
+      "Temperature": 24.2,
+      "Snowfall": 0,
+      "Precipitation": 143.2
+    },
+    {
+      "Year": 2022,
+      "Month": 3,
+      "Province": "ON",
+      "City": "Toronto",
+      "Temperature": 28.4,
+      "Snowfall": 0,
+      "Precipitation": 185.2
+    },
+    {
+      "Year": 2015,
+      "Month": 8,
+      "Province": "QC",
+      "City": "Gatineau",
+      "Temperature": 27.3,
+      "Snowfall": 0,
+      "Precipitation": 25.6
+    },
+    {
+      "Year": 2023,
+      "Month": 5,
+      "Province": "AB",
+      "City": "Edmonton",
+      "Temperature": -34.9,
+      "Snowfall": 0,
+      "Precipitation": 110.4
+    },
+    {
+      "Year": 2022,
+      "Month": 5,
+      "Province": "NB",
+      "City": "Fredericton",
+      "Temperature": 26.8,
+      "Snowfall": 0,
+      "Precipitation": 34.6
+    },
+    {
+      "Year": 2017,
+      "Month": 7,
+      "Province": "NT",
+      "City": "Yellowknife",
+      "Temperature": -28.7,
+      "Snowfall": 0,
+      "Precipitation": 136.9
+    },
+    {
+      "Year": 2022,
+      "Month": 8,
+      "Province": "NB",
+      "City": "Moncton",
+      "Temperature": -15.9,
+      "Snowfall": 0,
+      "Precipitation": 147.5
+    }
+  ]
