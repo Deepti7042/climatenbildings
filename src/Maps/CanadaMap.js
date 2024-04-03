@@ -7,7 +7,7 @@ import './CanadaMap.css'; // Ensure you have styles for .tooltip
 
 const CanadaMap = () => {
     return (
-        <MapContainer center={[56.1304, -106.3468]} zoom={4} style={{ height: '900px', width: '100%' }}>
+        <MapContainer center={[56.1304, -106.3468]} zoom={4} style={{ height: '500px', width: '70%' }}>
             <TileLayer
                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -32,7 +32,7 @@ const CanadaMap = () => {
                             <p>Temperature: {city.Temperature}°C</p>
                             <p>Snowfall: {city.Snowfall}mm</p>
                             <p>Precipitation: {city.Precipitation}mm</p>
-                        </div>3
+                        </div>
                     </Popup>
                 </Circle>
             ))}
