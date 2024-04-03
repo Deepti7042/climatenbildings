@@ -5,15 +5,14 @@ import CanadaTempBar from './BarChart/CanadaTemp Barchart';
 import RadialStackedBarChart from './BarChart/RadicalStackedChart';
 import CorrelationHeatmap from './Heatmap/CorrelationHeatMap';
 import HeatmapCorrelationData from './Heatmap/Heatmap';
+import data from '../src/Heatmap/filtered_heatmap_data.json'
 
 function App() {
   return (
     <div>
       <CanadaTempBar/>
       <CanadaMap/>
-      {/* <RadialStackedBarChart/> */}
-      {/* <CorrelationHeatmap/> */}
-      <HeatmapCorrelationData/>
+      <HeatmapCorrelationData data={data}/>
     </div>
   );
 }
