@@ -1,0 +1,3044 @@
+[
+  {
+    "province": "Saskatchewan",
+    "Temperature": {
+      "Average": 15.8,
+      "High": 20.6,
+      "Low": 12.1
+    },
+    "Humidity": {
+      "Average": 23,
+      "High": 32,
+      "Low": 16
+    },
+    "Precipitation": 54.4,
+    "Wind Speed": {
+      "Average": 76.8,
+      "High": 82.6,
+      "Gust": 88.7
+    },
+    "Solar Radiation": 575.6,
+    "Air Quality Index (AQI)": 141,
+    "Date/Time": "2023-05-23 18:54:08",
+    "Location": "RandomLocation_133",
+    "Energy Consumption": 2916.9,
+    "Moisture Levels": 79,
+    "HVAC Efficiency": 0.63,
+    "Indoor Air Quality": 70,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 10,
+    "Operational Costs": 4041.88,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 4220,
+      "age": 12,
+      "construction_materials": "Wood",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.7,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "Manitoba",
+    "Temperature": {
+      "Average": 5.8,
+      "High": 10.6,
+      "Low": 4.5
+    },
+    "Humidity": {
+      "Average": 66,
+      "High": 71,
+      "Low": 62
+    },
+    "Precipitation": 2.8,
+    "Wind Speed": {
+      "Average": 26.9,
+      "High": 27.4,
+      "Gust": 28.2
+    },
+    "Solar Radiation": 151.5,
+    "Air Quality Index (AQI)": 364,
+    "Date/Time": "2024-02-01 18:54:08",
+    "Location": "RandomLocation_107",
+    "Energy Consumption": 4210.6,
+    "Moisture Levels": 20,
+    "HVAC Efficiency": 0.94,
+    "Indoor Air Quality": 248,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 2,
+    "Operational Costs": 6194.17,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 3576,
+      "age": 96,
+      "construction_materials": "Concrete",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.31,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Newfoundland and Labrador",
+    "Temperature": {
+      "Average": -2.8,
+      "High": -2.2,
+      "Low": -4.0
+    },
+    "Humidity": {
+      "Average": 63,
+      "High": 66,
+      "Low": 60
+    },
+    "Precipitation": 84.3,
+    "Wind Speed": {
+      "Average": 58.5,
+      "High": 71.7,
+      "Gust": 72.6
+    },
+    "Solar Radiation": 702.1,
+    "Air Quality Index (AQI)": 441,
+    "Date/Time": "2023-10-10 18:54:08",
+    "Location": "RandomLocation_89",
+    "Energy Consumption": 1209.8,
+    "Moisture Levels": 36,
+    "HVAC Efficiency": 0.85,
+    "Indoor Air Quality": 302,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 8,
+    "Operational Costs": 4366.82,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 3787,
+      "age": 11,
+      "construction_materials": "Concrete",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.8,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Nova Scotia",
+    "Temperature": {
+      "Average": 16.6,
+      "High": 19.8,
+      "Low": 15.0
+    },
+    "Humidity": {
+      "Average": 61,
+      "High": 64,
+      "Low": 51
+    },
+    "Precipitation": 58.9,
+    "Wind Speed": {
+      "Average": 89.8,
+      "High": 99.0,
+      "Gust": 103.5
+    },
+    "Solar Radiation": 484.9,
+    "Air Quality Index (AQI)": 179,
+    "Date/Time": "2023-07-26 18:54:08",
+    "Location": "RandomLocation_270",
+    "Energy Consumption": 4075.1,
+    "Moisture Levels": 69,
+    "HVAC Efficiency": 0.95,
+    "Indoor Air Quality": 290,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 7,
+    "Operational Costs": 1739.95,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 3667,
+      "age": 59,
+      "construction_materials": "Composite",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.56,
+      "use_type": "Industrial"
+    }
+  },
+  {
+    "province": "Ontario",
+    "Temperature": {
+      "Average": 16.0,
+      "High": 18.8,
+      "Low": 15.3
+    },
+    "Humidity": {
+      "Average": 14,
+      "High": 19,
+      "Low": 9
+    },
+    "Precipitation": 57.0,
+    "Wind Speed": {
+      "Average": 63.9,
+      "High": 64.0,
+      "Gust": 70.2
+    },
+    "Solar Radiation": 428.5,
+    "Air Quality Index (AQI)": 172,
+    "Date/Time": "2023-04-29 18:54:08",
+    "Location": "RandomLocation_164",
+    "Energy Consumption": 6202.1,
+    "Moisture Levels": 90,
+    "HVAC Efficiency": 0.63,
+    "Indoor Air Quality": 274,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 3,
+    "Operational Costs": 7288.63,
+    "Adaptation Measures": "HVAC system upgrades",
+    "Building Characteristics": {
+      "size": 4351,
+      "age": 55,
+      "construction_materials": "Composite",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.43,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Nova Scotia",
+    "Temperature": {
+      "Average": -2.3,
+      "High": -1.6,
+      "Low": -4.7
+    },
+    "Humidity": {
+      "Average": 88,
+      "High": 88,
+      "Low": 80
+    },
+    "Precipitation": 0.0,
+    "Wind Speed": {
+      "Average": 83.9,
+      "High": 92.5,
+      "Gust": 96.5
+    },
+    "Solar Radiation": 972.5,
+    "Air Quality Index (AQI)": 231,
+    "Date/Time": "2023-07-23 18:54:08",
+    "Location": "RandomLocation_74",
+    "Energy Consumption": 9723.9,
+    "Moisture Levels": 9,
+    "HVAC Efficiency": 1.33,
+    "Indoor Air Quality": 412,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 8,
+    "Operational Costs": 7309.52,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 3497,
+      "age": 3,
+      "construction_materials": "Composite",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.54,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "New Brunswick",
+    "Temperature": {
+      "Average": -4.1,
+      "High": -0.5,
+      "Low": -5.3
+    },
+    "Humidity": {
+      "Average": 16,
+      "High": 16,
+      "Low": 12
+    },
+    "Precipitation": 31.5,
+    "Wind Speed": {
+      "Average": 95.1,
+      "High": 95.6,
+      "Gust": 100.1
+    },
+    "Solar Radiation": 441.2,
+    "Air Quality Index (AQI)": 365,
+    "Date/Time": "2024-01-23 18:54:08",
+    "Location": "RandomLocation_201",
+    "Energy Consumption": 2889.0,
+    "Moisture Levels": 5,
+    "HVAC Efficiency": 0.76,
+    "Indoor Air Quality": 289,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 3,
+    "Operational Costs": 3271.57,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 4046,
+      "age": 34,
+      "construction_materials": "Steel",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.81,
+      "use_type": "Industrial"
+    }
+  },
+  {
+    "province": "Newfoundland and Labrador",
+    "Temperature": {
+      "Average": -3.4,
+      "High": -1.3,
+      "Low": -4.4
+    },
+    "Humidity": {
+      "Average": 31,
+      "High": 37,
+      "Low": 22
+    },
+    "Precipitation": 60.5,
+    "Wind Speed": {
+      "Average": 33.7,
+      "High": 47.1,
+      "Gust": 54.0
+    },
+    "Solar Radiation": 5.2,
+    "Air Quality Index (AQI)": 460,
+    "Date/Time": "2023-10-12 18:54:08",
+    "Location": "RandomLocation_148",
+    "Energy Consumption": 791.8,
+    "Moisture Levels": 5,
+    "HVAC Efficiency": 0.86,
+    "Indoor Air Quality": 69,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 3,
+    "Operational Costs": 8773.91,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 3975,
+      "age": 30,
+      "construction_materials": "Composite",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.38,
+      "use_type": "Industrial"
+    }
+  },
+  {
+    "province": "Nova Scotia",
+    "Temperature": {
+      "Average": 7.1,
+      "High": 10.1,
+      "Low": 2.9
+    },
+    "Humidity": {
+      "Average": 83,
+      "High": 89,
+      "Low": 75
+    },
+    "Precipitation": 1.5,
+    "Wind Speed": {
+      "Average": 56.4,
+      "High": 58.6,
+      "Gust": 66.5
+    },
+    "Solar Radiation": 478.4,
+    "Air Quality Index (AQI)": 292,
+    "Date/Time": "2024-01-06 18:54:08",
+    "Location": "RandomLocation_27",
+    "Energy Consumption": 8073.8,
+    "Moisture Levels": 45,
+    "HVAC Efficiency": 0.7,
+    "Indoor Air Quality": 428,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 2,
+    "Operational Costs": 1481.13,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 173,
+      "age": 69,
+      "construction_materials": "Composite",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.37,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "Saskatchewan",
+    "Temperature": {
+      "Average": 17.4,
+      "High": 21.2,
+      "Low": 15.1
+    },
+    "Humidity": {
+      "Average": 53,
+      "High": 63,
+      "Low": 49
+    },
+    "Precipitation": 95.6,
+    "Wind Speed": {
+      "Average": 25.5,
+      "High": 36.3,
+      "Gust": 37.5
+    },
+    "Solar Radiation": 725.5,
+    "Air Quality Index (AQI)": 372,
+    "Date/Time": "2024-03-30 18:54:08",
+    "Location": "RandomLocation_91",
+    "Energy Consumption": 6610.7,
+    "Moisture Levels": 68,
+    "HVAC Efficiency": 1.2,
+    "Indoor Air Quality": 86,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 2,
+    "Operational Costs": 9125.97,
+    "Adaptation Measures": "HVAC system upgrades",
+    "Building Characteristics": {
+      "size": 4599,
+      "age": 52,
+      "construction_materials": "Composite",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.56,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "Manitoba",
+    "Temperature": {
+      "Average": 22.6,
+      "High": 23.6,
+      "Low": 19.1
+    },
+    "Humidity": {
+      "Average": 77,
+      "High": 82,
+      "Low": 67
+    },
+    "Precipitation": 2.5,
+    "Wind Speed": {
+      "Average": 95.1,
+      "High": 108.3,
+      "Gust": 113.5
+    },
+    "Solar Radiation": 436.4,
+    "Air Quality Index (AQI)": 394,
+    "Date/Time": "2023-06-16 18:54:08",
+    "Location": "RandomLocation_164",
+    "Energy Consumption": 5788.1,
+    "Moisture Levels": 100,
+    "HVAC Efficiency": 1.26,
+    "Indoor Air Quality": 300,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 8,
+    "Operational Costs": 4558.93,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 2583,
+      "age": 50,
+      "construction_materials": "Wood",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.18,
+      "use_type": "Industrial"
+    }
+  },
+  {
+    "province": "Saskatchewan",
+    "Temperature": {
+      "Average": 29.5,
+      "High": 31.6,
+      "Low": 26.2
+    },
+    "Humidity": {
+      "Average": 97,
+      "High": 100,
+      "Low": 97
+    },
+    "Precipitation": 49.4,
+    "Wind Speed": {
+      "Average": 54.4,
+      "High": 61.9,
+      "Gust": 62.4
+    },
+    "Solar Radiation": 348.3,
+    "Air Quality Index (AQI)": 357,
+    "Date/Time": "2024-01-16 18:54:08",
+    "Location": "RandomLocation_108",
+    "Energy Consumption": 8617.8,
+    "Moisture Levels": 72,
+    "HVAC Efficiency": 0.76,
+    "Indoor Air Quality": 322,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 0,
+    "Operational Costs": 5368.48,
+    "Adaptation Measures": "Window replacements",
+    "Building Characteristics": {
+      "size": 1122,
+      "age": 87,
+      "construction_materials": "Wood",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.46,
+      "use_type": "Industrial"
+    }
+  },
+  {
+    "province": "Ontario",
+    "Temperature": {
+      "Average": -5.4,
+      "High": -3.8,
+      "Low": -10.0
+    },
+    "Humidity": {
+      "Average": 98,
+      "High": 100,
+      "Low": 94
+    },
+    "Precipitation": 41.0,
+    "Wind Speed": {
+      "Average": 1.6,
+      "High": 4.2,
+      "Gust": 15.0
+    },
+    "Solar Radiation": 171.5,
+    "Air Quality Index (AQI)": 479,
+    "Date/Time": "2023-11-14 18:54:08",
+    "Location": "RandomLocation_102",
+    "Energy Consumption": 3847.8,
+    "Moisture Levels": 81,
+    "HVAC Efficiency": 0.84,
+    "Indoor Air Quality": 276,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 7,
+    "Operational Costs": 6844.26,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 1010,
+      "age": 17,
+      "construction_materials": "Wood",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.83,
+      "use_type": "Industrial"
+    }
+  },
+  {
+    "province": "Prince Edward Island",
+    "Temperature": {
+      "Average": -21.3,
+      "High": -19.6,
+      "Low": -23.1
+    },
+    "Humidity": {
+      "Average": 99,
+      "High": 100,
+      "Low": 94
+    },
+    "Precipitation": 62.3,
+    "Wind Speed": {
+      "Average": 30.8,
+      "High": 38.2,
+      "Gust": 49.3
+    },
+    "Solar Radiation": 915.1,
+    "Air Quality Index (AQI)": 131,
+    "Date/Time": "2024-01-11 18:54:08",
+    "Location": "RandomLocation_31",
+    "Energy Consumption": 6299.3,
+    "Moisture Levels": 43,
+    "HVAC Efficiency": 0.93,
+    "Indoor Air Quality": 491,
+    "Building Integrity": "Poor",
+    "Occupant Comfort": 10,
+    "Operational Costs": 3171.54,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 311,
+      "age": 97,
+      "construction_materials": "Concrete",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.22,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "Newfoundland and Labrador",
+    "Temperature": {
+      "Average": 17.8,
+      "High": 21.2,
+      "Low": 16.6
+    },
+    "Humidity": {
+      "Average": 21,
+      "High": 21,
+      "Low": 21
+    },
+    "Precipitation": 83.4,
+    "Wind Speed": {
+      "Average": 87.9,
+      "High": 98.8,
+      "Gust": 111.0
+    },
+    "Solar Radiation": 279.5,
+    "Air Quality Index (AQI)": 147,
+    "Date/Time": "2024-03-13 18:54:08",
+    "Location": "RandomLocation_118",
+    "Energy Consumption": 5917.3,
+    "Moisture Levels": 43,
+    "HVAC Efficiency": 0.99,
+    "Indoor Air Quality": 228,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 8,
+    "Operational Costs": 9120.22,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 3908,
+      "age": 15,
+      "construction_materials": "Composite",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.79,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Nova Scotia",
+    "Temperature": {
+      "Average": -20.5,
+      "High": -18.2,
+      "Low": -21.4
+    },
+    "Humidity": {
+      "Average": 46,
+      "High": 46,
+      "Low": 39
+    },
+    "Precipitation": 38.4,
+    "Wind Speed": {
+      "Average": 98.9,
+      "High": 103.8,
+      "Gust": 118.1
+    },
+    "Solar Radiation": 665.3,
+    "Air Quality Index (AQI)": 483,
+    "Date/Time": "2023-04-14 18:54:08",
+    "Location": "RandomLocation_296",
+    "Energy Consumption": 1890.9,
+    "Moisture Levels": 5,
+    "HVAC Efficiency": 1.33,
+    "Indoor Air Quality": 201,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 2,
+    "Operational Costs": 1863.17,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 3598,
+      "age": 30,
+      "construction_materials": "Wood",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.35,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "British Columbia",
+    "Temperature": {
+      "Average": 14.0,
+      "High": 15.1,
+      "Low": 10.5
+    },
+    "Humidity": {
+      "Average": 17,
+      "High": 21,
+      "Low": 17
+    },
+    "Precipitation": 16.8,
+    "Wind Speed": {
+      "Average": 17.2,
+      "High": 21.4,
+      "Gust": 31.2
+    },
+    "Solar Radiation": 252.5,
+    "Air Quality Index (AQI)": 204,
+    "Date/Time": "2023-11-25 18:54:08",
+    "Location": "RandomLocation_192",
+    "Energy Consumption": 7536.8,
+    "Moisture Levels": 57,
+    "HVAC Efficiency": 0.69,
+    "Indoor Air Quality": 206,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 2,
+    "Operational Costs": 1312.8,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 3219,
+      "age": 9,
+      "construction_materials": "Concrete",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.56,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Newfoundland and Labrador",
+    "Temperature": {
+      "Average": -3.3,
+      "High": -0.4,
+      "Low": -8.2
+    },
+    "Humidity": {
+      "Average": 42,
+      "High": 50,
+      "Low": 42
+    },
+    "Precipitation": 80.2,
+    "Wind Speed": {
+      "Average": 21.5,
+      "High": 29.9,
+      "Gust": 35.5
+    },
+    "Solar Radiation": 359.6,
+    "Air Quality Index (AQI)": 225,
+    "Date/Time": "2023-05-28 18:54:08",
+    "Location": "RandomLocation_115",
+    "Energy Consumption": 5431.5,
+    "Moisture Levels": 53,
+    "HVAC Efficiency": 0.5,
+    "Indoor Air Quality": 382,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 8,
+    "Operational Costs": 4725.79,
+    "Adaptation Measures": "HVAC system upgrades",
+    "Building Characteristics": {
+      "size": 4796,
+      "age": 31,
+      "construction_materials": "Steel",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.6,
+      "use_type": "Industrial"
+    }
+  },
+  {
+    "province": "British Columbia",
+    "Temperature": {
+      "Average": -2.5,
+      "High": 1.9,
+      "Low": -6.5
+    },
+    "Humidity": {
+      "Average": 78,
+      "High": 86,
+      "Low": 70
+    },
+    "Precipitation": 14.8,
+    "Wind Speed": {
+      "Average": 36.3,
+      "High": 40.6,
+      "Gust": 43.4
+    },
+    "Solar Radiation": 889.6,
+    "Air Quality Index (AQI)": 472,
+    "Date/Time": "2023-08-21 18:54:08",
+    "Location": "RandomLocation_146",
+    "Energy Consumption": 1812.8,
+    "Moisture Levels": 98,
+    "HVAC Efficiency": 0.58,
+    "Indoor Air Quality": 221,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 3,
+    "Operational Costs": 9994.46,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 2003,
+      "age": 66,
+      "construction_materials": "Steel",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.3,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "British Columbia",
+    "Temperature": {
+      "Average": -13.6,
+      "High": -9.3,
+      "Low": -14.1
+    },
+    "Humidity": {
+      "Average": 57,
+      "High": 60,
+      "Low": 51
+    },
+    "Precipitation": 15.4,
+    "Wind Speed": {
+      "Average": 20.6,
+      "High": 33.0,
+      "Gust": 42.5
+    },
+    "Solar Radiation": 793.3,
+    "Air Quality Index (AQI)": 242,
+    "Date/Time": "2024-01-04 18:54:08",
+    "Location": "RandomLocation_83",
+    "Energy Consumption": 7155.9,
+    "Moisture Levels": 74,
+    "HVAC Efficiency": 1.37,
+    "Indoor Air Quality": 244,
+    "Building Integrity": "Poor",
+    "Occupant Comfort": 2,
+    "Operational Costs": 6051.5,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 917,
+      "age": 63,
+      "construction_materials": "Wood",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.14,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Saskatchewan",
+    "Temperature": {
+      "Average": 5.3,
+      "High": 8.4,
+      "Low": 4.5
+    },
+    "Humidity": {
+      "Average": 59,
+      "High": 59,
+      "Low": 59
+    },
+    "Precipitation": 80.1,
+    "Wind Speed": {
+      "Average": 57.4,
+      "High": 58.7,
+      "Gust": 65.7
+    },
+    "Solar Radiation": 172.9,
+    "Air Quality Index (AQI)": 93,
+    "Date/Time": "2023-09-02 18:54:08",
+    "Location": "RandomLocation_270",
+    "Energy Consumption": 6993.8,
+    "Moisture Levels": 95,
+    "HVAC Efficiency": 1.18,
+    "Indoor Air Quality": 403,
+    "Building Integrity": "Poor",
+    "Occupant Comfort": 10,
+    "Operational Costs": 7557.56,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 2486,
+      "age": 43,
+      "construction_materials": "Steel",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.77,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Alberta",
+    "Temperature": {
+      "Average": -29.9,
+      "High": -29.1,
+      "Low": -32.5
+    },
+    "Humidity": {
+      "Average": 73,
+      "High": 74,
+      "Low": 65
+    },
+    "Precipitation": 29.8,
+    "Wind Speed": {
+      "Average": 15.2,
+      "High": 16.1,
+      "Gust": 26.7
+    },
+    "Solar Radiation": 468.5,
+    "Air Quality Index (AQI)": 305,
+    "Date/Time": "2024-02-05 18:54:08",
+    "Location": "RandomLocation_221",
+    "Energy Consumption": 5086.7,
+    "Moisture Levels": 64,
+    "HVAC Efficiency": 1.3,
+    "Indoor Air Quality": 206,
+    "Building Integrity": "Poor",
+    "Occupant Comfort": 8,
+    "Operational Costs": 1363.25,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 4139,
+      "age": 25,
+      "construction_materials": "Steel",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.36,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "New Brunswick",
+    "Temperature": {
+      "Average": 1.6,
+      "High": 2.2,
+      "Low": -2.6
+    },
+    "Humidity": {
+      "Average": 48,
+      "High": 50,
+      "Low": 38
+    },
+    "Precipitation": 6.3,
+    "Wind Speed": {
+      "Average": 69.5,
+      "High": 72.6,
+      "Gust": 79.9
+    },
+    "Solar Radiation": 488.7,
+    "Air Quality Index (AQI)": 221,
+    "Date/Time": "2023-08-21 18:54:08",
+    "Location": "RandomLocation_181",
+    "Energy Consumption": 980.0,
+    "Moisture Levels": 80,
+    "HVAC Efficiency": 0.78,
+    "Indoor Air Quality": 157,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 4,
+    "Operational Costs": 8444.84,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 2431,
+      "age": 15,
+      "construction_materials": "Concrete",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.37,
+      "use_type": "Industrial"
+    }
+  },
+  {
+    "province": "Nova Scotia",
+    "Temperature": {
+      "Average": 16.6,
+      "High": 21.4,
+      "Low": 15.8
+    },
+    "Humidity": {
+      "Average": 37,
+      "High": 42,
+      "Low": 28
+    },
+    "Precipitation": 64.9,
+    "Wind Speed": {
+      "Average": 26.0,
+      "High": 30.3,
+      "Gust": 34.0
+    },
+    "Solar Radiation": 152.8,
+    "Air Quality Index (AQI)": 168,
+    "Date/Time": "2023-10-16 18:54:08",
+    "Location": "RandomLocation_169",
+    "Energy Consumption": 7537.7,
+    "Moisture Levels": 62,
+    "HVAC Efficiency": 1.48,
+    "Indoor Air Quality": 454,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 10,
+    "Operational Costs": 4778.76,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 3767,
+      "age": 30,
+      "construction_materials": "Wood",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.63,
+      "use_type": "Industrial"
+    }
+  },
+  {
+    "province": "British Columbia",
+    "Temperature": {
+      "Average": -25.1,
+      "High": -24.0,
+      "Low": -27.9
+    },
+    "Humidity": {
+      "Average": 95,
+      "High": 100,
+      "Low": 91
+    },
+    "Precipitation": 9.3,
+    "Wind Speed": {
+      "Average": 4.3,
+      "High": 17.2,
+      "Gust": 29.7
+    },
+    "Solar Radiation": 656.3,
+    "Air Quality Index (AQI)": 193,
+    "Date/Time": "2023-11-01 18:54:08",
+    "Location": "RandomLocation_287",
+    "Energy Consumption": 7966.6,
+    "Moisture Levels": 20,
+    "HVAC Efficiency": 0.58,
+    "Indoor Air Quality": 71,
+    "Building Integrity": "Poor",
+    "Occupant Comfort": 0,
+    "Operational Costs": 7355.44,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 2956,
+      "age": 50,
+      "construction_materials": "Wood",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.74,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Quebec",
+    "Temperature": {
+      "Average": -10.8,
+      "High": -8.1,
+      "Low": -13.4
+    },
+    "Humidity": {
+      "Average": 62,
+      "High": 67,
+      "Low": 59
+    },
+    "Precipitation": 39.5,
+    "Wind Speed": {
+      "Average": 1.1,
+      "High": 11.7,
+      "Gust": 25.3
+    },
+    "Solar Radiation": 231.2,
+    "Air Quality Index (AQI)": 17,
+    "Date/Time": "2023-10-09 18:54:08",
+    "Location": "RandomLocation_156",
+    "Energy Consumption": 2002.6,
+    "Moisture Levels": 52,
+    "HVAC Efficiency": 0.85,
+    "Indoor Air Quality": 307,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 5,
+    "Operational Costs": 7248.27,
+    "Adaptation Measures": "Window replacements",
+    "Building Characteristics": {
+      "size": 3516,
+      "age": 62,
+      "construction_materials": "Wood",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.79,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "British Columbia",
+    "Temperature": {
+      "Average": -20.5,
+      "High": -19.8,
+      "Low": -25.1
+    },
+    "Humidity": {
+      "Average": 44,
+      "High": 44,
+      "Low": 35
+    },
+    "Precipitation": 30.2,
+    "Wind Speed": {
+      "Average": 94.3,
+      "High": 102.6,
+      "Gust": 116.0
+    },
+    "Solar Radiation": 918.2,
+    "Air Quality Index (AQI)": 225,
+    "Date/Time": "2023-06-05 18:54:08",
+    "Location": "RandomLocation_209",
+    "Energy Consumption": 7270.5,
+    "Moisture Levels": 19,
+    "HVAC Efficiency": 1.49,
+    "Indoor Air Quality": 3,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 7,
+    "Operational Costs": 5470.52,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 2832,
+      "age": 9,
+      "construction_materials": "Steel",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.81,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "New Brunswick",
+    "Temperature": {
+      "Average": -24.9,
+      "High": -23.1,
+      "Low": -28.0
+    },
+    "Humidity": {
+      "Average": 90,
+      "High": 92,
+      "Low": 81
+    },
+    "Precipitation": 46.4,
+    "Wind Speed": {
+      "Average": 27.2,
+      "High": 27.8,
+      "Gust": 28.5
+    },
+    "Solar Radiation": 798.3,
+    "Air Quality Index (AQI)": 447,
+    "Date/Time": "2023-09-13 18:54:08",
+    "Location": "RandomLocation_110",
+    "Energy Consumption": 1393.4,
+    "Moisture Levels": 88,
+    "HVAC Efficiency": 1.14,
+    "Indoor Air Quality": 169,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 7,
+    "Operational Costs": 2961.3,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 1367,
+      "age": 1,
+      "construction_materials": "Concrete",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.75,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Ontario",
+    "Temperature": {
+      "Average": 11.6,
+      "High": 14.2,
+      "Low": 6.7
+    },
+    "Humidity": {
+      "Average": 38,
+      "High": 40,
+      "Low": 33
+    },
+    "Precipitation": 22.5,
+    "Wind Speed": {
+      "Average": 58.0,
+      "High": 70.0,
+      "Gust": 78.8
+    },
+    "Solar Radiation": 163.7,
+    "Air Quality Index (AQI)": 215,
+    "Date/Time": "2023-09-30 18:54:08",
+    "Location": "RandomLocation_261",
+    "Energy Consumption": 6127.3,
+    "Moisture Levels": 33,
+    "HVAC Efficiency": 0.78,
+    "Indoor Air Quality": 272,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 7,
+    "Operational Costs": 7631.75,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 4669,
+      "age": 76,
+      "construction_materials": "Concrete",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.12,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Ontario",
+    "Temperature": {
+      "Average": -14.4,
+      "High": -11.1,
+      "Low": -19.2
+    },
+    "Humidity": {
+      "Average": 12,
+      "High": 19,
+      "Low": 12
+    },
+    "Precipitation": 97.9,
+    "Wind Speed": {
+      "Average": 21.7,
+      "High": 28.2,
+      "Gust": 42.2
+    },
+    "Solar Radiation": 132.3,
+    "Air Quality Index (AQI)": 137,
+    "Date/Time": "2023-12-29 18:54:08",
+    "Location": "RandomLocation_38",
+    "Energy Consumption": 5976.9,
+    "Moisture Levels": 4,
+    "HVAC Efficiency": 1.5,
+    "Indoor Air Quality": 335,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 3,
+    "Operational Costs": 5353.31,
+    "Adaptation Measures": "HVAC system upgrades",
+    "Building Characteristics": {
+      "size": 1434,
+      "age": 36,
+      "construction_materials": "Concrete",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.18,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Nova Scotia",
+    "Temperature": {
+      "Average": -0.5,
+      "High": 3.3,
+      "Low": -4.7
+    },
+    "Humidity": {
+      "Average": 54,
+      "High": 62,
+      "Low": 49
+    },
+    "Precipitation": 61.0,
+    "Wind Speed": {
+      "Average": 15.6,
+      "High": 18.5,
+      "Gust": 26.5
+    },
+    "Solar Radiation": 73.7,
+    "Air Quality Index (AQI)": 371,
+    "Date/Time": "2023-07-26 18:54:08",
+    "Location": "RandomLocation_130",
+    "Energy Consumption": 1325.2,
+    "Moisture Levels": 3,
+    "HVAC Efficiency": 1.05,
+    "Indoor Air Quality": 10,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 8,
+    "Operational Costs": 8992.12,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 3361,
+      "age": 41,
+      "construction_materials": "Steel",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.48,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Alberta",
+    "Temperature": {
+      "Average": 29.2,
+      "High": 33.3,
+      "Low": 26.7
+    },
+    "Humidity": {
+      "Average": 89,
+      "High": 97,
+      "Low": 88
+    },
+    "Precipitation": 92.4,
+    "Wind Speed": {
+      "Average": 69.6,
+      "High": 72.7,
+      "Gust": 76.5
+    },
+    "Solar Radiation": 992.6,
+    "Air Quality Index (AQI)": 494,
+    "Date/Time": "2023-06-15 18:54:08",
+    "Location": "RandomLocation_290",
+    "Energy Consumption": 2266.7,
+    "Moisture Levels": 46,
+    "HVAC Efficiency": 0.83,
+    "Indoor Air Quality": 119,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 2,
+    "Operational Costs": 3207.82,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 4059,
+      "age": 70,
+      "construction_materials": "Wood",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.87,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "British Columbia",
+    "Temperature": {
+      "Average": -18.7,
+      "High": -16.8,
+      "Low": -20.2
+    },
+    "Humidity": {
+      "Average": 65,
+      "High": 65,
+      "Low": 65
+    },
+    "Precipitation": 41.0,
+    "Wind Speed": {
+      "Average": 41.9,
+      "High": 45.2,
+      "Gust": 56.7
+    },
+    "Solar Radiation": 806.2,
+    "Air Quality Index (AQI)": 147,
+    "Date/Time": "2024-01-04 18:54:08",
+    "Location": "RandomLocation_157",
+    "Energy Consumption": 243.3,
+    "Moisture Levels": 58,
+    "HVAC Efficiency": 0.55,
+    "Indoor Air Quality": 127,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 0,
+    "Operational Costs": 7378.05,
+    "Adaptation Measures": "HVAC system upgrades",
+    "Building Characteristics": {
+      "size": 4911,
+      "age": 18,
+      "construction_materials": "Composite",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.36,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Newfoundland and Labrador",
+    "Temperature": {
+      "Average": 24.5,
+      "High": 28.6,
+      "Low": 22.4
+    },
+    "Humidity": {
+      "Average": 39,
+      "High": 48,
+      "Low": 30
+    },
+    "Precipitation": 47.1,
+    "Wind Speed": {
+      "Average": 66.3,
+      "High": 74.2,
+      "Gust": 88.5
+    },
+    "Solar Radiation": 388.4,
+    "Air Quality Index (AQI)": 111,
+    "Date/Time": "2023-07-24 18:54:08",
+    "Location": "RandomLocation_258",
+    "Energy Consumption": 6365.7,
+    "Moisture Levels": 20,
+    "HVAC Efficiency": 1.41,
+    "Indoor Air Quality": 134,
+    "Building Integrity": "Poor",
+    "Occupant Comfort": 9,
+    "Operational Costs": 9462.88,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 3671,
+      "age": 5,
+      "construction_materials": "Wood",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.61,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "Manitoba",
+    "Temperature": {
+      "Average": 26.4,
+      "High": 28.7,
+      "Low": 25.1
+    },
+    "Humidity": {
+      "Average": 71,
+      "High": 76,
+      "Low": 68
+    },
+    "Precipitation": 59.8,
+    "Wind Speed": {
+      "Average": 9.5,
+      "High": 13.1,
+      "Gust": 18.7
+    },
+    "Solar Radiation": 164.2,
+    "Air Quality Index (AQI)": 95,
+    "Date/Time": "2023-10-23 18:54:08",
+    "Location": "RandomLocation_283",
+    "Energy Consumption": 9178.2,
+    "Moisture Levels": 34,
+    "HVAC Efficiency": 1.36,
+    "Indoor Air Quality": 295,
+    "Building Integrity": "Poor",
+    "Occupant Comfort": 8,
+    "Operational Costs": 8745.12,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 941,
+      "age": 7,
+      "construction_materials": "Composite",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.49,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "Quebec",
+    "Temperature": {
+      "Average": 9.1,
+      "High": 11.0,
+      "Low": 4.3
+    },
+    "Humidity": {
+      "Average": 56,
+      "High": 58,
+      "Low": 52
+    },
+    "Precipitation": 18.5,
+    "Wind Speed": {
+      "Average": 40.2,
+      "High": 51.4,
+      "Gust": 60.3
+    },
+    "Solar Radiation": 632.4,
+    "Air Quality Index (AQI)": 328,
+    "Date/Time": "2024-03-15 18:54:08",
+    "Location": "RandomLocation_193",
+    "Energy Consumption": 6466.8,
+    "Moisture Levels": 76,
+    "HVAC Efficiency": 0.61,
+    "Indoor Air Quality": 43,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 6,
+    "Operational Costs": 4152.99,
+    "Adaptation Measures": "Window replacements",
+    "Building Characteristics": {
+      "size": 3110,
+      "age": 5,
+      "construction_materials": "Steel",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.13,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Quebec",
+    "Temperature": {
+      "Average": -8.6,
+      "High": -4.8,
+      "Low": -13.4
+    },
+    "Humidity": {
+      "Average": 38,
+      "High": 42,
+      "Low": 38
+    },
+    "Precipitation": 95.6,
+    "Wind Speed": {
+      "Average": 47.8,
+      "High": 52.4,
+      "Gust": 57.6
+    },
+    "Solar Radiation": 45.3,
+    "Air Quality Index (AQI)": 312,
+    "Date/Time": "2023-05-20 18:54:08",
+    "Location": "RandomLocation_180",
+    "Energy Consumption": 9676.0,
+    "Moisture Levels": 16,
+    "HVAC Efficiency": 0.67,
+    "Indoor Air Quality": 337,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 2,
+    "Operational Costs": 1713.35,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 660,
+      "age": 12,
+      "construction_materials": "Concrete",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.13,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "Nova Scotia",
+    "Temperature": {
+      "Average": 17.0,
+      "High": 19.4,
+      "Low": 13.9
+    },
+    "Humidity": {
+      "Average": 88,
+      "High": 96,
+      "Low": 87
+    },
+    "Precipitation": 30.6,
+    "Wind Speed": {
+      "Average": 15.2,
+      "High": 19.8,
+      "Gust": 21.0
+    },
+    "Solar Radiation": 808.6,
+    "Air Quality Index (AQI)": 146,
+    "Date/Time": "2023-07-26 18:54:08",
+    "Location": "RandomLocation_15",
+    "Energy Consumption": 2784.0,
+    "Moisture Levels": 80,
+    "HVAC Efficiency": 0.92,
+    "Indoor Air Quality": 207,
+    "Building Integrity": "Poor",
+    "Occupant Comfort": 8,
+    "Operational Costs": 6332.85,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 4915,
+      "age": 3,
+      "construction_materials": "Concrete",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.23,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Newfoundland and Labrador",
+    "Temperature": {
+      "Average": -14.9,
+      "High": -12.4,
+      "Low": -17.4
+    },
+    "Humidity": {
+      "Average": 73,
+      "High": 79,
+      "Low": 63
+    },
+    "Precipitation": 76.7,
+    "Wind Speed": {
+      "Average": 18.4,
+      "High": 24.7,
+      "Gust": 35.7
+    },
+    "Solar Radiation": 586.1,
+    "Air Quality Index (AQI)": 140,
+    "Date/Time": "2023-12-28 18:54:08",
+    "Location": "RandomLocation_210",
+    "Energy Consumption": 6365.6,
+    "Moisture Levels": 11,
+    "HVAC Efficiency": 0.85,
+    "Indoor Air Quality": 384,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 10,
+    "Operational Costs": 8896.45,
+    "Adaptation Measures": "Window replacements",
+    "Building Characteristics": {
+      "size": 942,
+      "age": 44,
+      "construction_materials": "Wood",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.28,
+      "use_type": "Industrial"
+    }
+  },
+  {
+    "province": "Prince Edward Island",
+    "Temperature": {
+      "Average": 2.3,
+      "High": 4.8,
+      "Low": 0.7
+    },
+    "Humidity": {
+      "Average": 16,
+      "High": 18,
+      "Low": 11
+    },
+    "Precipitation": 5.8,
+    "Wind Speed": {
+      "Average": 71.7,
+      "High": 72.9,
+      "Gust": 83.3
+    },
+    "Solar Radiation": 233.7,
+    "Air Quality Index (AQI)": 446,
+    "Date/Time": "2024-01-01 18:54:08",
+    "Location": "RandomLocation_69",
+    "Energy Consumption": 3415.5,
+    "Moisture Levels": 35,
+    "HVAC Efficiency": 1.12,
+    "Indoor Air Quality": 272,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 6,
+    "Operational Costs": 3137.92,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 769,
+      "age": 95,
+      "construction_materials": "Steel",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.78,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "British Columbia",
+    "Temperature": {
+      "Average": 8.8,
+      "High": 12.7,
+      "Low": 8.2
+    },
+    "Humidity": {
+      "Average": 31,
+      "High": 33,
+      "Low": 29
+    },
+    "Precipitation": 46.5,
+    "Wind Speed": {
+      "Average": 72.0,
+      "High": 76.4,
+      "Gust": 88.9
+    },
+    "Solar Radiation": 709.6,
+    "Air Quality Index (AQI)": 500,
+    "Date/Time": "2023-12-15 18:54:08",
+    "Location": "RandomLocation_84",
+    "Energy Consumption": 7055.8,
+    "Moisture Levels": 44,
+    "HVAC Efficiency": 1.46,
+    "Indoor Air Quality": 150,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 3,
+    "Operational Costs": 6768.03,
+    "Adaptation Measures": "HVAC system upgrades",
+    "Building Characteristics": {
+      "size": 4787,
+      "age": 96,
+      "construction_materials": "Concrete",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.25,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "Ontario",
+    "Temperature": {
+      "Average": -21.1,
+      "High": -18.0,
+      "Low": -23.1
+    },
+    "Humidity": {
+      "Average": 69,
+      "High": 70,
+      "Low": 69
+    },
+    "Precipitation": 49.8,
+    "Wind Speed": {
+      "Average": 85.2,
+      "High": 85.8,
+      "Gust": 90.3
+    },
+    "Solar Radiation": 624.3,
+    "Air Quality Index (AQI)": 225,
+    "Date/Time": "2023-09-25 18:54:08",
+    "Location": "RandomLocation_94",
+    "Energy Consumption": 4929.2,
+    "Moisture Levels": 82,
+    "HVAC Efficiency": 1.28,
+    "Indoor Air Quality": 336,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 8,
+    "Operational Costs": 1045.61,
+    "Adaptation Measures": "Window replacements",
+    "Building Characteristics": {
+      "size": 588,
+      "age": 42,
+      "construction_materials": "Concrete",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.42,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "Alberta",
+    "Temperature": {
+      "Average": 25.4,
+      "High": 27.3,
+      "Low": 23.4
+    },
+    "Humidity": {
+      "Average": 29,
+      "High": 31,
+      "Low": 29
+    },
+    "Precipitation": 2.8,
+    "Wind Speed": {
+      "Average": 94.3,
+      "High": 106.7,
+      "Gust": 114.2
+    },
+    "Solar Radiation": 464.2,
+    "Air Quality Index (AQI)": 488,
+    "Date/Time": "2023-06-12 18:54:08",
+    "Location": "RandomLocation_276",
+    "Energy Consumption": 7741.3,
+    "Moisture Levels": 48,
+    "HVAC Efficiency": 1.09,
+    "Indoor Air Quality": 269,
+    "Building Integrity": "Poor",
+    "Occupant Comfort": 5,
+    "Operational Costs": 1888.08,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 584,
+      "age": 33,
+      "construction_materials": "Concrete",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.3,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Newfoundland and Labrador",
+    "Temperature": {
+      "Average": -18.5,
+      "High": -15.0,
+      "Low": -22.0
+    },
+    "Humidity": {
+      "Average": 64,
+      "High": 68,
+      "Low": 57
+    },
+    "Precipitation": 1.2,
+    "Wind Speed": {
+      "Average": 95.3,
+      "High": 99.5,
+      "Gust": 108.2
+    },
+    "Solar Radiation": 428.2,
+    "Air Quality Index (AQI)": 401,
+    "Date/Time": "2024-02-10 18:54:08",
+    "Location": "RandomLocation_220",
+    "Energy Consumption": 6129.9,
+    "Moisture Levels": 99,
+    "HVAC Efficiency": 1.26,
+    "Indoor Air Quality": 379,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 6,
+    "Operational Costs": 8991.5,
+    "Adaptation Measures": "HVAC system upgrades",
+    "Building Characteristics": {
+      "size": 1758,
+      "age": 66,
+      "construction_materials": "Wood",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.26,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "British Columbia",
+    "Temperature": {
+      "Average": -29.3,
+      "High": -28.3,
+      "Low": -30.1
+    },
+    "Humidity": {
+      "Average": 37,
+      "High": 41,
+      "Low": 33
+    },
+    "Precipitation": 38.7,
+    "Wind Speed": {
+      "Average": 89.5,
+      "High": 95.9,
+      "Gust": 96.3
+    },
+    "Solar Radiation": 648.8,
+    "Air Quality Index (AQI)": 477,
+    "Date/Time": "2023-11-29 18:54:08",
+    "Location": "RandomLocation_75",
+    "Energy Consumption": 1518.3,
+    "Moisture Levels": 41,
+    "HVAC Efficiency": 0.78,
+    "Indoor Air Quality": 374,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 8,
+    "Operational Costs": 5402.43,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 4872,
+      "age": 75,
+      "construction_materials": "Composite",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.89,
+      "use_type": "Industrial"
+    }
+  },
+  {
+    "province": "British Columbia",
+    "Temperature": {
+      "Average": 23.4,
+      "High": 26.2,
+      "Low": 21.8
+    },
+    "Humidity": {
+      "Average": 10,
+      "High": 11,
+      "Low": 5
+    },
+    "Precipitation": 16.5,
+    "Wind Speed": {
+      "Average": 49.7,
+      "High": 59.3,
+      "Gust": 68.3
+    },
+    "Solar Radiation": 363.9,
+    "Air Quality Index (AQI)": 63,
+    "Date/Time": "2023-05-24 18:54:08",
+    "Location": "RandomLocation_12",
+    "Energy Consumption": 7468.6,
+    "Moisture Levels": 23,
+    "HVAC Efficiency": 1.25,
+    "Indoor Air Quality": 253,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 8,
+    "Operational Costs": 9969.96,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 2122,
+      "age": 60,
+      "construction_materials": "Composite",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.4,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Manitoba",
+    "Temperature": {
+      "Average": 0.9,
+      "High": 3.7,
+      "Low": -1.3
+    },
+    "Humidity": {
+      "Average": 20,
+      "High": 27,
+      "Low": 16
+    },
+    "Precipitation": 37.2,
+    "Wind Speed": {
+      "Average": 21.3,
+      "High": 23.0,
+      "Gust": 30.6
+    },
+    "Solar Radiation": 446.6,
+    "Air Quality Index (AQI)": 108,
+    "Date/Time": "2023-08-02 18:54:08",
+    "Location": "RandomLocation_222",
+    "Energy Consumption": 8625.4,
+    "Moisture Levels": 22,
+    "HVAC Efficiency": 0.63,
+    "Indoor Air Quality": 217,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 7,
+    "Operational Costs": 1017.29,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 3715,
+      "age": 16,
+      "construction_materials": "Wood",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.25,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "British Columbia",
+    "Temperature": {
+      "Average": 18.2,
+      "High": 22.1,
+      "Low": 14.4
+    },
+    "Humidity": {
+      "Average": 83,
+      "High": 89,
+      "Low": 76
+    },
+    "Precipitation": 2.1,
+    "Wind Speed": {
+      "Average": 17.3,
+      "High": 28.2,
+      "Gust": 40.2
+    },
+    "Solar Radiation": 14.3,
+    "Air Quality Index (AQI)": 309,
+    "Date/Time": "2023-04-28 18:54:08",
+    "Location": "RandomLocation_117",
+    "Energy Consumption": 3011.6,
+    "Moisture Levels": 76,
+    "HVAC Efficiency": 1.19,
+    "Indoor Air Quality": 103,
+    "Building Integrity": "Poor",
+    "Occupant Comfort": 1,
+    "Operational Costs": 2033.51,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 2807,
+      "age": 78,
+      "construction_materials": "Composite",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.57,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "Nova Scotia",
+    "Temperature": {
+      "Average": -6.1,
+      "High": -3.2,
+      "Low": -10.0
+    },
+    "Humidity": {
+      "Average": 70,
+      "High": 73,
+      "Low": 70
+    },
+    "Precipitation": 79.0,
+    "Wind Speed": {
+      "Average": 30.3,
+      "High": 38.4,
+      "Gust": 42.1
+    },
+    "Solar Radiation": 696.2,
+    "Air Quality Index (AQI)": 485,
+    "Date/Time": "2023-08-23 18:54:08",
+    "Location": "RandomLocation_10",
+    "Energy Consumption": 4876.0,
+    "Moisture Levels": 32,
+    "HVAC Efficiency": 1.08,
+    "Indoor Air Quality": 0,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 5,
+    "Operational Costs": 2672.15,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 460,
+      "age": 2,
+      "construction_materials": "Steel",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.3,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Nova Scotia",
+    "Temperature": {
+      "Average": -0.6,
+      "High": 2.1,
+      "Low": -4.7
+    },
+    "Humidity": {
+      "Average": 78,
+      "High": 78,
+      "Low": 72
+    },
+    "Precipitation": 63.6,
+    "Wind Speed": {
+      "Average": 60.7,
+      "High": 62.8,
+      "Gust": 66.6
+    },
+    "Solar Radiation": 691.2,
+    "Air Quality Index (AQI)": 67,
+    "Date/Time": "2023-10-08 18:54:08",
+    "Location": "RandomLocation_73",
+    "Energy Consumption": 6046.2,
+    "Moisture Levels": 88,
+    "HVAC Efficiency": 0.93,
+    "Indoor Air Quality": 87,
+    "Building Integrity": "Poor",
+    "Occupant Comfort": 9,
+    "Operational Costs": 4158.73,
+    "Adaptation Measures": "HVAC system upgrades",
+    "Building Characteristics": {
+      "size": 3769,
+      "age": 61,
+      "construction_materials": "Composite",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.79,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Manitoba",
+    "Temperature": {
+      "Average": 0.9,
+      "High": 3.4,
+      "Low": -0.5
+    },
+    "Humidity": {
+      "Average": 93,
+      "High": 96,
+      "Low": 84
+    },
+    "Precipitation": 3.4,
+    "Wind Speed": {
+      "Average": 25.4,
+      "High": 26.4,
+      "Gust": 30.1
+    },
+    "Solar Radiation": 185.8,
+    "Air Quality Index (AQI)": 387,
+    "Date/Time": "2023-07-28 18:54:08",
+    "Location": "RandomLocation_65",
+    "Energy Consumption": 8122.2,
+    "Moisture Levels": 4,
+    "HVAC Efficiency": 0.93,
+    "Indoor Air Quality": 394,
+    "Building Integrity": "Poor",
+    "Occupant Comfort": 0,
+    "Operational Costs": 5431.48,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 3041,
+      "age": 69,
+      "construction_materials": "Concrete",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.19,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "Quebec",
+    "Temperature": {
+      "Average": 17.2,
+      "High": 22.1,
+      "Low": 14.5
+    },
+    "Humidity": {
+      "Average": 44,
+      "High": 45,
+      "Low": 43
+    },
+    "Precipitation": 93.9,
+    "Wind Speed": {
+      "Average": 52.4,
+      "High": 58.3,
+      "Gust": 61.3
+    },
+    "Solar Radiation": 638.2,
+    "Air Quality Index (AQI)": 16,
+    "Date/Time": "2023-12-29 18:54:08",
+    "Location": "RandomLocation_236",
+    "Energy Consumption": 159.0,
+    "Moisture Levels": 67,
+    "HVAC Efficiency": 1.02,
+    "Indoor Air Quality": 235,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 10,
+    "Operational Costs": 3665.63,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 1643,
+      "age": 51,
+      "construction_materials": "Steel",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.59,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "Saskatchewan",
+    "Temperature": {
+      "Average": -18.4,
+      "High": -14.7,
+      "Low": -22.4
+    },
+    "Humidity": {
+      "Average": 78,
+      "High": 78,
+      "Low": 70
+    },
+    "Precipitation": 62.9,
+    "Wind Speed": {
+      "Average": 22.7,
+      "High": 36.7,
+      "Gust": 43.4
+    },
+    "Solar Radiation": 829.6,
+    "Air Quality Index (AQI)": 322,
+    "Date/Time": "2023-12-08 18:54:08",
+    "Location": "RandomLocation_133",
+    "Energy Consumption": 1702.6,
+    "Moisture Levels": 24,
+    "HVAC Efficiency": 1.13,
+    "Indoor Air Quality": 153,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 9,
+    "Operational Costs": 8220.58,
+    "Adaptation Measures": "HVAC system upgrades",
+    "Building Characteristics": {
+      "size": 3669,
+      "age": 43,
+      "construction_materials": "Concrete",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.52,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Manitoba",
+    "Temperature": {
+      "Average": 3.9,
+      "High": 7.7,
+      "Low": 0.3
+    },
+    "Humidity": {
+      "Average": 21,
+      "High": 25,
+      "Low": 16
+    },
+    "Precipitation": 77.9,
+    "Wind Speed": {
+      "Average": 28.6,
+      "High": 29.6,
+      "Gust": 30.2
+    },
+    "Solar Radiation": 953.1,
+    "Air Quality Index (AQI)": 262,
+    "Date/Time": "2023-07-17 18:54:08",
+    "Location": "RandomLocation_215",
+    "Energy Consumption": 940.4,
+    "Moisture Levels": 16,
+    "HVAC Efficiency": 0.52,
+    "Indoor Air Quality": 197,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 0,
+    "Operational Costs": 9074.81,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 3736,
+      "age": 79,
+      "construction_materials": "Concrete",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.79,
+      "use_type": "Industrial"
+    }
+  },
+  {
+    "province": "New Brunswick",
+    "Temperature": {
+      "Average": 5.3,
+      "High": 6.2,
+      "Low": 3.9
+    },
+    "Humidity": {
+      "Average": 49,
+      "High": 53,
+      "Low": 41
+    },
+    "Precipitation": 29.1,
+    "Wind Speed": {
+      "Average": 84.1,
+      "High": 94.9,
+      "Gust": 97.8
+    },
+    "Solar Radiation": 492.0,
+    "Air Quality Index (AQI)": 291,
+    "Date/Time": "2023-06-16 18:54:08",
+    "Location": "RandomLocation_43",
+    "Energy Consumption": 1425.6,
+    "Moisture Levels": 83,
+    "HVAC Efficiency": 0.91,
+    "Indoor Air Quality": 374,
+    "Building Integrity": "Poor",
+    "Occupant Comfort": 10,
+    "Operational Costs": 1687.8,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 4819,
+      "age": 4,
+      "construction_materials": "Wood",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.37,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Prince Edward Island",
+    "Temperature": {
+      "Average": 24.4,
+      "High": 29.0,
+      "Low": 23.8
+    },
+    "Humidity": {
+      "Average": 38,
+      "High": 44,
+      "Low": 36
+    },
+    "Precipitation": 84.0,
+    "Wind Speed": {
+      "Average": 52.9,
+      "High": 58.9,
+      "Gust": 65.9
+    },
+    "Solar Radiation": 690.9,
+    "Air Quality Index (AQI)": 392,
+    "Date/Time": "2024-03-24 18:54:08",
+    "Location": "RandomLocation_160",
+    "Energy Consumption": 5071.7,
+    "Moisture Levels": 53,
+    "HVAC Efficiency": 1.48,
+    "Indoor Air Quality": 157,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 0,
+    "Operational Costs": 2624.34,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 4595,
+      "age": 75,
+      "construction_materials": "Composite",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.53,
+      "use_type": "Industrial"
+    }
+  },
+  {
+    "province": "Saskatchewan",
+    "Temperature": {
+      "Average": 19.8,
+      "High": 21.5,
+      "Low": 15.5
+    },
+    "Humidity": {
+      "Average": 64,
+      "High": 64,
+      "Low": 64
+    },
+    "Precipitation": 48.2,
+    "Wind Speed": {
+      "Average": 54.8,
+      "High": 67.9,
+      "Gust": 81.5
+    },
+    "Solar Radiation": 397.3,
+    "Air Quality Index (AQI)": 463,
+    "Date/Time": "2023-10-31 18:54:08",
+    "Location": "RandomLocation_228",
+    "Energy Consumption": 2091.7,
+    "Moisture Levels": 53,
+    "HVAC Efficiency": 1.29,
+    "Indoor Air Quality": 326,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 1,
+    "Operational Costs": 7183.39,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 266,
+      "age": 3,
+      "construction_materials": "Composite",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.79,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Quebec",
+    "Temperature": {
+      "Average": 17.3,
+      "High": 20.9,
+      "Low": 16.2
+    },
+    "Humidity": {
+      "Average": 85,
+      "High": 89,
+      "Low": 81
+    },
+    "Precipitation": 63.1,
+    "Wind Speed": {
+      "Average": 64.1,
+      "High": 68.2,
+      "Gust": 68.2
+    },
+    "Solar Radiation": 829.9,
+    "Air Quality Index (AQI)": 350,
+    "Date/Time": "2024-03-31 18:54:08",
+    "Location": "RandomLocation_101",
+    "Energy Consumption": 4993.7,
+    "Moisture Levels": 40,
+    "HVAC Efficiency": 0.74,
+    "Indoor Air Quality": 36,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 0,
+    "Operational Costs": 5199.51,
+    "Adaptation Measures": "HVAC system upgrades",
+    "Building Characteristics": {
+      "size": 1854,
+      "age": 12,
+      "construction_materials": "Composite",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.88,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "New Brunswick",
+    "Temperature": {
+      "Average": 14.0,
+      "High": 17.0,
+      "Low": 12.3
+    },
+    "Humidity": {
+      "Average": 76,
+      "High": 82,
+      "Low": 75
+    },
+    "Precipitation": 44.2,
+    "Wind Speed": {
+      "Average": 80.4,
+      "High": 83.2,
+      "Gust": 93.8
+    },
+    "Solar Radiation": 24.5,
+    "Air Quality Index (AQI)": 103,
+    "Date/Time": "2023-04-08 18:54:08",
+    "Location": "RandomLocation_29",
+    "Energy Consumption": 8445.4,
+    "Moisture Levels": 36,
+    "HVAC Efficiency": 0.63,
+    "Indoor Air Quality": 491,
+    "Building Integrity": "Poor",
+    "Occupant Comfort": 3,
+    "Operational Costs": 1355.24,
+    "Adaptation Measures": "HVAC system upgrades",
+    "Building Characteristics": {
+      "size": 1603,
+      "age": 4,
+      "construction_materials": "Concrete",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.27,
+      "use_type": "Industrial"
+    }
+  },
+  {
+    "province": "British Columbia",
+    "Temperature": {
+      "Average": 27.8,
+      "High": 31.9,
+      "Low": 26.4
+    },
+    "Humidity": {
+      "Average": 53,
+      "High": 56,
+      "Low": 45
+    },
+    "Precipitation": 24.3,
+    "Wind Speed": {
+      "Average": 45.1,
+      "High": 54.8,
+      "Gust": 58.9
+    },
+    "Solar Radiation": 806.6,
+    "Air Quality Index (AQI)": 85,
+    "Date/Time": "2024-02-10 18:54:08",
+    "Location": "RandomLocation_48",
+    "Energy Consumption": 8325.0,
+    "Moisture Levels": 63,
+    "HVAC Efficiency": 1.24,
+    "Indoor Air Quality": 198,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 2,
+    "Operational Costs": 3360.5,
+    "Adaptation Measures": "HVAC system upgrades",
+    "Building Characteristics": {
+      "size": 2679,
+      "age": 33,
+      "construction_materials": "Wood",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.85,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Newfoundland and Labrador",
+    "Temperature": {
+      "Average": 15.9,
+      "High": 16.9,
+      "Low": 13.0
+    },
+    "Humidity": {
+      "Average": 84,
+      "High": 92,
+      "Low": 76
+    },
+    "Precipitation": 83.3,
+    "Wind Speed": {
+      "Average": 50.4,
+      "High": 59.9,
+      "Gust": 63.2
+    },
+    "Solar Radiation": 941.5,
+    "Air Quality Index (AQI)": 199,
+    "Date/Time": "2023-07-15 18:54:08",
+    "Location": "RandomLocation_114",
+    "Energy Consumption": 5916.4,
+    "Moisture Levels": 53,
+    "HVAC Efficiency": 0.83,
+    "Indoor Air Quality": 13,
+    "Building Integrity": "Poor",
+    "Occupant Comfort": 1,
+    "Operational Costs": 1462.18,
+    "Adaptation Measures": "Window replacements",
+    "Building Characteristics": {
+      "size": 2944,
+      "age": 44,
+      "construction_materials": "Concrete",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.6,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "Prince Edward Island",
+    "Temperature": {
+      "Average": 6.8,
+      "High": 9.7,
+      "Low": 5.7
+    },
+    "Humidity": {
+      "Average": 26,
+      "High": 35,
+      "Low": 24
+    },
+    "Precipitation": 50.8,
+    "Wind Speed": {
+      "Average": 50.8,
+      "High": 61.8,
+      "Gust": 70.2
+    },
+    "Solar Radiation": 739.2,
+    "Air Quality Index (AQI)": 3,
+    "Date/Time": "2023-11-24 18:54:08",
+    "Location": "RandomLocation_83",
+    "Energy Consumption": 8536.4,
+    "Moisture Levels": 55,
+    "HVAC Efficiency": 0.77,
+    "Indoor Air Quality": 283,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 1,
+    "Operational Costs": 4145.73,
+    "Adaptation Measures": "Window replacements",
+    "Building Characteristics": {
+      "size": 3088,
+      "age": 16,
+      "construction_materials": "Wood",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.4,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "Newfoundland and Labrador",
+    "Temperature": {
+      "Average": 20.5,
+      "High": 25.5,
+      "Low": 18.2
+    },
+    "Humidity": {
+      "Average": 89,
+      "High": 98,
+      "Low": 82
+    },
+    "Precipitation": 36.6,
+    "Wind Speed": {
+      "Average": 21.4,
+      "High": 33.0,
+      "Gust": 46.6
+    },
+    "Solar Radiation": 496.3,
+    "Air Quality Index (AQI)": 118,
+    "Date/Time": "2023-12-06 18:54:08",
+    "Location": "RandomLocation_174",
+    "Energy Consumption": 8071.6,
+    "Moisture Levels": 12,
+    "HVAC Efficiency": 1.13,
+    "Indoor Air Quality": 199,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 7,
+    "Operational Costs": 8979.0,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 783,
+      "age": 84,
+      "construction_materials": "Wood",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.54,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Prince Edward Island",
+    "Temperature": {
+      "Average": 14.3,
+      "High": 17.3,
+      "Low": 10.6
+    },
+    "Humidity": {
+      "Average": 12,
+      "High": 17,
+      "Low": 12
+    },
+    "Precipitation": 95.2,
+    "Wind Speed": {
+      "Average": 60.8,
+      "High": 64.7,
+      "Gust": 67.2
+    },
+    "Solar Radiation": 85.6,
+    "Air Quality Index (AQI)": 21,
+    "Date/Time": "2023-08-31 18:54:08",
+    "Location": "RandomLocation_117",
+    "Energy Consumption": 2013.7,
+    "Moisture Levels": 89,
+    "HVAC Efficiency": 1.49,
+    "Indoor Air Quality": 211,
+    "Building Integrity": "Poor",
+    "Occupant Comfort": 2,
+    "Operational Costs": 9702.54,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 3220,
+      "age": 32,
+      "construction_materials": "Composite",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.24,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Quebec",
+    "Temperature": {
+      "Average": 14.9,
+      "High": 17.8,
+      "Low": 13.6
+    },
+    "Humidity": {
+      "Average": 82,
+      "High": 91,
+      "Low": 74
+    },
+    "Precipitation": 91.3,
+    "Wind Speed": {
+      "Average": 58.8,
+      "High": 72.2,
+      "Gust": 82.6
+    },
+    "Solar Radiation": 40.3,
+    "Air Quality Index (AQI)": 340,
+    "Date/Time": "2023-05-22 18:54:08",
+    "Location": "RandomLocation_257",
+    "Energy Consumption": 2170.2,
+    "Moisture Levels": 58,
+    "HVAC Efficiency": 0.57,
+    "Indoor Air Quality": 350,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 3,
+    "Operational Costs": 5645.55,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 2383,
+      "age": 67,
+      "construction_materials": "Concrete",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.82,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Manitoba",
+    "Temperature": {
+      "Average": -25.3,
+      "High": -22.4,
+      "Low": -28.6
+    },
+    "Humidity": {
+      "Average": 83,
+      "High": 90,
+      "Low": 83
+    },
+    "Precipitation": 79.4,
+    "Wind Speed": {
+      "Average": 14.7,
+      "High": 22.6,
+      "Gust": 36.1
+    },
+    "Solar Radiation": 35.4,
+    "Air Quality Index (AQI)": 323,
+    "Date/Time": "2023-12-02 18:54:08",
+    "Location": "RandomLocation_262",
+    "Energy Consumption": 7917.5,
+    "Moisture Levels": 71,
+    "HVAC Efficiency": 0.8,
+    "Indoor Air Quality": 188,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 5,
+    "Operational Costs": 8418.07,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 3047,
+      "age": 19,
+      "construction_materials": "Steel",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.46,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "British Columbia",
+    "Temperature": {
+      "Average": 5.5,
+      "High": 6.4,
+      "Low": 2.5
+    },
+    "Humidity": {
+      "Average": 93,
+      "High": 100,
+      "Low": 88
+    },
+    "Precipitation": 60.8,
+    "Wind Speed": {
+      "Average": 47.1,
+      "High": 47.9,
+      "Gust": 53.3
+    },
+    "Solar Radiation": 112.9,
+    "Air Quality Index (AQI)": 472,
+    "Date/Time": "2023-08-06 18:54:08",
+    "Location": "RandomLocation_2",
+    "Energy Consumption": 1933.1,
+    "Moisture Levels": 80,
+    "HVAC Efficiency": 0.75,
+    "Indoor Air Quality": 283,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 1,
+    "Operational Costs": 1276.65,
+    "Adaptation Measures": "Window replacements",
+    "Building Characteristics": {
+      "size": 202,
+      "age": 35,
+      "construction_materials": "Concrete",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.16,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Newfoundland and Labrador",
+    "Temperature": {
+      "Average": -8.1,
+      "High": -5.3,
+      "Low": -12.4
+    },
+    "Humidity": {
+      "Average": 55,
+      "High": 65,
+      "Low": 49
+    },
+    "Precipitation": 33.0,
+    "Wind Speed": {
+      "Average": 64.3,
+      "High": 73.7,
+      "Gust": 81.0
+    },
+    "Solar Radiation": 37.4,
+    "Air Quality Index (AQI)": 93,
+    "Date/Time": "2024-02-24 18:54:08",
+    "Location": "RandomLocation_127",
+    "Energy Consumption": 1685.2,
+    "Moisture Levels": 39,
+    "HVAC Efficiency": 1.0,
+    "Indoor Air Quality": 185,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 2,
+    "Operational Costs": 4293.31,
+    "Adaptation Measures": "Window replacements",
+    "Building Characteristics": {
+      "size": 2464,
+      "age": 29,
+      "construction_materials": "Steel",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.32,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "Newfoundland and Labrador",
+    "Temperature": {
+      "Average": -3.0,
+      "High": -1.2,
+      "Low": -5.9
+    },
+    "Humidity": {
+      "Average": 56,
+      "High": 66,
+      "Low": 52
+    },
+    "Precipitation": 59.6,
+    "Wind Speed": {
+      "Average": 98.5,
+      "High": 112.2,
+      "Gust": 122.7
+    },
+    "Solar Radiation": 946.0,
+    "Air Quality Index (AQI)": 440,
+    "Date/Time": "2023-12-28 18:54:08",
+    "Location": "RandomLocation_214",
+    "Energy Consumption": 5373.3,
+    "Moisture Levels": 33,
+    "HVAC Efficiency": 0.95,
+    "Indoor Air Quality": 189,
+    "Building Integrity": "Poor",
+    "Occupant Comfort": 9,
+    "Operational Costs": 9621.2,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 2875,
+      "age": 59,
+      "construction_materials": "Steel",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.65,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Manitoba",
+    "Temperature": {
+      "Average": 3.9,
+      "High": 8.8,
+      "Low": -0.5
+    },
+    "Humidity": {
+      "Average": 61,
+      "High": 61,
+      "Low": 57
+    },
+    "Precipitation": 87.8,
+    "Wind Speed": {
+      "Average": 1.4,
+      "High": 10.6,
+      "Gust": 17.1
+    },
+    "Solar Radiation": 730.7,
+    "Air Quality Index (AQI)": 182,
+    "Date/Time": "2023-12-26 18:54:08",
+    "Location": "RandomLocation_197",
+    "Energy Consumption": 158.2,
+    "Moisture Levels": 82,
+    "HVAC Efficiency": 0.72,
+    "Indoor Air Quality": 203,
+    "Building Integrity": "Poor",
+    "Occupant Comfort": 4,
+    "Operational Costs": 4276.63,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 2464,
+      "age": 12,
+      "construction_materials": "Composite",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.49,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Manitoba",
+    "Temperature": {
+      "Average": 6.5,
+      "High": 9.2,
+      "Low": 4.3
+    },
+    "Humidity": {
+      "Average": 86,
+      "High": 94,
+      "Low": 81
+    },
+    "Precipitation": 18.5,
+    "Wind Speed": {
+      "Average": 60.2,
+      "High": 61.1,
+      "Gust": 69.1
+    },
+    "Solar Radiation": 695.6,
+    "Air Quality Index (AQI)": 325,
+    "Date/Time": "2023-07-15 18:54:08",
+    "Location": "RandomLocation_231",
+    "Energy Consumption": 1806.3,
+    "Moisture Levels": 32,
+    "HVAC Efficiency": 0.99,
+    "Indoor Air Quality": 214,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 3,
+    "Operational Costs": 1009.7,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 3264,
+      "age": 60,
+      "construction_materials": "Concrete",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.56,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "New Brunswick",
+    "Temperature": {
+      "Average": -21.5,
+      "High": -20.8,
+      "Low": -24.1
+    },
+    "Humidity": {
+      "Average": 20,
+      "High": 24,
+      "Low": 14
+    },
+    "Precipitation": 36.1,
+    "Wind Speed": {
+      "Average": 43.9,
+      "High": 48.0,
+      "Gust": 52.1
+    },
+    "Solar Radiation": 233.5,
+    "Air Quality Index (AQI)": 458,
+    "Date/Time": "2023-10-23 18:54:08",
+    "Location": "RandomLocation_43",
+    "Energy Consumption": 2037.3,
+    "Moisture Levels": 77,
+    "HVAC Efficiency": 0.75,
+    "Indoor Air Quality": 155,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 8,
+    "Operational Costs": 6229.83,
+    "Adaptation Measures": "HVAC system upgrades",
+    "Building Characteristics": {
+      "size": 2479,
+      "age": 18,
+      "construction_materials": "Wood",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.43,
+      "use_type": "Industrial"
+    }
+  },
+  {
+    "province": "Manitoba",
+    "Temperature": {
+      "Average": -20.0,
+      "High": -16.9,
+      "Low": -23.6
+    },
+    "Humidity": {
+      "Average": 71,
+      "High": 78,
+      "Low": 67
+    },
+    "Precipitation": 52.8,
+    "Wind Speed": {
+      "Average": 98.6,
+      "High": 111.6,
+      "Gust": 113.1
+    },
+    "Solar Radiation": 624.3,
+    "Air Quality Index (AQI)": 111,
+    "Date/Time": "2023-04-03 18:54:08",
+    "Location": "RandomLocation_51",
+    "Energy Consumption": 435.0,
+    "Moisture Levels": 48,
+    "HVAC Efficiency": 1.05,
+    "Indoor Air Quality": 161,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 6,
+    "Operational Costs": 3705.37,
+    "Adaptation Measures": "Solar panels installation",
+    "Building Characteristics": {
+      "size": 668,
+      "age": 67,
+      "construction_materials": "Wood",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.19,
+      "use_type": "Industrial"
+    }
+  },
+  {
+    "province": "Prince Edward Island",
+    "Temperature": {
+      "Average": 6.6,
+      "High": 7.2,
+      "Low": 5.5
+    },
+    "Humidity": {
+      "Average": 100,
+      "High": 100,
+      "Low": 95
+    },
+    "Precipitation": 11.0,
+    "Wind Speed": {
+      "Average": 23.9,
+      "High": 26.8,
+      "Gust": 39.5
+    },
+    "Solar Radiation": 304.8,
+    "Air Quality Index (AQI)": 102,
+    "Date/Time": "2023-06-19 18:54:08",
+    "Location": "RandomLocation_254",
+    "Energy Consumption": 1781.7,
+    "Moisture Levels": 15,
+    "HVAC Efficiency": 0.94,
+    "Indoor Air Quality": 235,
+    "Building Integrity": "Poor",
+    "Occupant Comfort": 7,
+    "Operational Costs": 3121.53,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 283,
+      "age": 57,
+      "construction_materials": "Composite",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.11,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "Alberta",
+    "Temperature": {
+      "Average": -3.3,
+      "High": -1.3,
+      "Low": -6.6
+    },
+    "Humidity": {
+      "Average": 81,
+      "High": 91,
+      "Low": 74
+    },
+    "Precipitation": 94.8,
+    "Wind Speed": {
+      "Average": 39.7,
+      "High": 54.6,
+      "Gust": 64.8
+    },
+    "Solar Radiation": 717.8,
+    "Air Quality Index (AQI)": 250,
+    "Date/Time": "2023-10-09 18:54:08",
+    "Location": "RandomLocation_36",
+    "Energy Consumption": 4115.1,
+    "Moisture Levels": 9,
+    "HVAC Efficiency": 0.92,
+    "Indoor Air Quality": 361,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 4,
+    "Operational Costs": 7830.77,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 2543,
+      "age": 11,
+      "construction_materials": "Concrete",
+      "insulation_levels": "High",
+      "window_to_wall_ratio": 0.45,
+      "use_type": "Residential"
+    }
+  },
+  {
+    "province": "Newfoundland and Labrador",
+    "Temperature": {
+      "Average": 9.2,
+      "High": 11.6,
+      "Low": 5.0
+    },
+    "Humidity": {
+      "Average": 71,
+      "High": 73,
+      "Low": 67
+    },
+    "Precipitation": 88.8,
+    "Wind Speed": {
+      "Average": 38.4,
+      "High": 42.6,
+      "Gust": 51.9
+    },
+    "Solar Radiation": 287.2,
+    "Air Quality Index (AQI)": 478,
+    "Date/Time": "2024-03-30 18:54:08",
+    "Location": "RandomLocation_24",
+    "Energy Consumption": 4214.3,
+    "Moisture Levels": 78,
+    "HVAC Efficiency": 1.24,
+    "Indoor Air Quality": 485,
+    "Building Integrity": "Good",
+    "Occupant Comfort": 0,
+    "Operational Costs": 4786.67,
+    "Adaptation Measures": "Window replacements",
+    "Building Characteristics": {
+      "size": 1002,
+      "age": 52,
+      "construction_materials": "Wood",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.19,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Newfoundland and Labrador",
+    "Temperature": {
+      "Average": 22.0,
+      "High": 24.9,
+      "Low": 18.7
+    },
+    "Humidity": {
+      "Average": 52,
+      "High": 52,
+      "Low": 49
+    },
+    "Precipitation": 1.5,
+    "Wind Speed": {
+      "Average": 11.9,
+      "High": 18.9,
+      "Gust": 22.6
+    },
+    "Solar Radiation": 842.5,
+    "Air Quality Index (AQI)": 211,
+    "Date/Time": "2023-09-04 18:54:08",
+    "Location": "RandomLocation_286",
+    "Energy Consumption": 1582.3,
+    "Moisture Levels": 29,
+    "HVAC Efficiency": 1.32,
+    "Indoor Air Quality": 333,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 6,
+    "Operational Costs": 6347.22,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 2508,
+      "age": 26,
+      "construction_materials": "Composite",
+      "insulation_levels": "Medium",
+      "window_to_wall_ratio": 0.73,
+      "use_type": "Commercial"
+    }
+  },
+  {
+    "province": "Manitoba",
+    "Temperature": {
+      "Average": -8.9,
+      "High": -5.9,
+      "Low": -12.5
+    },
+    "Humidity": {
+      "Average": 38,
+      "High": 47,
+      "Low": 32
+    },
+    "Precipitation": 59.0,
+    "Wind Speed": {
+      "Average": 3.4,
+      "High": 14.1,
+      "Gust": 17.3
+    },
+    "Solar Radiation": 247.7,
+    "Air Quality Index (AQI)": 67,
+    "Date/Time": "2023-06-03 18:54:08",
+    "Location": "RandomLocation_281",
+    "Energy Consumption": 1466.6,
+    "Moisture Levels": 90,
+    "HVAC Efficiency": 0.97,
+    "Indoor Air Quality": 294,
+    "Building Integrity": "Moderate",
+    "Occupant Comfort": 7,
+    "Operational Costs": 9867.16,
+    "Adaptation Measures": "Insulation upgrades",
+    "Building Characteristics": {
+      "size": 1139,
+      "age": 26,
+      "construction_materials": "Concrete",
+      "insulation_levels": "Low",
+      "window_to_wall_ratio": 0.52,
+      "use_type": "Residential"
+    }
+  }
+]

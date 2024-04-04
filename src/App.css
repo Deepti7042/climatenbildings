@@ -1,6 +1,22 @@
 .App {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
 }
+
+.centered-component {
+  width: 100%; /* Adjust this as necessary */
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+hr {
+  width: 80%; /* Adjust the width of the line as needed */
+  border-top: 1px solid #ccc;
+}
+
 
 .App-logo {
   height: 40vmin;

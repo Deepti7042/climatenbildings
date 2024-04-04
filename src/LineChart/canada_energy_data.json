@@ -1,0 +1,1002 @@
+[
+  {
+      "year": 2026,
+      "province": "British Columbia",
+      "scenario": "low",
+      "energyConsumption": 4023,
+      "hvacEfficiency": 0.67,
+      "indoorAirQuality": 55,
+      "operationalCosts": 2768,
+      "adaptationMeasures": "Smart thermostats"
+  },
+  {
+      "year": 2026,
+      "province": "New Brunswick",
+      "scenario": "low",
+      "energyConsumption": 4526,
+      "hvacEfficiency": 0.68,
+      "indoorAirQuality": 60,
+      "operationalCosts": 4123,
+      "adaptationMeasures": "Smart thermostats"
+  },
+  {
+      "year": 2025,
+      "province": "New Brunswick",
+      "scenario": "medium",
+      "energyConsumption": 3440,
+      "hvacEfficiency": 0.54,
+      "indoorAirQuality": 84,
+      "operationalCosts": 3623,
+      "adaptationMeasures": "Energy efficient windows"
+  },
+  {
+      "year": 2025,
+      "province": "Ontario",
+      "scenario": "high",
+      "energyConsumption": 4330,
+      "hvacEfficiency": 0.71,
+      "indoorAirQuality": 60,
+      "operationalCosts": 3613,
+      "adaptationMeasures": "Rainwater harvesting"
+  },
+  {
+      "year": 2025,
+      "province": "British Columbia",
+      "scenario": "high",
+      "energyConsumption": 1928,
+      "hvacEfficiency": 0.64,
+      "indoorAirQuality": 55,
+      "operationalCosts": 3522,
+      "adaptationMeasures": "Insulation improvement"
+  },
+  {
+      "year": 2025,
+      "province": "Saskatchewan",
+      "scenario": "high",
+      "energyConsumption": 2415,
+      "hvacEfficiency": 0.78,
+      "indoorAirQuality": 90,
+      "operationalCosts": 3717,
+      "adaptationMeasures": "Rainwater harvesting"
+  },
+  {
+      "year": 2025,
+      "province": "Quebec",
+      "scenario": "high",
+      "energyConsumption": 1135,
+      "hvacEfficiency": 0.76,
+      "indoorAirQuality": 43,
+      "operationalCosts": 3915,
+      "adaptationMeasures": "Energy efficient windows"
+  },
+  {
+      "year": 2024,
+      "province": "Nova Scotia",
+      "scenario": "medium",
+      "energyConsumption": 4917,
+      "hvacEfficiency": 0.96,
+      "indoorAirQuality": 92,
+      "operationalCosts": 3837,
+      "adaptationMeasures": "Smart thermostats"
+  },
+  {
+      "year": 2024,
+      "province": "Manitoba",
+      "scenario": "high",
+      "energyConsumption": 2141,
+      "hvacEfficiency": 0.54,
+      "indoorAirQuality": 37,
+      "operationalCosts": 4454,
+      "adaptationMeasures": "Solar panels installation"
+  },
+  {
+      "year": 2024,
+      "province": "Ontario",
+      "scenario": "medium",
+      "energyConsumption": 3273,
+      "hvacEfficiency": 0.66,
+      "indoorAirQuality": 79,
+      "operationalCosts": 2217,
+      "adaptationMeasures": "Smart thermostats"
+  },
+  {
+      "year": 2023,
+      "province": "Alberta",
+      "scenario": "medium",
+      "energyConsumption": 4143,
+      "hvacEfficiency": 0.91,
+      "indoorAirQuality": 73,
+      "operationalCosts": 2273,
+      "adaptationMeasures": "Green roofs"
+  },
+  {
+      "year": 2023,
+      "province": "Quebec",
+      "scenario": "medium",
+      "energyConsumption": 3388,
+      "hvacEfficiency": 0.59,
+      "indoorAirQuality": 60,
+      "operationalCosts": 4176,
+      "adaptationMeasures": "Solar panels installation"
+  },
+  {
+      "year": 2023,
+      "province": "Ontario",
+      "scenario": "high",
+      "energyConsumption": 2548,
+      "hvacEfficiency": 0.65,
+      "indoorAirQuality": 68,
+      "operationalCosts": 3029,
+      "adaptationMeasures": "Solar panels installation"
+  },
+  {
+      "year": 2023,
+      "province": "New Brunswick",
+      "scenario": "low",
+      "energyConsumption": 4074,
+      "hvacEfficiency": 0.82,
+      "indoorAirQuality": 47,
+      "operationalCosts": 4970,
+      "adaptationMeasures": "Smart thermostats"
+  },
+  {
+      "year": 2023,
+      "province": "Quebec",
+      "scenario": "low",
+      "energyConsumption": 3281,
+      "hvacEfficiency": 0.7,
+      "indoorAirQuality": 48,
+      "operationalCosts": 3556,
+      "adaptationMeasures": "Insulation improvement"
+  },
+  {
+      "year": 2023,
+      "province": "Nova Scotia",
+      "scenario": "low",
+      "energyConsumption": 1338,
+      "hvacEfficiency": 0.66,
+      "indoorAirQuality": 73,
+      "operationalCosts": 4791,
+      "adaptationMeasures": "Smart thermostats"
+  },
+  {
+      "year": 2022,
+      "province": "Ontario",
+      "scenario": "low",
+      "energyConsumption": 1724,
+      "hvacEfficiency": 0.82,
+      "indoorAirQuality": 55,
+      "operationalCosts": 4542,
+      "adaptationMeasures": "Rainwater harvesting"
+  },
+  {
+      "year": 2022,
+      "province": "Saskatchewan",
+      "scenario": "high",
+      "energyConsumption": 2795,
+      "hvacEfficiency": 0.87,
+      "indoorAirQuality": 32,
+      "operationalCosts": 4867,
+      "adaptationMeasures": "Green roofs"
+  },
+  {
+      "year": 2022,
+      "province": "Quebec",
+      "scenario": "high",
+      "energyConsumption": 2560,
+      "hvacEfficiency": 0.51,
+      "indoorAirQuality": 66,
+      "operationalCosts": 4727,
+      "adaptationMeasures": "Solar panels installation"
+  },
+  {
+      "year": 2022,
+      "province": "Quebec",
+      "scenario": "high",
+      "energyConsumption": 2437,
+      "hvacEfficiency": 0.86,
+      "indoorAirQuality": 100,
+      "operationalCosts": 4278,
+      "adaptationMeasures": "Green roofs"
+  },
+  {
+      "year": 2022,
+      "province": "Alberta",
+      "scenario": "high",
+      "energyConsumption": 2309,
+      "hvacEfficiency": 0.84,
+      "indoorAirQuality": 50,
+      "operationalCosts": 2194,
+      "adaptationMeasures": "Solar panels installation"
+  },
+  {
+      "year": 2021,
+      "province": "Manitoba",
+      "scenario": "medium",
+      "energyConsumption": 3593,
+      "hvacEfficiency": 0.68,
+      "indoorAirQuality": 44,
+      "operationalCosts": 4652,
+      "adaptationMeasures": "Rainwater harvesting"
+  },
+  {
+      "year": 2021,
+      "province": "Alberta",
+      "scenario": "high",
+      "energyConsumption": 4904,
+      "hvacEfficiency": 0.93,
+      "indoorAirQuality": 46,
+      "operationalCosts": 4335,
+      "adaptationMeasures": "Energy efficient windows"
+  },
+  {
+      "year": 2021,
+      "province": "Saskatchewan",
+      "scenario": "low",
+      "energyConsumption": 3010,
+      "hvacEfficiency": 0.51,
+      "indoorAirQuality": 52,
+      "operationalCosts": 3483,
+      "adaptationMeasures": "Energy efficient windows"
+  },
+  {
+      "year": 2021,
+      "province": "Nova Scotia",
+      "scenario": "low",
+      "energyConsumption": 4450,
+      "hvacEfficiency": 0.89,
+      "indoorAirQuality": 96,
+      "operationalCosts": 4932,
+      "adaptationMeasures": "Insulation improvement"
+  },
+  {
+      "year": 2021,
+      "province": "New Brunswick",
+      "scenario": "low",
+      "energyConsumption": 4636,
+      "hvacEfficiency": 0.97,
+      "indoorAirQuality": 54,
+      "operationalCosts": 3147,
+      "adaptationMeasures": "Green roofs"
+  },
+  {
+      "year": 2020,
+      "province": "Saskatchewan",
+      "scenario": "low",
+      "energyConsumption": 1375,
+      "hvacEfficiency": 0.72,
+      "indoorAirQuality": 73,
+      "operationalCosts": 3046,
+      "adaptationMeasures": "Insulation improvement"
+  },
+  {
+      "year": 2020,
+      "province": "Prince Edward Island",
+      "scenario": "medium",
+      "energyConsumption": 4415,
+      "hvacEfficiency": 0.69,
+      "indoorAirQuality": 45,
+      "operationalCosts": 2830,
+      "adaptationMeasures": "Green roofs"
+  },
+  {
+      "year": 2020,
+      "province": "Nova Scotia",
+      "scenario": "low",
+      "energyConsumption": 3932,
+      "hvacEfficiency": 0.86,
+      "indoorAirQuality": 40,
+      "operationalCosts": 3607,
+      "adaptationMeasures": "Insulation improvement"
+  },
+  {
+      "year": 2020,
+      "province": "New Brunswick",
+      "scenario": "high",
+      "energyConsumption": 3760,
+      "hvacEfficiency": 0.55,
+      "indoorAirQuality": 63,
+      "operationalCosts": 2732,
+      "adaptationMeasures": "Rainwater harvesting"
+  },
+  {
+      "year": 2019,
+      "province": "Newfoundland and Labrador",
+      "scenario": "medium",
+      "energyConsumption": 3827,
+      "hvacEfficiency": 0.74,
+      "indoorAirQuality": 51,
+      "operationalCosts": 3235,
+      "adaptationMeasures": "Solar panels installation"
+  },
+  {
+      "year": 2019,
+      "province": "Nova Scotia",
+      "scenario": "low",
+      "energyConsumption": 2382,
+      "hvacEfficiency": 0.69,
+      "indoorAirQuality": 74,
+      "operationalCosts": 4496,
+      "adaptationMeasures": "Smart thermostats"
+  },
+  {
+      "year": 2019,
+      "province": "Manitoba",
+      "scenario": "low",
+      "energyConsumption": 2802,
+      "hvacEfficiency": 0.71,
+      "indoorAirQuality": 62,
+      "operationalCosts": 2647,
+      "adaptationMeasures": "Energy efficient windows"
+  },
+  {
+      "year": 2018,
+      "province": "Saskatchewan",
+      "scenario": "medium",
+      "energyConsumption": 2174,
+      "hvacEfficiency": 0.82,
+      "indoorAirQuality": 98,
+      "operationalCosts": 2159,
+      "adaptationMeasures": "Insulation improvement"
+  },
+  {
+      "year": 2018,
+      "province": "Alberta",
+      "scenario": "medium",
+      "energyConsumption": 1416,
+      "hvacEfficiency": 0.61,
+      "indoorAirQuality": 64,
+      "operationalCosts": 2776,
+      "adaptationMeasures": "Smart thermostats"
+  },
+  {
+      "year": 2018,
+      "province": "Manitoba",
+      "scenario": "medium",
+      "energyConsumption": 4524,
+      "hvacEfficiency": 0.74,
+      "indoorAirQuality": 99,
+      "operationalCosts": 3978,
+      "adaptationMeasures": "Smart thermostats"
+  },
+  {
+      "year": 2017,
+      "province": "British Columbia",
+      "scenario": "high",
+      "energyConsumption": 3090,
+      "hvacEfficiency": 0.67,
+      "indoorAirQuality": 65,
+      "operationalCosts": 2040,
+      "adaptationMeasures": "Rainwater harvesting"
+  },
+  {
+      "year": 2017,
+      "province": "Nova Scotia",
+      "scenario": "high",
+      "energyConsumption": 1481,
+      "hvacEfficiency": 0.91,
+      "indoorAirQuality": 83,
+      "operationalCosts": 4374,
+      "adaptationMeasures": "Green roofs"
+  },
+  {
+      "year": 2017,
+      "province": "Ontario",
+      "scenario": "medium",
+      "energyConsumption": 3166,
+      "hvacEfficiency": 0.73,
+      "indoorAirQuality": 92,
+      "operationalCosts": 4887,
+      "adaptationMeasures": "Insulation improvement"
+  },
+  {
+      "year": 2017,
+      "province": "British Columbia",
+      "scenario": "medium",
+      "energyConsumption": 1281,
+      "hvacEfficiency": 0.86,
+      "indoorAirQuality": 77,
+      "operationalCosts": 4447,
+      "adaptationMeasures": "Rainwater harvesting"
+  },
+  {
+      "year": 2017,
+      "province": "Nova Scotia",
+      "scenario": "medium",
+      "energyConsumption": 2100,
+      "hvacEfficiency": 0.61,
+      "indoorAirQuality": 57,
+      "operationalCosts": 2126,
+      "adaptationMeasures": "Energy efficient windows"
+  },
+  {
+      "year": 2017,
+      "province": "New Brunswick",
+      "scenario": "low",
+      "energyConsumption": 1282,
+      "hvacEfficiency": 0.7,
+      "indoorAirQuality": 59,
+      "operationalCosts": 4615,
+      "adaptationMeasures": "Energy efficient windows"
+  },
+  {
+      "year": 2016,
+      "province": "Newfoundland and Labrador",
+      "scenario": "low",
+      "energyConsumption": 3467,
+      "hvacEfficiency": 0.9,
+      "indoorAirQuality": 58,
+      "operationalCosts": 3638,
+      "adaptationMeasures": "Solar panels installation"
+  },
+  {
+      "year": 2016,
+      "province": "Manitoba",
+      "scenario": "high",
+      "energyConsumption": 2326,
+      "hvacEfficiency": 0.56,
+      "indoorAirQuality": 93,
+      "operationalCosts": 3563,
+      "adaptationMeasures": "Insulation improvement"
+  },
+  {
+      "year": 2015,
+      "province": "British Columbia",
+      "scenario": "low",
+      "energyConsumption": 4101,
+      "hvacEfficiency": 0.89,
+      "indoorAirQuality": 41,
+      "operationalCosts": 2454,
+      "adaptationMeasures": "Insulation improvement"
+  },
+  {
+      "year": 2015,
+      "province": "Manitoba",
+      "scenario": "high",
+      "energyConsumption": 1476,
+      "hvacEfficiency": 0.93,
+      "indoorAirQuality": 92,
+      "operationalCosts": 3678,
+      "adaptationMeasures": "Rainwater harvesting"
+  },
+  {
+      "year": 2014,
+      "province": "New Brunswick",
+      "scenario": "medium",
+      "energyConsumption": 2782,
+      "hvacEfficiency": 0.54,
+      "indoorAirQuality": 70,
+      "operationalCosts": 2891,
+      "adaptationMeasures": "Green roofs"
+  },
+  {
+      "year": 2014,
+      "province": "Alberta",
+      "scenario": "low",
+      "energyConsumption": 2981,
+      "hvacEfficiency": 0.55,
+      "indoorAirQuality": 38,
+      "operationalCosts": 4798,
+      "adaptationMeasures": "Smart thermostats"
+  },
+  {
+      "year": 2014,
+      "province": "Quebec",
+      "scenario": "high",
+      "energyConsumption": 3506,
+      "hvacEfficiency": 0.87,
+      "indoorAirQuality": 70,
+      "operationalCosts": 2936,
+      "adaptationMeasures": "Rainwater harvesting"
+  },
+  {
+      "year": 2013,
+      "province": "Manitoba",
+      "scenario": "medium",
+      "energyConsumption": 2439,
+      "hvacEfficiency": 0.77,
+      "indoorAirQuality": 56,
+      "operationalCosts": 2317,
+      "adaptationMeasures": "Insulation improvement"
+  },
+  {
+      "year": 2013,
+      "province": "Ontario",
+      "scenario": "low",
+      "energyConsumption": 2351,
+      "hvacEfficiency": 0.68,
+      "indoorAirQuality": 41,
+      "operationalCosts": 2296,
+      "adaptationMeasures": "Solar panels installation"
+  },
+  {
+      "year": 2012,
+      "province": "Quebec",
+      "scenario": "medium",
+      "energyConsumption": 4271,
+      "hvacEfficiency": 0.72,
+      "indoorAirQuality": 76,
+      "operationalCosts": 3957,
+      "adaptationMeasures": "Energy efficient windows"
+  },
+  {
+      "year": 2012,
+      "province": "Saskatchewan",
+      "scenario": "low",
+      "energyConsumption": 4725,
+      "hvacEfficiency": 0.68,
+      "indoorAirQuality": 38,
+      "operationalCosts": 2913,
+      "adaptationMeasures": "Insulation improvement"
+  },
+  {
+      "year": 2012,
+      "province": "British Columbia",
+      "scenario": "high",
+      "energyConsumption": 3670,
+      "hvacEfficiency": 0.83,
+      "indoorAirQuality": 32,
+      "operationalCosts": 3606,
+      "adaptationMeasures": "Green roofs"
+  },
+  {
+      "year": 2012,
+      "province": "Ontario",
+      "scenario": "medium",
+      "energyConsumption": 1570,
+      "hvacEfficiency": 0.72,
+      "indoorAirQuality": 69,
+      "operationalCosts": 3954,
+      "adaptationMeasures": "Green roofs"
+  },
+  {
+      "year": 2012,
+      "province": "Alberta",
+      "scenario": "medium",
+      "energyConsumption": 2498,
+      "hvacEfficiency": 0.8,
+      "indoorAirQuality": 56,
+      "operationalCosts": 2626,
+      "adaptationMeasures": "Solar panels installation"
+  },
+  {
+      "year": 2012,
+      "province": "Saskatchewan",
+      "scenario": "high",
+      "energyConsumption": 2228,
+      "hvacEfficiency": 0.73,
+      "indoorAirQuality": 51,
+      "operationalCosts": 2897,
+      "adaptationMeasures": "Energy efficient windows"
+  },
+  {
+      "year": 2011,
+      "province": "Nova Scotia",
+      "scenario": "high",
+      "energyConsumption": 4257,
+      "hvacEfficiency": 0.71,
+      "indoorAirQuality": 81,
+      "operationalCosts": 3615,
+      "adaptationMeasures": "Green roofs"
+  },
+  {
+      "year": 2011,
+      "province": "Quebec",
+      "scenario": "high",
+      "energyConsumption": 3448,
+      "hvacEfficiency": 0.6,
+      "indoorAirQuality": 71,
+      "operationalCosts": 3894,
+      "adaptationMeasures": "Rainwater harvesting"
+  },
+  {
+      "year": 2010,
+      "province": "British Columbia",
+      "scenario": "high",
+      "energyConsumption": 3852,
+      "hvacEfficiency": 0.73,
+      "indoorAirQuality": 44,
+      "operationalCosts": 3583,
+      "adaptationMeasures": "Smart thermostats"
+  },
+  {
+      "year": 2010,
+      "province": "Quebec",
+      "scenario": "low",
+      "energyConsumption": 3260,
+      "hvacEfficiency": 0.7,
+      "indoorAirQuality": 40,
+      "operationalCosts": 4322,
+      "adaptationMeasures": "Energy efficient windows"
+  },
+  {
+      "year": 2010,
+      "province": "Saskatchewan",
+      "scenario": "low",
+      "energyConsumption": 3192,
+      "hvacEfficiency": 0.7,
+      "indoorAirQuality": 51,
+      "operationalCosts": 3923,
+      "adaptationMeasures": "Smart thermostats"
+  },
+  {
+      "year": 2009,
+      "province": "Saskatchewan",
+      "scenario": "high",
+      "energyConsumption": 3105,
+      "hvacEfficiency": 0.64,
+      "indoorAirQuality": 73,
+      "operationalCosts": 3834,
+      "adaptationMeasures": "Energy efficient windows"
+  },
+  {
+      "year": 2009,
+      "province": "Quebec",
+      "scenario": "high",
+      "energyConsumption": 3392,
+      "hvacEfficiency": 0.75,
+      "indoorAirQuality": 72,
+      "operationalCosts": 4219,
+      "adaptationMeasures": "Smart thermostats"
+  },
+  {
+      "year": 2009,
+      "province": "Prince Edward Island",
+      "scenario": "low",
+      "energyConsumption": 2570,
+      "hvacEfficiency": 0.88,
+      "indoorAirQuality": 39,
+      "operationalCosts": 2474,
+      "adaptationMeasures": "Insulation improvement"
+  },
+  {
+      "year": 2009,
+      "province": "New Brunswick",
+      "scenario": "high",
+      "energyConsumption": 2441,
+      "hvacEfficiency": 0.57,
+      "indoorAirQuality": 41,
+      "operationalCosts": 2805,
+      "adaptationMeasures": "Energy efficient windows"
+  },
+  {
+      "year": 2008,
+      "province": "Quebec",
+      "scenario": "medium",
+      "energyConsumption": 4046,
+      "hvacEfficiency": 0.54,
+      "indoorAirQuality": 36,
+      "operationalCosts": 4161,
+      "adaptationMeasures": "Insulation improvement"
+  },
+  {
+      "year": 2008,
+      "province": "Saskatchewan",
+      "scenario": "high",
+      "energyConsumption": 4665,
+      "hvacEfficiency": 0.78,
+      "indoorAirQuality": 41,
+      "operationalCosts": 3159,
+      "adaptationMeasures": "Green roofs"
+  },
+  {
+      "year": 2008,
+      "province": "Saskatchewan",
+      "scenario": "low",
+      "energyConsumption": 3301,
+      "hvacEfficiency": 0.58,
+      "indoorAirQuality": 64,
+      "operationalCosts": 4190,
+      "adaptationMeasures": "Green roofs"
+  },
+  {
+      "year": 2008,
+      "province": "Manitoba",
+      "scenario": "medium",
+      "energyConsumption": 4034,
+      "hvacEfficiency": 0.76,
+      "indoorAirQuality": 83,
+      "operationalCosts": 4047,
+      "adaptationMeasures": "Smart thermostats"
+  },
+  {
+      "year": 2008,
+      "province": "Newfoundland and Labrador",
+      "scenario": "low",
+      "energyConsumption": 3676,
+      "hvacEfficiency": 0.56,
+      "indoorAirQuality": 86,
+      "operationalCosts": 2038,
+      "adaptationMeasures": "Insulation improvement"
+  },
+  {
+      "year": 2008,
+      "province": "Alberta",
+      "scenario": "medium",
+      "energyConsumption": 2942,
+      "hvacEfficiency": 0.88,
+      "indoorAirQuality": 42,
+      "operationalCosts": 2422,
+      "adaptationMeasures": "Rainwater harvesting"
+  },
+  {
+      "year": 2008,
+      "province": "Prince Edward Island",
+      "scenario": "high",
+      "energyConsumption": 3263,
+      "hvacEfficiency": 0.51,
+      "indoorAirQuality": 32,
+      "operationalCosts": 2356,
+      "adaptationMeasures": "Rainwater harvesting"
+  },
+  {
+      "year": 2008,
+      "province": "Nova Scotia",
+      "scenario": "low",
+      "energyConsumption": 2273,
+      "hvacEfficiency": 0.84,
+      "indoorAirQuality": 70,
+      "operationalCosts": 2549,
+      "adaptationMeasures": "Smart thermostats"
+  },
+  {
+      "year": 2008,
+      "province": "Ontario",
+      "scenario": "high",
+      "energyConsumption": 1446,
+      "hvacEfficiency": 0.87,
+      "indoorAirQuality": 47,
+      "operationalCosts": 2785,
+      "adaptationMeasures": "Smart thermostats"
+  },
+  {
+      "year": 2007,
+      "province": "Nova Scotia",
+      "scenario": "low",
+      "energyConsumption": 2151,
+      "hvacEfficiency": 0.82,
+      "indoorAirQuality": 57,
+      "operationalCosts": 2444,
+      "adaptationMeasures": "Energy efficient windows"
+  },
+  {
+      "year": 2007,
+      "province": "Ontario",
+      "scenario": "medium",
+      "energyConsumption": 4321,
+      "hvacEfficiency": 0.74,
+      "indoorAirQuality": 87,
+      "operationalCosts": 3195,
+      "adaptationMeasures": "Insulation improvement"
+  },
+  {
+      "year": 2006,
+      "province": "Quebec",
+      "scenario": "medium",
+      "energyConsumption": 1787,
+      "hvacEfficiency": 0.59,
+      "indoorAirQuality": 83,
+      "operationalCosts": 4245,
+      "adaptationMeasures": "Rainwater harvesting"
+  },
+  {
+      "year": 2006,
+      "province": "Manitoba",
+      "scenario": "high",
+      "energyConsumption": 1150,
+      "hvacEfficiency": 0.82,
+      "indoorAirQuality": 45,
+      "operationalCosts": 2142,
+      "adaptationMeasures": "Smart thermostats"
+  },
+  {
+      "year": 2006,
+      "province": "British Columbia",
+      "scenario": "high",
+      "energyConsumption": 3298,
+      "hvacEfficiency": 0.53,
+      "indoorAirQuality": 38,
+      "operationalCosts": 4001,
+      "adaptationMeasures": "Energy efficient windows"
+  },
+  {
+      "year": 2005,
+      "province": "Alberta",
+      "scenario": "medium",
+      "energyConsumption": 1847,
+      "hvacEfficiency": 0.59,
+      "indoorAirQuality": 67,
+      "operationalCosts": 4310,
+      "adaptationMeasures": "Green roofs"
+  },
+  {
+      "year": 2005,
+      "province": "Ontario",
+      "scenario": "high",
+      "energyConsumption": 2135,
+      "hvacEfficiency": 0.57,
+      "indoorAirQuality": 46,
+      "operationalCosts": 2140,
+      "adaptationMeasures": "Rainwater harvesting"
+  },
+  {
+      "year": 2005,
+      "province": "Nova Scotia",
+      "scenario": "high",
+      "energyConsumption": 2843,
+      "hvacEfficiency": 0.64,
+      "indoorAirQuality": 55,
+      "operationalCosts": 4971,
+      "adaptationMeasures": "Energy efficient windows"
+  },
+  {
+      "year": 2005,
+      "province": "Manitoba",
+      "scenario": "low",
+      "energyConsumption": 2553,
+      "hvacEfficiency": 0.71,
+      "indoorAirQuality": 80,
+      "operationalCosts": 3489,
+      "adaptationMeasures": "Energy efficient windows"
+  },
+  {
+      "year": 2004,
+      "province": "British Columbia",
+      "scenario": "medium",
+      "energyConsumption": 1213,
+      "hvacEfficiency": 0.77,
+      "indoorAirQuality": 41,
+      "operationalCosts": 2725,
+      "adaptationMeasures": "Solar panels installation"
+  },
+  {
+      "year": 2004,
+      "province": "Prince Edward Island",
+      "scenario": "low",
+      "energyConsumption": 1947,
+      "hvacEfficiency": 0.7,
+      "indoorAirQuality": 43,
+      "operationalCosts": 4539,
+      "adaptationMeasures": "Rainwater harvesting"
+  },
+  {
+      "year": 2004,
+      "province": "Ontario",
+      "scenario": "high",
+      "energyConsumption": 2258,
+      "hvacEfficiency": 0.74,
+      "indoorAirQuality": 41,
+      "operationalCosts": 2465,
+      "adaptationMeasures": "Green roofs"
+  },
+  {
+      "year": 2004,
+      "province": "Quebec",
+      "scenario": "medium",
+      "energyConsumption": 3170,
+      "hvacEfficiency": 0.72,
+      "indoorAirQuality": 32,
+      "operationalCosts": 3850,
+      "adaptationMeasures": "Green roofs"
+  },
+  {
+      "year": 2003,
+      "province": "Nova Scotia",
+      "scenario": "low",
+      "energyConsumption": 4494,
+      "hvacEfficiency": 0.84,
+      "indoorAirQuality": 69,
+      "operationalCosts": 2798,
+      "adaptationMeasures": "Energy efficient windows"
+  },
+  {
+      "year": 2002,
+      "province": "Quebec",
+      "scenario": "low",
+      "energyConsumption": 1652,
+      "hvacEfficiency": 0.53,
+      "indoorAirQuality": 42,
+      "operationalCosts": 2572,
+      "adaptationMeasures": "Solar panels installation"
+  },
+  {
+      "year": 2002,
+      "province": "British Columbia",
+      "scenario": "high",
+      "energyConsumption": 1094,
+      "hvacEfficiency": 0.94,
+      "indoorAirQuality": 88,
+      "operationalCosts": 4366,
+      "adaptationMeasures": "Insulation improvement"
+  },
+  {
+      "year": 2002,
+      "province": "New Brunswick",
+      "scenario": "low",
+      "energyConsumption": 2884,
+      "hvacEfficiency": 1.0,
+      "indoorAirQuality": 88,
+      "operationalCosts": 3837,
+      "adaptationMeasures": "Green roofs"
+  },
+  {
+      "year": 2002,
+      "province": "Newfoundland and Labrador",
+      "scenario": "high",
+      "energyConsumption": 3500,
+      "hvacEfficiency": 0.94,
+      "indoorAirQuality": 70,
+      "operationalCosts": 3469,
+      "adaptationMeasures": "Green roofs"
+  },
+  {
+      "year": 2002,
+      "province": "Nova Scotia",
+      "scenario": "medium",
+      "energyConsumption": 4369,
+      "hvacEfficiency": 0.65,
+      "indoorAirQuality": 88,
+      "operationalCosts": 2055,
+      "adaptationMeasures": "Rainwater harvesting"
+  },
+  {
+      "year": 2002,
+      "province": "Nova Scotia",
+      "scenario": "high",
+      "energyConsumption": 1657,
+      "hvacEfficiency": 0.71,
+      "indoorAirQuality": 92,
+      "operationalCosts": 2159,
+      "adaptationMeasures": "Energy efficient windows"
+  },
+  {
+      "year": 2002,
+      "province": "Quebec",
+      "scenario": "high",
+      "energyConsumption": 3105,
+      "hvacEfficiency": 0.92,
+      "indoorAirQuality": 81,
+      "operationalCosts": 4730,
+      "adaptationMeasures": "Solar panels installation"
+  },
+  {
+      "year": 2001,
+      "province": "Prince Edward Island",
+      "scenario": "medium",
+      "energyConsumption": 1114,
+      "hvacEfficiency": 0.65,
+      "indoorAirQuality": 31,
+      "operationalCosts": 4786,
+      "adaptationMeasures": "Energy efficient windows"
+  },
+  {
+      "year": 2000,
+      "province": "Quebec",
+      "scenario": "medium",
+      "energyConsumption": 1552,
+      "hvacEfficiency": 0.86,
+      "indoorAirQuality": 58,
+      "operationalCosts": 2391,
+      "adaptationMeasures": "Smart thermostats"
+  },
+  {
+      "year": 2000,
+      "province": "Saskatchewan",
+      "scenario": "high",
+      "energyConsumption": 1349,
+      "hvacEfficiency": 0.93,
+      "indoorAirQuality": 90,
+      "operationalCosts": 2533,
+      "adaptationMeasures": "Rainwater harvesting"
+  },
+  {
+      "year": 2000,
+      "province": "Saskatchewan",
+      "scenario": "high",
+      "energyConsumption": 4976,
+      "hvacEfficiency": 0.82,
+      "indoorAirQuality": 50,
+      "operationalCosts": 3155,
+      "adaptationMeasures": "Smart thermostats"
+  }
+]
