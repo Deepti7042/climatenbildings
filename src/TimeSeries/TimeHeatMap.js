@@ -5,7 +5,7 @@ import jsonData from './data_Data_random.json'; // Adjust the import path as nee
 
 const HeatmapTimeSeries = () => {
   const svgRef = useRef();
-  const [selectedYear, setSelectedYear] = useState();
+  const [selectedYear, setSelectedYear] = useState('2015');
   const [weatherMetric, setWeatherMetric] = useState('Temperature');
   const data = jsonData.results;
   const metrics = ['Temperature', 'Snowfall', 'Precipitation'];
@@ -92,6 +92,12 @@ const HeatmapTimeSeries = () => {
   return (
     <div>
       <div style={{ marginBottom: '20px' }}>
+      <select value={weatherMetric} onChange={e => setWeatherMetric(e.target.value)}>
+            {['Temperature', 'Snowfall', 'precipitation'].map(metric => (
+                <option key={metric} value={metric}>{metric}</option>
+            ))}
+        </select>
+        <label>   </label>
         <label>Year: </label>
         {/* <input
           type="range"
@@ -106,12 +112,6 @@ const HeatmapTimeSeries = () => {
         </datalist>
         <input type="range" min={Math.min(...uniqueYears)} max={Math.max(...uniqueYears)}
              value={selectedYear} onChange={(e) => setSelectedYear(e.target.value)} list="year-ticks" />
-        <select value={weatherMetric} onChange={e => setWeatherMetric(e.target.value)}>
-          {['Temperature', 'Snowfall', 'precipitation'].map(metric => (
-            <option key={metric} value={metric}>{metric}</option>
-          ))}
-        </select>
-
       </div>
       <svg ref={svgRef} width={960} height={600}></svg>
     </div>
