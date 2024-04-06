@@ -8,8 +8,7 @@ const HeatmapTimeSeries = () => {
   const [selectedYear, setSelectedYear] = useState('2015');
   const [weatherMetric, setWeatherMetric] = useState('Temperature');
   const data = jsonData.results;
-  const metrics = ['Temperature', 'Snowfall', 'Precipitation'];
-
+  
   // Extract unique years and sort them to use in the slider and datalist
   const uniqueYears = Array.from(new Set(data.map(d => d.year))).sort();
   // Set the initial year to the latest year in the dataset

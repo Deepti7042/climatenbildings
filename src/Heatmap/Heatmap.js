@@ -1,7 +1,5 @@
 import React, { useEffect, useRef } from 'react';
 import * as d3 from 'd3';
-import { interpolateInferno } from 'd3-scale-chromatic';
-import data from './filtered_heatmap_data.json'
 
 const HeatmapCorrelationData = ({ data }) => { // Ensure `data` is passed as a prop
   const d3Container = useRef(null);

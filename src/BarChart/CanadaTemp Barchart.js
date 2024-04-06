@@ -8,24 +8,21 @@ const BarGraph = () => {
   const [data, setData] = useState([]); // State to hold the prepared data
 
   useEffect(() => {
-    // Check if rawData is properly loaded and contains the expected structure
     if (rawData && rawData.results) {
-      // Prepare the data for the selected variable
       const preparedData = rawData.results.map(d => ({
         group: `${d.year}-${d.province_name}`, // Combining Year and Province to make each bar unique
         value: +d[variable], // Convert string to number
       }));
-      setData(preparedData); // Set the prepared data into state
+      setData(preparedData);
     }
   }, [variable]);
 
   useEffect(() => {
     if (data.length > 0 && d3Container.current) {
       const margin = { top: 30, right: 30, bottom: 150, left: 60 },
-        width = 800 - margin.left - margin.right,
-        height = 600 - margin.top - margin.bottom;
+            width = 800 - margin.left - margin.right,
+            height = 600 - margin.top - margin.bottom;
 
-      // Clear the previous SVG
       d3.select(d3Container.current).selectAll("*").remove();
 
       const svg = d3.select(d3Container.current)
@@ -34,6 +31,20 @@ const BarGraph = () => {
         .attr('height', height + margin.top + margin.bottom)
         .append('g')
         .attr('transform', `translate(${margin.left},${margin.top})`);
+
+      // Tooltip
+      const tooltip = d3.select(d3Container.current)
+        .append('div')
+        .style('opacity', 0)
+        .attr('class', 'tooltip')
+        .style('background-color', 'white')
+        .style('border', 'solid')
+        .style('border-width', '2px')
+        .style('border-radius', '5px')
+        .style('padding', '5px')
+        .style('position', 'absolute')
+        .style('z-index', '10')
+        .style('pointer-events', 'none'); // Ensure the tooltip does not interfere with mouse events
 
       // X axis
       const x = d3.scaleBand()
@@ -63,7 +74,16 @@ const BarGraph = () => {
         .attr('y', d => y(d.value))
         .attr('width', x.bandwidth())
         .attr('height', d => height - y(d.value))
-        .attr('fill', '#69b3a2');
+        .attr('fill', '#69b3a2')
+        .on('mouseover', function(event, d) {
+          tooltip.style('opacity', 1);
+          tooltip.html(`Group: ${d.group} <br> Value: ${d.value}`)
+                 .style('left', `${event.pageX}px`)
+                 .style('top', `${event.pageY - 28}px`);
+        })
+        .on('mouseout', function() {
+          tooltip.style('opacity', 0);
+        });
     }
   }, [data]); // Redraw the graph when data changes
 

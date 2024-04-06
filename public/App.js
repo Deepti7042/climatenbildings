@@ -6,6 +6,7 @@ import BarGraph from './BarChart/CanadaTemp Barchart';
 import LineChartWithDropdown from './LineChart/LineChart';
 import sampleData from './LineChart/canada_energy_data.json';
 import HeatmapTimeSeries from './TimeSeries/TimeHeatMap';
+import CirclePackChart from './CircleParkChart/CirclePackChart';
 import CirclePackChartIframe from './htmlCodeFile';
 
 function App() {
@@ -13,7 +14,7 @@ function App() {
     <div className="App">
       <h1 className="main-heading">Dashboard - Climate Data Visualization for Building Adaptation</h1>
       <div className="centered-component">
-        <h2>Circle Pack Chart- Energy Consumption Trends in Canada Cities</h2>
+        <h2>Circle Pack Chart</h2>
         <CirclePackChartIframe/>
       </div>
       <div className="centered-component">
@@ -23,7 +24,7 @@ function App() {
       <hr/>
       <div className="centered-component">
         <h2>Canada Map</h2>
-        <CanadaMap/>
+        {/* <CanadaMap/> */}
       </div>
       <hr/>
       <div className="centered-component">

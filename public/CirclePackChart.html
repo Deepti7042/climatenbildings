@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Zoomable Circle Packing</title>
+  <style>
+    .container {
+        display: flex; /* This makes it a flex container */
+        align-items: center; /* This vertically centers the items in the container */
+        justify-content: space-around; /* This spaces out the children elements */
+    }
+    .node {
+      cursor: pointer;
+    }
+    .node:hover {
+      stroke: #000;
+      stroke-width: 1.5px;
+    }
+    .node--leaf {
+      fill: white;
+    }
+    .label {
+      font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+      text-anchor: middle;
+    }
+    .label:hover {
+      fill: #000;
+    }
+    #info {
+      position: relative;
+      top: 0;
+      right: 20px;
+      color: #333;
+      background: rgba(255, 255, 255, 0.8);
+      border-radius: 8px;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      opacity: 0; /* Start hidden, will be made visible on hover */
+      transition: opacity 0.3s;
+      margin-top: 10px;
+      font-size: 1em;
+      margin-right: 20px;
+      margin-bottom: 30px;
+      width: max-content;
+    }
+
+  </style>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+</head>
+<body>
+  <svg width="460" height="460"></svg>
+  <div id="info" ></div>
+  <script>
+
+    var svg = d3.select("svg"),
+        margin = 20,
+        diameter = +svg.attr("width"),
+        g = svg.append("g").attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
+
+    var color = d3.scaleLinear()
+        .domain([-1, 5])
+        .range(["#b2719d", "black", "#7b6888", "#6b486b"])
+        .interpolate(d3.interpolateHcl);
+
+    var pack = d3.pack()
+        .size([diameter - margin, diameter - margin])
+        .padding(2);
+
+    d3.json("flare.json", function(error, root) {
+      if (error) throw error;
+
+      root = d3.hierarchy(root)
+          .sum(function(d) {
+            // Use the sum of heating and cooling for leaves, and just the value for group nodes
+            return d.AverageHeatingConsumption ? d.AverageHeatingConsumption + d.AverageCoolingConsumption : d.AverageMaintenanceCosts;
+          })
+          .sort(function(a, b) { return b.value - a.value; });
+
+      var focus = root,
+          nodes = pack(root).descendants(),
+          view;
+
+          var circle = g.selectAll("circle")
+            .data(nodes)
+            .enter().append("circle")
+              .attr("class", function(d) { return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; })
+              .style("fill", function(d) { return d.children ? color(d.depth) : null; })
+              .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); })
+              .on("mouseover", function(d) {
+                // Show the province, city, and values when hovering
+                d3.select("#info").html(
+                  "<strong>Province/City:</strong> " + d.data.name + "<br>" +
+                  (d.data.AverageHeatingConsumption ? ("<strong>Heating Consumption:</strong> " + d.data.AverageHeatingConsumption + "<br>") : "") +
+                  (d.data.AverageCoolingConsumption ? ("<strong>Cooling Consumption:</strong> " + d.data.AverageCoolingConsumption + "<br>") : "") +
+                  (d.data.AverageMaintenanceCosts ? ("<strong>Maintenance Costs:</strong> " + d.data.AverageMaintenanceCosts) : "")
+                ).style("opacity", 1);
+              })
+              .on("mouseout", function(d) {
+                // Hide the info when not hovering
+                d3.select("#info").style("opacity", 0);
+              });
+
+
+            var text = g.selectAll("text")
+                .data(nodes)
+                .enter().append("text")
+                  .attr("class", "label")
+                  .style("fill-opacity", function(d) { return d.parent === root ? 1 : 0; })
+                  .style("display", function(d) { return d.parent === root ? "inline" : "none"; })
+                  .text(function(d) { return d.children ? d.data.name : ""; }); // Only show text for nodes with children
+
+
+      var node = g.selectAll("circle,text");
+
+      svg
+          .style("background", color(-1))
+          .on("click", function() { zoom(root); });
+
+      zoomTo([root.x, root.y, root.r * 2 + margin]);
+
+      function zoom(d) {
+        var focus0 = focus; focus = d;
+
+        var transition = d3.transition()
+            .duration(d3.event.altKey ? 7500 : 750)
+            .tween("zoom", function(d) {
+              var i = d3.interpolateZoom(view, [focus.x, focus.y, focus.r * 2 + margin]);
+              return function(t) { zoomTo(i(t)); };
+            });
+
+            transition.selectAll("text")
+          .style("fill-opacity", 0) // Hide all text first
+          .on("start", function(d) { 
+            if (d.parent === focus || d === focus) this.style.display = "inline"; 
+          })
+          .on("end", function(d) { 
+            if (d.parent !== focus && d !== focus) this.style.display = "none"; 
+            else this.style.fillOpacity = 1;
+          });
+      }
+      function zoomTo(v) {
+        var k = diameter / v[2]; view = v;
+        node.attr("transform", d => `translate(${(d.x - v[0]) * k},${(d.y - v[1]) * k})`);
+        circle.attr("r", d => d.r * k);
+      }
+    });
+
+  </script>
+</body>
+</html>

@@ -1,6 +1,5 @@
 import React from 'react';
 import { MapContainer, TileLayer, Circle, Popup } from 'react-leaflet';
-import canadaMap from './Canada-provinces.json'; // Update path accordingly
 import climateData from './climate_data.json'; // Update path accordingly
 import 'leaflet/dist/leaflet.css'; // Import Leaflet CSS
 import './CanadaMap.css'; // Ensure you have styles for .tooltip
