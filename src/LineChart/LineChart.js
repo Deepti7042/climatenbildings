@@ -85,11 +85,26 @@ const LineChartWithDropdown = ({ data }) => {
 
   return (
     <>
-      <select onChange={(e) => setScenario(e.target.value)}>
-        <option value="low">Low</option>
-        <option value="medium">Medium</option>
-        <option value="high">High</option>
+      <select
+          onChange={(e) => setScenario(e.target.value)}
+          style={{
+            padding: '10px 20px', // Makes the dropdown bigger and easier to click
+            fontSize: '16px', // Increases the font size for better readability
+            backgroundColor: '#f0f0f0', // A light grey background for a modern look
+            borderColor: '#ccc', // Light grey border
+            borderRadius: '5px', // Rounded corners for a softer look
+            boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)', // Subtle shadow for depth
+            cursor: 'pointer', // Changes the cursor to indicate it's clickable
+            outline: 'none', // Removes the outline to avoid distraction
+            margin: '10px', // Adds some space around the dropdown
+            width: 'auto', // Adjust width as needed, 'auto' for content-based size
+          }}
+        >
+          <option value="low">Low Greenhouse Gas Emission</option>
+          <option value="medium">Medium Greenhouse Gas Emission</option>
+          <option value="high">High Greenhouse Gas Emission</option>
       </select>
+
       <div ref={d3Container}></div>
       <div ref={tooltipRef} className="tooltip" style={{ position: 'absolute', opacity: 0, backgroundColor: 'white', border: 'solid 1px black', padding: '5px', borderRadius: '5px', pointerEvents: 'none', zIndex: 1 }}></div>
     </>

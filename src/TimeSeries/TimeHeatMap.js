@@ -91,13 +91,24 @@ const HeatmapTimeSeries = () => {
   return (
     <div>
       <div style={{ marginBottom: '20px' }}>
-      <select value={weatherMetric} onChange={e => setWeatherMetric(e.target.value)}>
+      <select value={weatherMetric} onChange={e => setWeatherMetric(e.target.value)} style={{
+          padding: '10px 20px', // Makes the dropdown bigger and easier to click
+          fontSize: '16px', // Increases the font size for better readability
+          backgroundColor: '#f0f0f0', // A light grey background for a modern look
+          borderColor: '#ccc', // Light grey border
+          borderRadius: '5px', // Rounded corners for a softer look
+          boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)', // Subtle shadow for depth
+          cursor: 'pointer', // Changes the cursor to indicate it's clickable
+          outline: 'none', // Removes the outline to avoid distraction
+          margin: '10px', // Adds some space around the dropdown
+          width: 'auto', // Adjust width as needed, 'auto' for content-based size
+        }} >
             {['Temperature', 'Snowfall', 'precipitation'].map(metric => (
                 <option key={metric} value={metric}>{metric}</option>
             ))}
         </select>
         <label>   </label>
-        <label>Year: </label>
+        <label style = {{fontSize: '1.5em'}}>Year: </label>
         {/* <input
           type="range"
           min={uniqueYears[0]}
@@ -106,11 +117,20 @@ const HeatmapTimeSeries = () => {
           onChange={e => setSelectedYear(parseInt(e.target.value))}
           list="year-ticks"
         /> */}
-        <datalist id="year-ticks">
+        <datalist id="year-ticks" style = {{fontSize: '1.5em', textDecoration: 'Bold'}}>
           {uniqueYears.map(year => <option key={year} value={year} />)}
         </datalist>
         <input type="range" min={Math.min(...uniqueYears)} max={Math.max(...uniqueYears)}
-             value={selectedYear} onChange={(e) => setSelectedYear(e.target.value)} list="year-ticks" />
+             value={selectedYear} onChange={(e) => setSelectedYear(e.target.value)} list="year-ticks"  
+             style={{
+              width: '50%', // Makes the slider take the full width of its container
+              height: '25px', // Increases the height of the slider for better usability
+              background: '#f0f0f0', // Changes the background color of the slider
+              cursor: 'pointer', // Changes the cursor to indicate it's adjustable
+              outline: 'none', // Removes the outline to make it blend better with the design
+              marginTop: '20px', // Adds space above the slider
+              marginBottom: '20px', // Adds space below the slider
+            }} />
       </div>
       <svg ref={svgRef} width={960} height={600}></svg>
     </div>

@@ -7,7 +7,7 @@ function CirclePackChartIframe() {
   // Optional: Styles for the iframe
   const iframeStyle = {
     width: '100%', // Example width
-    height: '600px', // Example height, adjust as needed
+    height: '1000px', // Example height, adjust as needed
     border: 'none' // Removing the default iframe border
   };
 

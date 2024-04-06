@@ -6,18 +6,60 @@
   border: 2px solid #000; /* Add border around the page */
   padding: 20px;
   box-sizing: border-box; /* Ensures padding does not add to the width */
+  background-image: url("image.png");
+  background-size: cover; /* Cover the entire page */
+  background-position: center;
+}
+
+.outer-container {
+  border: 2px solid #333; /* Example solid border */
+  padding: 20px; /* Add some inner spacing */
+  border-radius: 8px; /* Optional: if you want rounded corners */
+  background-color: #f9f9f982; /* Optional: background color */
 }
 
 .main-heading {
   margin-bottom: 20px;
 }
 
+.flex-container {
+  display: flex;
+  justify-content: space-around; /* Space out the children equally */
+  flex-wrap: wrap; /* Allow the items to wrap as needed */
+  gap: 15px; /* Add space between the flex items */
+}
+
+.centered-component.outer-container {
+  flex: 1; /* Allow the components to grow and fill the space */
+  min-width: 700px; /* Minimum width before wrapping */
+  /* Your existing styles for centered-component and outer-container */
+}
+
 .centered-component {
-  width: 100%; /* Adjust this as necessary */
+  width: max-content; /* Adjust this as necessary */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center the headings and components vertically */
+}
+
+.centered-component2 {
+  width: 90%; /* Adjust this as necessary */
   display: flex;
   flex-direction: column;
   align-items: center; /* Center the headings and components vertically */
   margin: 20px 0;
+}
+
+.centered-component3 {
+  width: 45%; /* Adjust this as necessary */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center the headings and components vertically */
+  margin: 20px 0;
+}
+
+.h1{
+  color: white;
 }
 
 hr {

@@ -11,34 +11,42 @@ import CirclePackChartIframe from './htmlCodeFile';
 function App() {
   return (
     <div className="App">
-      <h1 className="main-heading">Dashboard - Climate Data Visualization for Building Adaptation</h1>
-      <div className="centered-component">
-        <h2>Circle Pack Chart- Energy Consumption Trends in Canada Cities</h2>
-        <CirclePackChartIframe/>
-      </div>
-      <div className="centered-component">
-        <h2>Bar Graph</h2>
-        <BarGraph/>
-      </div>
+      <h1 className="main-heading" style = {{color: 'white'}}>Dashboard - Climate Data Visualization And Building Adaptation In Canada</h1>
+
       <hr/>
-      <div className="centered-component">
-        <h2>Canada Map</h2>
+      <div className="centered-component2 outer-container">
+        <h2 style = {{color: 'white'}}>World Map Displaying Weather Detail of Cities in Canada</h2>
         <CanadaMap/>
       </div>
+
+      
       <hr/>
-      <div className="centered-component">
-        <h2>Heatmap Correlation Data</h2>
-        <HeatmapCorrelationData data={data}/>
+      <div className="flex-container">
+        <div className="centered-component3 outer-container">
+          <h2 style = {{color: 'white'}}>Displaying Weather Details in Various Province of Canada for Several Years</h2>
+          <BarGraph/>
+        </div>
+        <div className="centered-component outer-container">
+          <h2 style = {{color: 'white'}}>Displaying Building Internal Data during Various Weather Scenarios</h2>
+          <LineChartWithDropdown data={sampleData} />
+        </div>
       </div>
       <hr/>
-      <div className="centered-component">
-        <h2>Line Chart With Dropdown</h2>
-        <LineChartWithDropdown data={sampleData} />
+      <div className="flex-container">
+       
+        <div className="centered-component3 outer-container">
+          <h2 style = {{color: 'white'}}>Displaying Correlation between various Weather and Infrastructure Factors</h2>
+          <HeatmapCorrelationData data={data}/>
+        </div>
+        <div className="centered-component outer-container">
+          <h2 style = {{color: 'white'}}>Displaying Weather Details During A Range of Years</h2>
+          <HeatmapTimeSeries/>
       </div>
-      <hr/>
-      <div className="centered-component">
-        <h2>Heatmap Time Series</h2>
-        <HeatmapTimeSeries/>
+    </div>
+    <hr/>
+    <div className="centered-component2 outer-container">
+        <h2 style = {{color: 'white'}}>Circle Pack Chart- Energy Consumption Trends in Canada Cities (ZoomIn / ZoomOut) </h2>
+        <CirclePackChartIframe/>
       </div>
     </div>
   );

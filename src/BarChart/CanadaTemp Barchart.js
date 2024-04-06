@@ -89,9 +89,45 @@ const BarGraph = () => {
 
   return (
     <div>
-      <button onClick={() => setVariable('Temperature')}>Temperature</button>
-      <button onClick={() => setVariable('Snowfall')}>Snowfall</button>
-      <button onClick={() => setVariable('precipitation')}>Precipitation</button>
+      <button onClick={() => setVariable('Temperature')}
+      style={{
+        padding: '10px 20px', // Makes the button bigger
+        fontSize: '16px', // Increases the font size for better readability
+        backgroundColor: 'Black', // A green background for a positive action
+        color: 'white', // Text color
+        border: 'none', // Removes the default border
+        borderRadius: '5px', // Rounded corners for a modern look
+        cursor: 'pointer', // Changes the cursor to indicate it's clickable
+        margin: '5px', // Adds some space around the button
+        transition: 'background-color 0.3s', // Smooth transition for hover effect
+      }}>
+        Temperature</button>
+      <button onClick={() => setVariable('Snowfall')}
+      style={{
+        padding: '10px 20px', // Makes the button bigger
+        fontSize: '16px', // Increases the font size for better readability
+        backgroundColor: 'Black', // A green background for a positive action
+        color: 'white', // Text color
+        border: 'none', // Removes the default border
+        borderRadius: '5px', // Rounded corners for a modern look
+        cursor: 'pointer', // Changes the cursor to indicate it's clickable
+        margin: '5px', // Adds some space around the button
+        transition: 'background-color 0.3s', // Smooth transition for hover effect
+      }}>
+       Snowfall</button>
+      <button onClick={() => setVariable('precipitation')}
+      style={{
+        padding: '10px 20px', // Makes the button bigger
+        fontSize: '16px', // Increases the font size for better readability
+        backgroundColor: 'Black', // A green background for a positive action
+        color: 'white', // Text color
+        border: 'none', // Removes the default border
+        borderRadius: '5px', // Rounded corners for a modern look
+        cursor: 'pointer', // Changes the cursor to indicate it's clickable
+        margin: '5px', // Adds some space around the button
+        transition: 'background-color 0.3s', // Smooth transition for hover effect
+      }}>
+      Precipitation</button>
       <div id="my_dataviz" ref={d3Container}></div>
     </div>
   );
