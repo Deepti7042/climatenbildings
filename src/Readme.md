@@ -37,8 +37,14 @@ This project is a React application that visualizes various aspects of climate d
    ```
 2. Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
 
+### References
+[1] React, "Tutorial: Intro to React," React documentation. [Online]. Available: https://legacy.reactjs.org/tutorial/tutorial.html. [Accessed: 1-April-2024].
+[2] M. Bostock, "D3 Gallery," Observable. [Online]. Available: https://observablehq.com/@d3/gallery. [Accessed: 1-April-2024]
+[3] MUI, "Material-UI: A popular React UI framework," MUI. [Online]. Available: https://mui.com/material-ui/. [Accessed: 1-April-2024]
 
-## License
+
+
+## Submission
 
 This project is developed by :
 Name - Deepti Tuteja
