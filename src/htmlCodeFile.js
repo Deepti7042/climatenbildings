@@ -1,3 +1,4 @@
+import { svgOverlay } from 'leaflet';
 import React from 'react';
 
 function CirclePackChartIframe() {

@@ -1,104 +1,60 @@
+.content-container {
+  width: 90%;
+  margin: 20px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers content horizontally in flex containers */
+}
+
+/* Ensure outer-container also centers its children */
+.outer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* This will center the .content-container divs */
+  border: 2px solid #333;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: white;
+  width: 80%;
+  max-width: 1200px;
+  margin: 20px auto; /* Centers the container itself */
+}
+
 .App {
   display: flex;
   flex-direction: column;
   align-items: center;
   width: 100%;
-  border: 2px solid #000; /* Add border around the page */
   padding: 20px;
-  box-sizing: border-box; /* Ensures padding does not add to the width */
+  box-sizing: border-box;
   background-image: url("image.png");
-  background-size: cover; /* Cover the entire page */
+  background-size: cover;
   background-position: center;
 }
 
-.outer-container {
-  border: 2px solid #333; /* Example solid border */
-  padding: 20px; /* Add some inner spacing */
-  border-radius: 8px; /* Optional: if you want rounded corners */
-  background-color: #f9f9f982; /* Optional: background color */
-}
-
 .main-heading {
+  color: white;
   margin-bottom: 20px;
 }
 
-.flex-container {
-  display: flex;
-  justify-content: space-around; /* Space out the children equally */
-  flex-wrap: wrap; /* Allow the items to wrap as needed */
-  gap: 15px; /* Add space between the flex items */
-}
-
-.centered-component.outer-container {
-  flex: 1; /* Allow the components to grow and fill the space */
-  min-width: 700px; /* Minimum width before wrapping */
-  /* Your existing styles for centered-component and outer-container */
-}
-
-.centered-component {
-  width: max-content; /* Adjust this as necessary */
-  display: flex;
-  flex-direction: column;
-  align-items: center; /* Center the headings and components vertically */
-}
-
-.centered-component2 {
-  width: 90%; /* Adjust this as necessary */
-  display: flex;
-  flex-direction: column;
-  align-items: center; /* Center the headings and components vertically */
-  margin: 20px 0;
-}
-
-.centered-component3 {
-  width: 45%; /* Adjust this as necessary */
-  display: flex;
-  flex-direction: column;
-  align-items: center; /* Center the headings and components vertically */
-  margin: 20px 0;
-}
-
-.h1{
-  color: white;
-}
-
 hr {
-  width: 80%; /* Adjust the width of the line as needed */
+  width: 80%;
   border-top: 1px solid #ccc;
 }
 
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+@media screen and (max-width: 768px) {
+  .content-container, .outer-container {
+    width: 100%; /* Adjust width for smaller screens */
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media screen and (max-width: 480px) {
+  .outer-container {
+    padding: 10px;
+    margin: 10px 0;
   }
-  to {
-    transform: rotate(360deg);
+
+  hr {
+    width: 95%;
   }
 }

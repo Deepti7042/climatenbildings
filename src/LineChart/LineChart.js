@@ -65,7 +65,7 @@ const LineChartWithDropdown = ({ data }) => {
           .attr('y', yScale(lastDataPoint[key]))
           .attr('dy', '.35em')
           .attr('text-anchor', 'end')
-          .style('fill', 'white')
+          .style('fill', 'black')
           .style('font-family', 'sans-serif')
           .style('font-size', '1em')
           .text(key);
