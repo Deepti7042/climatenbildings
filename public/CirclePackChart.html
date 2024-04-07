@@ -112,9 +112,9 @@
                 // Show the province, city, and values when hovering
                 d3.select("#info").html(
                   "<strong>Province/City:</strong> " + d.data.name + "<br>" +
-                  (d.data.AverageHeatingConsumption ? ("<strong>Heating Consumption:</strong> " + d.data.AverageHeatingConsumption + "<br>") : "") +
-                  (d.data.AverageCoolingConsumption ? ("<strong>Cooling Consumption:</strong> " + d.data.AverageCoolingConsumption + "<br>") : "") +
-                  (d.data.AverageMaintenanceCosts ? ("<strong>Maintenance Costs:</strong> " + d.data.AverageMaintenanceCosts) : "")
+                  (d.data.AverageHeatingConsumption ? ("<strong>Heating Consumption:</strong> " + d.data.AverageHeatingConsumption + " kWh <br>") : "") +
+                  (d.data.AverageCoolingConsumption ? ("<strong>Cooling Consumption:</strong> " + d.data.AverageCoolingConsumption + " kWh<br>") : "") +
+                  (d.data.AverageMaintenanceCosts ? ("<strong>Maintenance Costs:</strong> " +" $"+ d.data.AverageMaintenanceCosts) : "")
                 ).style("opacity", 1);
               })
               .on("mouseout", function(d) {

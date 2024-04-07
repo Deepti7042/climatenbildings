@@ -10,7 +10,7 @@ const BarGraph = () => {
   useEffect(() => {
     if (rawData && rawData.results) {
       const preparedData = rawData.results.map(d => ({
-        group: `${d.year}-${d.province_name}`, // Combining Year and Province to make each bar unique
+        group: `${d.province_name}`, // Combining Year and Province to make each bar unique
         value: +d[variable], // Convert string to number
       }));
       setData(preparedData);

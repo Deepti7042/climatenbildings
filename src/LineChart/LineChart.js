@@ -3,12 +3,12 @@ import * as d3 from 'd3';
 
 const LineChartWithDropdown = ({ data }) => {
   const d3Container = useRef(null);
-  const tooltipRef = useRef(null); // Ref for the tooltip
+  const tooltipRef = useRef(null);
   const [scenario, setScenario] = useState('low');
 
   useEffect(() => {
     if (data && d3Container.current) {
-      const margin = { top: 20, right: 20, bottom: 70, left: 90 },
+      const margin = { top: 20, right: 40, bottom: 70, left: 90 },
             width = 960 - margin.left - margin.right,
             height = 500 - margin.top - margin.bottom;
 
@@ -33,13 +33,12 @@ const LineChartWithDropdown = ({ data }) => {
         .range([height, 0]);
 
       svg.append('g')
-        .attr('transform', `translate(0, ${height})`)
+        .attr('transform', `translate(0,${height})`)
         .call(d3.axisBottom(xScale).tickFormat(d3.format("d")));
 
       svg.append('g')
         .call(d3.axisLeft(yScale));
 
-      // Prepare the line generators
       const lineGenerator = key => d3.line()
         .x(d => xScale(d.year))
         .y(d => yScale(d[key]));
@@ -47,7 +46,7 @@ const LineChartWithDropdown = ({ data }) => {
       const keys = ['energyConsumption', 'hvacEfficiency', 'indoorAirQuality'];
       const color = d3.scaleOrdinal().domain(keys).range(['#ff7f0e', '#2ca02c', '#17becf']);
 
-      keys.forEach((key, index) => {
+      keys.forEach(key => {
         svg.append("path")
           .datum(filteredData)
           .attr("fill", "none")
@@ -56,10 +55,25 @@ const LineChartWithDropdown = ({ data }) => {
           .attr("d", lineGenerator(key));
       });
 
-      // Tooltip functionality
+      // Add labels
+      keys.forEach(key => {
+        const lastDataPoint = filteredData[filteredData.length - 1];
+
+        svg.append('text')
+          .attr('class', 'label')
+          .attr('x', width)
+          .attr('y', yScale(lastDataPoint[key]))
+          .attr('dy', '.35em')
+          .attr('text-anchor', 'end')
+          .style('fill', 'white')
+          .style('font-family', 'sans-serif')
+          .style('font-size', '1em')
+          .text(key);
+      });
+
+      // Tooltip
       const tooltip = d3.select(tooltipRef.current);
       svg.append('rect')
-        .attr('class', 'overlay')
         .attr('width', width)
         .attr('height', height)
         .style('opacity', 0)
@@ -86,23 +100,23 @@ const LineChartWithDropdown = ({ data }) => {
   return (
     <>
       <select
-          onChange={(e) => setScenario(e.target.value)}
-          style={{
-            padding: '10px 20px', // Makes the dropdown bigger and easier to click
-            fontSize: '16px', // Increases the font size for better readability
-            backgroundColor: '#f0f0f0', // A light grey background for a modern look
-            borderColor: '#ccc', // Light grey border
-            borderRadius: '5px', // Rounded corners for a softer look
-            boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)', // Subtle shadow for depth
-            cursor: 'pointer', // Changes the cursor to indicate it's clickable
-            outline: 'none', // Removes the outline to avoid distraction
-            margin: '10px', // Adds some space around the dropdown
-            width: 'auto', // Adjust width as needed, 'auto' for content-based size
-          }}
-        >
-          <option value="low">Low Greenhouse Gas Emission</option>
-          <option value="medium">Medium Greenhouse Gas Emission</option>
-          <option value="high">High Greenhouse Gas Emission</option>
+        onChange={(e) => setScenario(e.target.value)}
+        style={{
+          padding: '10px 20px',
+          fontSize: '16px',
+          backgroundColor: '#f0f0f0',
+          borderColor: '#ccc',
+          borderRadius: '5px',
+          boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)',
+          cursor: 'pointer',
+          outline: 'none',
+          margin: '10px',
+          width: 'auto',
+        }}
+      >
+        <option value="low">Low Greenhouse Gas Emission</option>
+        <option value="medium">Medium Greenhouse Gas Emission</option>
+        <option value="high">High Greenhouse Gas Emission</option>
       </select>
 
       <div ref={d3Container}></div>
